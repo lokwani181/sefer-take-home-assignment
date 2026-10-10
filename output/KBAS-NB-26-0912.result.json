@@ -1,0 +1,3106 @@
+{
+  "shipmentId": "c667e1cf-9c66-4186-a072-923cd66cab8c",
+  "createdAt": "2026-10-10T10:23:55.329Z",
+  "documents": [
+    {
+      "docId": "doc-d075d076bca1",
+      "fileName": "BMLVHCM26090418_House_BL.pdf",
+      "docType": "bill_of_lading",
+      "source": "ocr",
+      "pageCount": 1,
+      "classificationScore": 0.93
+    },
+    {
+      "docId": "doc-8da4ffda2019",
+      "fileName": "KBAS-NB-26-0912_Commercial_Invoice.pdf",
+      "docType": "commercial_invoice",
+      "source": "text",
+      "pageCount": 2,
+      "classificationScore": 1
+    },
+    {
+      "docId": "doc-c2404938fa7f",
+      "fileName": "SPG-PL-2609-117_Packing_List.pdf",
+      "docType": "packing_list",
+      "source": "ocr",
+      "pageCount": 1,
+      "classificationScore": 1
+    }
+  ],
+  "extracted": [
+    {
+      "docId": "doc-d075d076bca1",
+      "fileName": "BMLVHCM26090418_House_BL.pdf",
+      "docType": "bill_of_lading",
+      "classificationScore": 0.93,
+      "source": "ocr",
+      "pageCount": 1,
+      "data": {
+        "kind": "bill_of_lading",
+        "blType": "house",
+        "blNumber": "BMLVHCM26090418",
+        "exportReferences": [
+          "INV KBAS/NB/26-0912",
+          "PO NB-26-0918"
+        ],
+        "containers": [
+          {
+            "number": "OPLU3041722",
+            "checkDigitValid": true,
+            "sealNumbers": [
+              "OPL7731482"
+            ],
+            "sizeType": "20GP",
+            "candidates": [
+              {
+                "number": "OPLU3641728",
+                "checkDigitValid": false,
+                "source": "strikethrough"
+              },
+              {
+                "number": "OPLU3041722",
+                "checkDigitValid": true,
+                "source": "handwritten"
+              }
+            ]
+          }
+        ],
+        "cargoDescription": [
+          "1 X 20'GP CONTAINER S.T.C.:",
+          "138 CARTONS OF",
+          "WEARING APPAREL - MEN'S AND",
+          "LADIES' KNIT AND WOVEN GARMENTS",
+          "(T-SHIRTS, HOODIES, TROUSERS,",
+          "BLOUSES, POLO SAMPLES)"
+        ],
+        "hsCodes": [
+          "6109.10",
+          "6110.20",
+          "6203.42",
+          "6206.40",
+          "6106.10"
+        ],
+        "charges": [
+          {
+            "description": "OCEAN FREIGHT",
+            "terms": "prepaid"
+          },
+          {
+            "description": "THC ORIGIN",
+            "terms": "prepaid"
+          },
+          {
+            "description": "DESTINATION CHGS",
+            "terms": "collect"
+          }
+        ],
+        "issuerName": "BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD.",
+        "issuerScac": "BMLV",
+        "masterBlNumber": "OPLUSGN260917735",
+        "carrierName": "ORIENT PACIFIC LINES",
+        "carrierScac": "OPLU",
+        "bookingNumber": "BMLHCM2609-0377",
+        "shipper": {
+          "name": "SAIGON PHOENIX GARMENT JSC",
+          "lines": [
+            "LOT C7-C8, ROAD NO. 9, SONG THAN 2 IP"
+          ],
+          "raw": "SAIGON PHOENIX GARMENT JSC\nLOT C7-C8, ROAD NO. 9, SONG THAN 2 IP\nDI AN CITY, BINH DUONG, VIETNAM\n0/B KOWLOON BAY APPAREL SOURCING LTD\nKWUN TONG, KOWLOON, HONG KONG",
+          "city": "DI AN CITY",
+          "stateProvince": "BINH DUONG",
+          "country": "VN"
+        },
+        "consignee": {
+          "name": "CASCADE FULFILLMENT PARTNERS LLC",
+          "lines": [
+            "21820 76TH AVENUE SOUTH, DOCK 4"
+          ],
+          "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76TH AVENUE SOUTH, DOCK 4\nKENT, WA 98032, USA\nATTN: RECEIVING TEL: +1 253 555 0193",
+          "contact": "RECEIVING",
+          "phone": "+1 253 555 0193",
+          "city": "KENT",
+          "stateProvince": "WA",
+          "postalCode": "98032",
+          "country": "US"
+        },
+        "notifyParty": {
+          "name": "NORTHBOUND OUTFITTERS",
+          "lines": [
+            "2150 NW RALEIGH ST, SU\\TE 300"
+          ],
+          "raw": "NORTHBOUND OUTFITTERS,\n2150 NW RALEIGH ST, SU\\TE 300\nPORTLAND, OR 97210,\nTEL: +1 503 555 0148 ATTN: M. HOLT",
+          "contact": "M. HOLT",
+          "phone": "+1 503 555 0148",
+          "city": "PORTLAND",
+          "stateProvince": "OR",
+          "postalCode": "97210",
+          "country": "US"
+        },
+        "alsoNotify": "CUSTOMS BROKER (TBA)",
+        "vessel": "PACIFIC ARGOS",
+        "voyage": "041E",
+        "preCarriage": "TRUCK",
+        "placeOfReceipt": "SONG THAN, BINH DUONG",
+        "portOfLoading": "CAT LAI, HCMC, VN",
+        "portOfDischarge": "TACOMA, WA, USA",
+        "placeOfDelivery": "KENT, WA (DOOR)",
+        "finalDestination": "KENT, WA, USA",
+        "moveType": "CFS / DOOR",
+        "onBoardDate": "2026-09-24",
+        "issueDate": "2026-09-24",
+        "issuePlace": "HO CHI MINH CITY",
+        "packages": {
+          "count": 138,
+          "unit": "CARTONS"
+        },
+        "grossWeightKg": 1930,
+        "volumeCbm": 13.58,
+        "freightTerms": "FREIGHT PREPAID",
+        "releaseType": "telex",
+        "originalsCount": 3,
+        "amsFiledBy": "BLUE MERIDIAN",
+        "isfFiledBy": "IMPORTER/AGENT",
+        "countryOfOrigin": "VN"
+      },
+      "fieldMeta": {
+        "blNumber": {
+          "conf": 89,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "BMLVHCM26090418",
+            "bbox": [
+              1295,
+              445,
+              1633,
+              498
+            ]
+          }
+        },
+        "voyage": {
+          "conf": 39,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "041E",
+            "bbox": [
+              1504,
+              1240,
+              1574,
+              1266
+            ]
+          }
+        },
+        "containers[0].number": {
+          "conf": 40,
+          "repaired": true,
+          "originalText": "OPKUL 304/72 2",
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "OPKUL 304/72 2",
+            "bbox": [
+              132,
+              1613,
+              422,
+              1657
+            ]
+          }
+        },
+        "volumeCbm": {
+          "conf": 70,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "13.580",
+            "bbox": [
+              2076,
+              1573,
+              2186,
+              1601
+            ]
+          }
+        },
+        "hsCodes[0]": {
+          "conf": 79,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "6109.10",
+            "bbox": [
+              933,
+              1847,
+              1053,
+              1873
+            ]
+          }
+        },
+        "hsCodes[1]": {
+          "conf": 86,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "6110.20",
+            "bbox": [
+              1106,
+              1846,
+              1226,
+              1872
+            ]
+          }
+        },
+        "hsCodes[2]": {
+          "conf": 87,
+          "evidence": {
+            "docId": "doc-d075d076bca1",
+            "page": 1,
+            "text": "6203.42",
+            "bbox": [
+              1279,
+              1811,
+              1399,
+              1873
+            ]
+          }
+        }
+      },
+      "observations": [
+        {
+          "kind": "stamp",
+          "text": "TELEX RELEASED",
+          "page": 1
+        },
+        {
+          "kind": "stamp",
+          "text": "ORIGINALS SURRENDERED AT ORIGEN",
+          "page": 1
+        },
+        {
+          "kind": "stamp",
+          "text": "25-SEP-2026 BML-HCM",
+          "page": 1
+        },
+        {
+          "kind": "stamp",
+          "text": "SHIPPED ON ROAR D",
+          "page": 1
+        },
+        {
+          "kind": "stamp",
+          "text": "DATE 24 SE” 2N26",
+          "page": 1
+        },
+        {
+          "kind": "strikethrough",
+          "text": "Typed container number read as OPLU3641728 appears crossed out (fails ISO 6346 check digit).",
+          "field": "containers[0].number"
+        },
+        {
+          "kind": "handwritten",
+          "text": "Handwritten container number \"OPKUL 304/72 2\" read as OPLU3041722 (\"304/722\" read as digits 3041722; owner code \"OPKUL\" replaced by OPLU seen elsewhere on the page); passes ISO 6346 check digit.",
+          "field": "containers[0].number"
+        },
+        {
+          "kind": "low_confidence",
+          "text": "Measurement header not read; 13.580 taken from the column right of the gross weight (standard B/L layout).",
+          "field": "volumeCbm"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "docId": "doc-8da4ffda2019",
+      "fileName": "KBAS-NB-26-0912_Commercial_Invoice.pdf",
+      "docType": "commercial_invoice",
+      "classificationScore": 1,
+      "source": "text",
+      "pageCount": 2,
+      "data": {
+        "kind": "commercial_invoice",
+        "invoiceNumber": "KBAS/NB/26-0912",
+        "poNumbers": [
+          "NB-26-0918"
+        ],
+        "lines": [
+          {
+            "lineNo": 1,
+            "description": "MEN'S CREW NECK SHORT SLEEVE T-SHIRT",
+            "details": [
+              "100% Cotton single jersey, 160 GSM, knitted",
+              "Colours: Black / White / Heather Navy",
+              "Size ratio S-M-L-XL-XXL : 1-3-3-2-1"
+            ],
+            "quantity": 2400,
+            "unit": "PCS",
+            "styleNo": "NB-T101",
+            "hsCode": "6109.10",
+            "unitPrice": 2.85,
+            "amount": 6480,
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% Cotton",
+            "construction": "knit",
+            "gender": "men",
+            "garmentType": "t-shirt"
+          },
+          {
+            "lineNo": 2,
+            "description": "WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET",
+            "details": [
+              "60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted",
+              "Colours: Oatmeal / Sage",
+              "Size ratio XS-S-M-L-XL : 1-2-3-3-3"
+            ],
+            "quantity": 1200,
+            "unit": "PCS",
+            "styleNo": "NB-H205",
+            "hsCode": "6110.20",
+            "unitPrice": 7.4,
+            "amount": 8880,
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 60
+              },
+              {
+                "fiber": "polyester",
+                "pct": 40
+              }
+            ],
+            "compositionRaw": "60% Cotton 40% Polyester",
+            "construction": "knit",
+            "gender": "women",
+            "garmentType": "hoodie"
+          },
+          {
+            "lineNo": 3,
+            "description": "MEN'S SLIM FIT CHINO TROUSERS",
+            "details": [
+              "98% Cotton 2% Elastane stretch twill, 245 GSM, woven",
+              "Colours: Khaki / Olive / Navy",
+              "Waist 30-32-34-36-38 : 1-2-3-3-1"
+            ],
+            "quantity": 900,
+            "unit": "PCS",
+            "styleNo": "NB-C330",
+            "hsCode": "6203.42",
+            "unitPrice": 6.95,
+            "amount": 6255,
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 98
+              },
+              {
+                "fiber": "elastane",
+                "pct": 2
+              }
+            ],
+            "compositionRaw": "98% Cotton 2% Elastane",
+            "construction": "woven",
+            "gender": "men",
+            "garmentType": "trousers"
+          },
+          {
+            "lineNo": 4,
+            "description": "WOMEN'S LONG SLEEVE BLOUSE, V-NECK",
+            "details": [
+              "100% Polyester crepe de chine, woven",
+              "Colours: Ivory / Black",
+              "Size ratio XS-S-M-L-XL : 1-2-3-3-1",
+              "CMT price, see note (*)"
+            ],
+            "quantity": 600,
+            "unit": "PCS",
+            "styleNo": "W-B220",
+            "hsCode": "6206.40",
+            "unitPrice": 2.1,
+            "amount": 1260,
+            "footnoteRefs": [
+              "*"
+            ],
+            "composition": [
+              {
+                "fiber": "polyester",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% Polyester",
+            "construction": "woven",
+            "gender": "women",
+            "garmentType": "blouse"
+          },
+          {
+            "lineNo": 5,
+            "description": "WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES",
+            "details": [
+              "100% Cotton pique, knitted",
+              "FOC SAMPLES - NO COMMERCIAL VALUE",
+              "Value for customs purpose only USD 1.00/pc",
+              "(Origin: Bangladesh)"
+            ],
+            "quantity": 24,
+            "unit": "PCS",
+            "styleNo": "NB-P118S",
+            "hsCode": "6106.10",
+            "unitPrice": 1,
+            "amount": 24,
+            "noCommercialValue": true,
+            "customsValue": 24,
+            "countryOfOrigin": "BD",
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% Cotton",
+            "construction": "knit",
+            "gender": "women",
+            "garmentType": "polo"
+          }
+        ],
+        "charges": [
+          {
+            "type": "freight",
+            "amount": 3850,
+            "description": "Ocean Freight (Cat Lai - Tacoma)"
+          },
+          {
+            "type": "insurance",
+            "amount": 185,
+            "description": "Marine Insurance Premium"
+          }
+        ],
+        "totals": [
+          {
+            "label": "SUB-TOTAL CARRIED FORWARD (USD)",
+            "amount": 21975
+          },
+          {
+            "label": "TOTAL FOB VALUE (Items 1 - 4)",
+            "amount": 23235
+          },
+          {
+            "label": "TOTAL CIF TACOMA, WA (USD)",
+            "amount": 27270
+          }
+        ],
+        "assists": [
+          {
+            "description": "Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer",
+            "value": 4180,
+            "styleRefs": [
+              "W-B220"
+            ],
+            "currency": "USD",
+            "reference": "NB-26-0918F"
+          }
+        ],
+        "notes": [
+          "(*) Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric P.O. NB-26-0918F, value USD 4,180.00, not included in this invoice.",
+          "(1) Goods manufactured and shipped by our contracted factory in Binh Duong, Vietnam. Factory packing list attached.",
+          "(2) Item 5 samples are free of charge, not for resale, value stated for customs purpose only and not included in invoice total.",
+          "(3) Insurance covered under open policy No. VHI/MC/2026/0331, Institute Cargo Clauses (A).",
+          "DECLARATION: We hereby certify that this invoice shows the actual price of the goods described, that all particulars are true and correct, and that the goods are of Vietnam origin."
+        ],
+        "invoiceDateRaw": "12/09/2026",
+        "invoiceDate": "2026-09-12",
+        "invoiceDateAmbiguous": true,
+        "invoiceDateAlternatives": [
+          "2026-12-09"
+        ],
+        "seller": {
+          "name": "KOWLOON BAY APPAREL SOURCING LIMITED",
+          "lines": [
+            "Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street"
+          ],
+          "raw": "KOWLOON BAY APPAREL SOURCING LIMITED\nUnit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203",
+          "phone": "+852 2797 4410",
+          "city": "Kwun Tong",
+          "stateProvince": "Kowloon",
+          "country": "HK"
+        },
+        "buyer": {
+          "name": "NORTHBOUND OUTFITTERS, INC.",
+          "lines": [
+            "2150 NW Raleigh Street, Suite 300"
+          ],
+          "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh Street, Suite 300\nPortland, OR 97210, U.S.A.\nAttn: Megan Holt, Sourcing Dept.\nTel: +1 503 555 0148",
+          "contact": "Megan Holt, Sourcing Dept.",
+          "phone": "+1 503 555 0148",
+          "city": "Portland",
+          "stateProvince": "OR",
+          "postalCode": "97210",
+          "country": "US"
+        },
+        "shipTo": {
+          "name": "CASCADE FULFILLMENT PARTNERS LLC",
+          "lines": [
+            "21820 76th Avenue South, Dock 4"
+          ],
+          "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76th Avenue South, Dock 4\nKent, WA 98032, U.S.A.\nFor account of: Northbound Outfitters, Inc.\nReceiving: +1 253 555 0193",
+          "phone": "+1 253 555 0193",
+          "city": "Kent",
+          "stateProvince": "WA",
+          "postalCode": "98032",
+          "country": "US"
+        },
+        "currency": "USD",
+        "incoterm": {
+          "code": "CIF",
+          "place": "TACOMA, WA",
+          "version": "2020"
+        },
+        "paymentTerms": "T/T 30 DAYS AFTER B/L DATE",
+        "countryOfOrigin": "VN",
+        "portOfLoading": "CAT LAI, HO CHI MINH CITY, VN",
+        "portOfDischarge": "TACOMA, WA, U.S.A.",
+        "vessel": "PACIFIC ARGOS",
+        "voyage": "041E",
+        "transportRef": "BMLVHCM26090418",
+        "etd": "2026-09-24",
+        "eta": "2026-10-14",
+        "totalPackages": {
+          "count": 138,
+          "unit": "CARTONS"
+        }
+      },
+      "fieldMeta": {},
+      "observations": [
+        {
+          "kind": "note",
+          "text": "Line 5 amounts printed in parentheses ((1.00) (24.00)): no-commercial-value line, value stated for customs only.",
+          "field": "lines[4]",
+          "page": 2
+        },
+        {
+          "kind": "footnote",
+          "text": "(*) Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric P.O. NB-26-0918F, value USD 4,180.00, not included in this invoice.",
+          "field": "lines[3]",
+          "page": 2
+        },
+        {
+          "kind": "other",
+          "text": "Line 1: quantity × unit price = 6840.00 but printed amount is 6480.00 (kept as printed).",
+          "field": "lines[0].amount"
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "docId": "doc-c2404938fa7f",
+      "fileName": "SPG-PL-2609-117_Packing_List.pdf",
+      "docType": "packing_list",
+      "classificationScore": 1,
+      "source": "ocr",
+      "pageCount": 1,
+      "data": {
+        "kind": "packing_list",
+        "invoiceRefs": [
+          "KBAS/NB/26-0912"
+        ],
+        "poNumbers": [
+          "NB-26-0918"
+        ],
+        "lines": [
+          {
+            "description": "MEN'S CREW NECK S/S TEE",
+            "details": [
+              "100% COTTON JERSEY 160GSM",
+              "BLACK / WHITE / HTHR NAVY",
+              "S1 M3 L3 XL2 XXL1 (x5 per size run)"
+            ],
+            "cartonRange": "1-48",
+            "styleNo": "NB-T101",
+            "cartons": 48,
+            "pcsPerCarton": 50,
+            "totalPcs": 2400,
+            "netWeightPerCartonKg": 9,
+            "grossWeightPerCartonKg": 10,
+            "netWeightKg": 432,
+            "grossWeightKg": 480,
+            "dimensions": "60x40x35",
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% COTTON"
+          },
+          {
+            "description": "LADIES PULLOVER HOODIE",
+            "details": [
+              "TC 65/35 FLEECE 280GSM",
+              "OATMEAL / SAGE",
+              "XS2 S4 M6 L6 XL6"
+            ],
+            "cartonRange": "49-97",
+            "styleNo": "NB-H205",
+            "cartons": 49,
+            "pcsPerCarton": 24,
+            "totalPcs": 1176,
+            "netWeightPerCartonKg": 14.6,
+            "grossWeightPerCartonKg": 15.8,
+            "netWeightKg": 715.4,
+            "grossWeightKg": 774.2,
+            "dimensions": "60x45x45",
+            "composition": [
+              {
+                "fiber": "polyester",
+                "pct": 65
+              },
+              {
+                "fiber": "cotton",
+                "pct": 35
+              }
+            ],
+            "compositionRaw": "TC 65/35"
+          },
+          {
+            "description": "MEN'S SLIM CHINO PANT",
+            "details": [
+              "98/2 COTTON/SPANDEX TWILL",
+              "KHAKI / OLIVE / NAVY",
+              "W30-3 W32-6 W34-9 W36-9 W38-3"
+            ],
+            "cartonRange": "98-127",
+            "styleNo": "NB-C330",
+            "cartons": 30,
+            "pcsPerCarton": 30,
+            "totalPcs": 900,
+            "netWeightPerCartonKg": 16.2,
+            "grossWeightPerCartonKg": 17.4,
+            "netWeightKg": 486,
+            "dimensions": "60x40x40",
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 98
+              },
+              {
+                "fiber": "elastane",
+                "pct": 2
+              }
+            ],
+            "compositionRaw": "98/2 COTTON/SPANDEX",
+            "grossWeightKg": 522
+          },
+          {
+            "description": "LADIES L/S V-NECK BLOUSE",
+            "details": [
+              "100% POLY CREPE (BUYER FABRIC)",
+              "IVORY / BLACK",
+              "XS6 $12 M18 L18 XL6"
+            ],
+            "cartonRange": "128-137",
+            "styleNo": "W-B220",
+            "cartons": 10,
+            "pcsPerCarton": 60,
+            "totalPcs": 600,
+            "netWeightPerCartonKg": 9.6,
+            "grossWeightPerCartonKg": 10.6,
+            "netWeightKg": 96,
+            "grossWeightKg": 106,
+            "dimensions": "55x40x30",
+            "composition": [
+              {
+                "fiber": "polyester",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% POLY"
+          },
+          {
+            "description": "LADIES POLO - SAMPLES (FOC)",
+            "details": [
+              "100% COTTON PIQUE",
+              "ASSORTED",
+              "1 PC PER COLOUR/SIZE **"
+            ],
+            "cartonRange": "138",
+            "styleNo": "NB-P118S",
+            "pcsPerCarton": 24,
+            "totalPcs": 24,
+            "netWeightPerCartonKg": 5.1,
+            "grossWeightPerCartonKg": 5.8,
+            "netWeightKg": 5.1,
+            "grossWeightKg": 5.8,
+            "dimensions": "50x35x30",
+            "composition": [
+              {
+                "fiber": "cotton",
+                "pct": 100
+              }
+            ],
+            "compositionRaw": "100% COTTON",
+            "footnoteRefs": [
+              "**"
+            ],
+            "cartons": 1,
+            "countryOfOrigin": "BD",
+            "manufacturer": {
+              "name": "SP Garments Dhaka Ltd.",
+              "lines": [
+                "Plot 41"
+              ],
+              "raw": "SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh",
+              "city": "Gazipur",
+              "country": "BD"
+            }
+          }
+        ],
+        "totals": {
+          "cartons": 138,
+          "pcs": 5100,
+          "netWeightKg": 1734.5,
+          "grossWeightKg": 1888,
+          "volumeCbm": 13.58
+        },
+        "remarks": [
+          "1. All cartons 5-ply export cartons, strapped, palletized: NO.",
+          "2. Style W-B220 sewn from buyer-supplied fabric (Ref. NB-26-0918F).",
+          "3. ** Carton No. 138: FOC samples (ladies polo NB-P118S) produced at our sister unit SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh. Hand-carried to Cat Lai CFS for en 7. consolidation.",
+          "4. Seal no. per B/L."
+        ],
+        "plNumber": "SPG-PL-2609-117",
+        "date": "2026-09-20",
+        "shipper": {
+          "name": "SAIGON PHOENIX GARMENT JSC",
+          "lines": [
+            "Unit 1708, 17/F, Hing Fat Ind. Bldg., 223 Wai Yip St."
+          ],
+          "raw": "SAIGON: PHOENIX GARMENT JSC\non behalf of KOWLOON BAY APPAREL SOURCING LTD.\nUnit 1708, 17/F, Hing Fat Ind. Bldg., 223 Wai Yip St.,\nKwun Tong, Kowloon, Hong Kong",
+          "city": "Kwun Tong",
+          "stateProvince": "Kowloon",
+          "country": "HK"
+        },
+        "consignee": {
+          "name": "NORTHBOUND OUTFITTERS, INC.",
+          "lines": [
+            "2150 NW Raleigh St., Suite 300"
+          ],
+          "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh St., Suite 300, Portland, OR 97210, USA",
+          "city": "Portland",
+          "stateProvince": "OR",
+          "postalCode": "97210",
+          "country": "US"
+        },
+        "deliverTo": {
+          "name": "Cascade Fulfillment Partners LLC",
+          "lines": [
+            "21820 76th Ave S"
+          ],
+          "raw": "Cascade Fulfillment Partners LLC,\n21820 76th Ave S, Kent, WA 98032, USA",
+          "city": "Kent",
+          "stateProvince": "WA",
+          "postalCode": "98032",
+          "country": "US"
+        },
+        "manufacturer": {
+          "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+          "lines": [
+            "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+          ],
+          "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+          "city": "Di An City",
+          "stateProvince": "Binh Duong Province",
+          "country": "VN"
+        },
+        "vessel": "PACIFIC ARGOS",
+        "voyage": "041E",
+        "containerSummary": "1 x 20'GP",
+        "portOfLoading": "CAT LAI, HCMC",
+        "portOfDischarge": "TACOMA, WA",
+        "shippingMarks": [
+          "NORTHBOUND OUTFITTERS",
+          "PO#: NB-26-0918",
+          "STYLE#:",
+          "COLOUR / SIZE:",
+          "QTY: PCS",
+          "C/NO.; 1- 138",
+          "MADE IN VIETNAM"
+        ]
+      },
+      "fieldMeta": {
+        "lines[2].grossWeightKg": {
+          "conf": 60,
+          "repaired": true,
+          "originalText": ""
+        },
+        "lines[4].cartons": {
+          "conf": 50,
+          "repaired": true,
+          "originalText": ""
+        }
+      },
+      "observations": [
+        {
+          "kind": "ocr_repair",
+          "text": "NB-C330: grossWeightKg not read; derived 30 ctns × 17.4 kg/ctn.",
+          "field": "lines[2].grossWeightKg",
+          "page": 1
+        },
+        {
+          "kind": "ocr_repair",
+          "text": "NB-P118S: cartons not read; derived from 24 pcs ÷ 24 pcs/ctn and 5.1 kg ÷ 5.1 kg/ctn and 5.8 kg ÷ 5.8 kg/ctn and carton range '138' = 1.",
+          "field": "lines[4].cartons",
+          "page": 1
+        },
+        {
+          "kind": "footnote",
+          "text": "3. ** Carton No. 138: FOC samples (ladies polo NB-P118S) produced at our sister unit SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh. Hand-carried to Cat Lai CFS for en 7. consolidation.",
+          "field": "lines[4]",
+          "page": 1
+        }
+      ],
+      "warnings": []
+    }
+  ],
+  "shipment": {
+    "invoices": [
+      {
+        "docId": "doc-8da4ffda2019",
+        "invoiceNumber": {
+          "value": "KBAS/NB/26-0912",
+          "status": "extracted",
+          "sources": [
+            {
+              "docId": "doc-8da4ffda2019",
+              "docType": "commercial_invoice",
+              "field": "invoiceNumber"
+            }
+          ]
+        },
+        "currency": "USD",
+        "charges": [
+          {
+            "type": "freight",
+            "amount": 3850,
+            "description": "Ocean Freight (Cat Lai - Tacoma)"
+          },
+          {
+            "type": "insurance",
+            "amount": 185,
+            "description": "Marine Insurance Premium"
+          }
+        ],
+        "linesAreFob": true,
+        "printedTotals": [
+          {
+            "label": "SUB-TOTAL CARRIED FORWARD (USD)",
+            "amount": 21975
+          },
+          {
+            "label": "TOTAL FOB VALUE (Items 1 - 4)",
+            "amount": 23235
+          },
+          {
+            "label": "TOTAL CIF TACOMA, WA (USD)",
+            "amount": 27270
+          }
+        ],
+        "poNumbers": [
+          "NB-26-0918"
+        ],
+        "relatedParty": {
+          "value": false,
+          "status": "assumed",
+          "sources": [],
+          "note": "No document states whether buyer and seller are related; assumed not related."
+        },
+        "lines": [
+          {
+            "id": "inv0-line1",
+            "invoiceIndex": 0,
+            "invoiceLineNo": 1,
+            "description": "MEN'S CREW NECK SHORT SLEEVE T-SHIRT",
+            "details": [
+              "100% Cotton single jersey, 160 GSM, knitted",
+              "Colours: Black / White / Heather Navy",
+              "Size ratio S-M-L-XL-XXL : 1-3-3-2-1"
+            ],
+            "attributes": {
+              "composition": [
+                {
+                  "fiber": "cotton",
+                  "pct": 100
+                }
+              ],
+              "compositionSource": "invoice",
+              "construction": "knit",
+              "gender": "men",
+              "garmentType": "t-shirt"
+            },
+            "countryOfOrigin": {
+              "value": "VN",
+              "status": "derived",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "countryOfOrigin"
+                }
+              ],
+              "note": "Invoice header country of origin applied to the line."
+            },
+            "quantity": {
+              "value": 2400,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[0].quantity"
+                }
+              ]
+            },
+            "unit": "PCS",
+            "amount": {
+              "value": 6840,
+              "status": "corrected",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[0].quantity"
+                },
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[0].unitPrice"
+                },
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[0].amount"
+                }
+              ],
+              "note": "Printed USD 6,480.00; corrected to quantity × unit price."
+            },
+            "noCommercialValue": false,
+            "assists": [],
+            "styleNo": "NB-T101",
+            "hsCodeDeclared": "6109.10",
+            "unitPrice": 2.85,
+            "poNumber": "NB-26-0918",
+            "netWeightKg": {
+              "value": 432,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[0].netWeightKg"
+                }
+              ]
+            },
+            "grossWeightKg": {
+              "value": 480,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[0].grossWeightKg"
+                }
+              ]
+            },
+            "cartons": 48,
+            "manufacturer": {
+              "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+              "lines": [
+                "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+              ],
+              "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+              "city": "Di An City",
+              "stateProvince": "Binh Duong Province",
+              "country": "VN"
+            },
+            "printedAmount": 6480
+          },
+          {
+            "id": "inv0-line2",
+            "invoiceIndex": 0,
+            "invoiceLineNo": 2,
+            "description": "WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET",
+            "details": [
+              "60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted",
+              "Colours: Oatmeal / Sage",
+              "Size ratio XS-S-M-L-XL : 1-2-3-3-3"
+            ],
+            "attributes": {
+              "composition": [
+                {
+                  "fiber": "cotton",
+                  "pct": 60
+                },
+                {
+                  "fiber": "polyester",
+                  "pct": 40
+                }
+              ],
+              "compositionSource": "invoice",
+              "construction": "knit",
+              "gender": "women",
+              "garmentType": "hoodie"
+            },
+            "countryOfOrigin": {
+              "value": "VN",
+              "status": "derived",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "countryOfOrigin"
+                }
+              ],
+              "note": "Invoice header country of origin applied to the line."
+            },
+            "quantity": {
+              "value": 1200,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[1].quantity"
+                }
+              ]
+            },
+            "unit": "PCS",
+            "amount": {
+              "value": 8880,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[1].amount"
+                }
+              ]
+            },
+            "noCommercialValue": false,
+            "assists": [],
+            "styleNo": "NB-H205",
+            "hsCodeDeclared": "6110.20",
+            "unitPrice": 7.4,
+            "poNumber": "NB-26-0918",
+            "netWeightKg": {
+              "value": 715.4,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[1].netWeightKg"
+                }
+              ]
+            },
+            "grossWeightKg": {
+              "value": 774.2,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[1].grossWeightKg"
+                }
+              ]
+            },
+            "cartons": 49,
+            "manufacturer": {
+              "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+              "lines": [
+                "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+              ],
+              "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+              "city": "Di An City",
+              "stateProvince": "Binh Duong Province",
+              "country": "VN"
+            },
+            "packedQuantity": 1176,
+            "altComposition": [
+              {
+                "fiber": "polyester",
+                "pct": 65
+              },
+              {
+                "fiber": "cotton",
+                "pct": 35
+              }
+            ],
+            "altCompositionSource": {
+              "docId": "doc-c2404938fa7f",
+              "docType": "packing_list",
+              "field": "lines[1].composition"
+            }
+          },
+          {
+            "id": "inv0-line3",
+            "invoiceIndex": 0,
+            "invoiceLineNo": 3,
+            "description": "MEN'S SLIM FIT CHINO TROUSERS",
+            "details": [
+              "98% Cotton 2% Elastane stretch twill, 245 GSM, woven",
+              "Colours: Khaki / Olive / Navy",
+              "Waist 30-32-34-36-38 : 1-2-3-3-1"
+            ],
+            "attributes": {
+              "composition": [
+                {
+                  "fiber": "cotton",
+                  "pct": 98
+                },
+                {
+                  "fiber": "elastane",
+                  "pct": 2
+                }
+              ],
+              "compositionSource": "invoice",
+              "construction": "woven",
+              "gender": "men",
+              "garmentType": "trousers"
+            },
+            "countryOfOrigin": {
+              "value": "VN",
+              "status": "derived",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "countryOfOrigin"
+                }
+              ],
+              "note": "Invoice header country of origin applied to the line."
+            },
+            "quantity": {
+              "value": 900,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[2].quantity"
+                }
+              ]
+            },
+            "unit": "PCS",
+            "amount": {
+              "value": 6255,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[2].amount"
+                }
+              ]
+            },
+            "noCommercialValue": false,
+            "assists": [],
+            "styleNo": "NB-C330",
+            "hsCodeDeclared": "6203.42",
+            "unitPrice": 6.95,
+            "poNumber": "NB-26-0918",
+            "netWeightKg": {
+              "value": 486,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[2].netWeightKg"
+                }
+              ]
+            },
+            "grossWeightKg": {
+              "value": 522,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[2].grossWeightKg"
+                }
+              ],
+              "conf": 60
+            },
+            "cartons": 30,
+            "manufacturer": {
+              "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+              "lines": [
+                "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+              ],
+              "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+              "city": "Di An City",
+              "stateProvince": "Binh Duong Province",
+              "country": "VN"
+            }
+          },
+          {
+            "id": "inv0-line4",
+            "invoiceIndex": 0,
+            "invoiceLineNo": 4,
+            "description": "WOMEN'S LONG SLEEVE BLOUSE, V-NECK",
+            "details": [
+              "100% Polyester crepe de chine, woven",
+              "Colours: Ivory / Black",
+              "Size ratio XS-S-M-L-XL : 1-2-3-3-1",
+              "CMT price, see note (*)"
+            ],
+            "attributes": {
+              "composition": [
+                {
+                  "fiber": "polyester",
+                  "pct": 100
+                }
+              ],
+              "compositionSource": "invoice",
+              "construction": "woven",
+              "gender": "women",
+              "garmentType": "blouse"
+            },
+            "countryOfOrigin": {
+              "value": "VN",
+              "status": "derived",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "countryOfOrigin"
+                }
+              ],
+              "note": "Invoice header country of origin applied to the line."
+            },
+            "quantity": {
+              "value": 600,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[3].quantity"
+                }
+              ]
+            },
+            "unit": "PCS",
+            "amount": {
+              "value": 1260,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[3].amount"
+                }
+              ]
+            },
+            "noCommercialValue": false,
+            "assists": [
+              {
+                "description": "Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer",
+                "value": 4180,
+                "styleRefs": [
+                  "W-B220"
+                ],
+                "currency": "USD",
+                "reference": "NB-26-0918F"
+              }
+            ],
+            "styleNo": "W-B220",
+            "hsCodeDeclared": "6206.40",
+            "unitPrice": 2.1,
+            "poNumber": "NB-26-0918",
+            "netWeightKg": {
+              "value": 96,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[3].netWeightKg"
+                }
+              ]
+            },
+            "grossWeightKg": {
+              "value": 106,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[3].grossWeightKg"
+                }
+              ]
+            },
+            "cartons": 10,
+            "manufacturer": {
+              "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+              "lines": [
+                "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+              ],
+              "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+              "city": "Di An City",
+              "stateProvince": "Binh Duong Province",
+              "country": "VN"
+            }
+          },
+          {
+            "id": "inv0-line5",
+            "invoiceIndex": 0,
+            "invoiceLineNo": 5,
+            "description": "WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES",
+            "details": [
+              "100% Cotton pique, knitted",
+              "FOC SAMPLES - NO COMMERCIAL VALUE",
+              "Value for customs purpose only USD 1.00/pc",
+              "(Origin: Bangladesh)"
+            ],
+            "attributes": {
+              "composition": [
+                {
+                  "fiber": "cotton",
+                  "pct": 100
+                }
+              ],
+              "compositionSource": "invoice",
+              "construction": "knit",
+              "gender": "women",
+              "garmentType": "polo"
+            },
+            "countryOfOrigin": {
+              "value": "BD",
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[4].countryOfOrigin"
+                }
+              ]
+            },
+            "quantity": {
+              "value": 24,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[4].quantity"
+                }
+              ]
+            },
+            "unit": "PCS",
+            "amount": {
+              "value": 24,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-8da4ffda2019",
+                  "docType": "commercial_invoice",
+                  "field": "lines[4].amount"
+                }
+              ]
+            },
+            "noCommercialValue": true,
+            "assists": [],
+            "styleNo": "NB-P118S",
+            "hsCodeDeclared": "6106.10",
+            "unitPrice": 1,
+            "customsValue": 24,
+            "poNumber": "NB-26-0918",
+            "netWeightKg": {
+              "value": 5.1,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[4].netWeightKg"
+                }
+              ]
+            },
+            "grossWeightKg": {
+              "value": 5.8,
+              "status": "extracted",
+              "sources": [
+                {
+                  "docId": "doc-c2404938fa7f",
+                  "docType": "packing_list",
+                  "field": "lines[4].grossWeightKg"
+                }
+              ]
+            },
+            "cartons": 1,
+            "manufacturer": {
+              "name": "SP Garments Dhaka Ltd.",
+              "lines": [
+                "Plot 41"
+              ],
+              "raw": "SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh",
+              "city": "Gazipur",
+              "country": "BD"
+            }
+          }
+        ],
+        "invoiceDate": {
+          "value": "2026-09-12",
+          "status": "derived",
+          "sources": [
+            {
+              "docId": "doc-8da4ffda2019",
+              "docType": "commercial_invoice",
+              "field": "invoiceDateRaw"
+            }
+          ],
+          "note": "\"12/09/2026\" is ambiguous; 2026-09-12 chosen (alternative 2026-12-09)."
+        },
+        "incoterm": {
+          "code": "CIF",
+          "place": "TACOMA, WA",
+          "version": "2020"
+        },
+        "seller": {
+          "name": "KOWLOON BAY APPAREL SOURCING LIMITED",
+          "lines": [
+            "Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street"
+          ],
+          "raw": "KOWLOON BAY APPAREL SOURCING LIMITED\nUnit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203",
+          "phone": "+852 2797 4410",
+          "city": "Kwun Tong",
+          "stateProvince": "Kowloon",
+          "country": "HK"
+        },
+        "buyer": {
+          "name": "NORTHBOUND OUTFITTERS, INC.",
+          "lines": [
+            "2150 NW Raleigh Street, Suite 300"
+          ],
+          "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh Street, Suite 300\nPortland, OR 97210, U.S.A.\nAttn: Megan Holt, Sourcing Dept.\nTel: +1 503 555 0148",
+          "contact": "Megan Holt, Sourcing Dept.",
+          "phone": "+1 503 555 0148",
+          "city": "Portland",
+          "stateProvince": "OR",
+          "postalCode": "97210",
+          "country": "US"
+        },
+        "shipTo": {
+          "name": "CASCADE FULFILLMENT PARTNERS LLC",
+          "lines": [
+            "21820 76th Avenue South, Dock 4"
+          ],
+          "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76th Avenue South, Dock 4\nKent, WA 98032, U.S.A.\nFor account of: Northbound Outfitters, Inc.\nReceiving: +1 253 555 0193",
+          "phone": "+1 253 555 0193",
+          "city": "Kent",
+          "stateProvince": "WA",
+          "postalCode": "98032",
+          "country": "US"
+        }
+      }
+    ],
+    "manufacturers": [
+      {
+        "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+        "lines": [
+          "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"
+        ],
+        "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nL6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+        "city": "Di An City",
+        "stateProvince": "Binh Duong Province",
+        "country": "VN"
+      },
+      {
+        "name": "SP Garments Dhaka Ltd.",
+        "lines": [
+          "Plot 41"
+        ],
+        "raw": "SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh",
+        "city": "Gazipur",
+        "country": "BD"
+      }
+    ],
+    "transport": {
+      "mode": "ocean",
+      "containerized": true,
+      "arrivalDateEstimated": true,
+      "vessel": "PACIFIC ARGOS",
+      "voyage": "041E",
+      "carrierName": "ORIENT PACIFIC LINES",
+      "carrierScac": "OPLU",
+      "portOfLading": "CAT LAI, HCMC, VN",
+      "portOfUnlading": "TACOMA, WA, USA",
+      "placeOfDelivery": "KENT, WA (DOOR)",
+      "exportDate": {
+        "value": "2026-09-24",
+        "status": "extracted",
+        "sources": [
+          {
+            "docId": "doc-d075d076bca1",
+            "docType": "bill_of_lading",
+            "field": "onBoardDate"
+          }
+        ],
+        "note": "Shipped-on-board date on the bill of lading."
+      },
+      "arrivalDate": {
+        "value": "2026-10-14",
+        "status": "assumed",
+        "sources": [
+          {
+            "docId": "doc-8da4ffda2019",
+            "docType": "commercial_invoice",
+            "field": "eta"
+          }
+        ],
+        "note": "Estimated time of arrival (ETA) printed on the invoice."
+      },
+      "destinationState": "WA"
+    },
+    "bills": [
+      {
+        "house": {
+          "scac": "BMLV",
+          "number": "HCM26090418"
+        },
+        "master": {
+          "scac": "OPLU",
+          "number": "SGN260917735"
+        }
+      }
+    ],
+    "containers": [
+      {
+        "number": "OPLU3041722",
+        "checkDigitValid": true,
+        "sealNumbers": [
+          "OPL7731482"
+        ],
+        "sizeType": "20GP",
+        "candidates": [
+          {
+            "number": "OPLU3641728",
+            "checkDigitValid": false,
+            "source": "strikethrough"
+          },
+          {
+            "number": "OPLU3041722",
+            "checkDigitValid": true,
+            "source": "handwritten"
+          }
+        ]
+      }
+    ],
+    "importer": {
+      "value": {
+        "name": "NORTHBOUND OUTFITTERS, INC.",
+        "lines": [
+          "2150 NW Raleigh Street, Suite 300"
+        ],
+        "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh Street, Suite 300\nPortland, OR 97210, U.S.A.\nAttn: Megan Holt, Sourcing Dept.\nTel: +1 503 555 0148",
+        "contact": "Megan Holt, Sourcing Dept.",
+        "phone": "+1 503 555 0148",
+        "city": "Portland",
+        "stateProvince": "OR",
+        "postalCode": "97210",
+        "country": "US"
+      },
+      "status": "derived",
+      "sources": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "docType": "commercial_invoice",
+          "field": "buyer"
+        }
+      ],
+      "note": "Buyer (sold-to) on the commercial invoice."
+    },
+    "ultimateConsignee": {
+      "value": {
+        "name": "NORTHBOUND OUTFITTERS, INC.",
+        "lines": [
+          "2150 NW Raleigh Street, Suite 300"
+        ],
+        "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh Street, Suite 300\nPortland, OR 97210, U.S.A.\nAttn: Megan Holt, Sourcing Dept.\nTel: +1 503 555 0148",
+        "contact": "Megan Holt, Sourcing Dept.",
+        "phone": "+1 503 555 0148",
+        "city": "Portland",
+        "stateProvince": "OR",
+        "postalCode": "97210",
+        "country": "US"
+      },
+      "status": "assumed",
+      "sources": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "docType": "commercial_invoice",
+          "field": "buyer"
+        }
+      ],
+      "note": "Ship-to CASCADE FULFILLMENT PARTNERS LLC is a logistics provider / holds the goods for the buyer's account; the buyer is the ultimate consignee."
+    },
+    "shipTo": {
+      "name": "CASCADE FULFILLMENT PARTNERS LLC",
+      "lines": [
+        "21820 76th Avenue South, Dock 4"
+      ],
+      "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76th Avenue South, Dock 4\nKent, WA 98032, U.S.A.\nFor account of: Northbound Outfitters, Inc.\nReceiving: +1 253 555 0193",
+      "phone": "+1 253 555 0193",
+      "city": "Kent",
+      "stateProvince": "WA",
+      "postalCode": "98032",
+      "country": "US"
+    },
+    "seller": {
+      "name": "KOWLOON BAY APPAREL SOURCING LIMITED",
+      "lines": [
+        "Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street"
+      ],
+      "raw": "KOWLOON BAY APPAREL SOURCING LIMITED\nUnit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203",
+      "phone": "+852 2797 4410",
+      "city": "Kwun Tong",
+      "stateProvince": "Kowloon",
+      "country": "HK"
+    },
+    "packages": {
+      "value": {
+        "count": 138,
+        "unit": "CARTONS"
+      },
+      "status": "extracted",
+      "sources": [
+        {
+          "docId": "doc-d075d076bca1",
+          "docType": "bill_of_lading",
+          "field": "packages"
+        }
+      ]
+    },
+    "grossWeightKg": {
+      "value": 1930,
+      "status": "extracted",
+      "sources": [
+        {
+          "docId": "doc-d075d076bca1",
+          "docType": "bill_of_lading",
+          "field": "grossWeightKg"
+        }
+      ]
+    },
+    "volumeCbm": 13.58,
+    "releaseType": "telex",
+    "countryOfExport": "VN",
+    "consolidator": {
+      "name": "BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD.",
+      "lines": [],
+      "raw": "BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD."
+    },
+    "notifyParty": {
+      "name": "NORTHBOUND OUTFITTERS",
+      "lines": [
+        "2150 NW RALEIGH ST, SU\\TE 300"
+      ],
+      "raw": "NORTHBOUND OUTFITTERS,\n2150 NW RALEIGH ST, SU\\TE 300\nPORTLAND, OR 97210,\nTEL: +1 503 555 0148 ATTN: M. HOLT",
+      "contact": "M. HOLT",
+      "phone": "+1 503 555 0148",
+      "city": "PORTLAND",
+      "stateProvince": "OR",
+      "postalCode": "97210",
+      "country": "US"
+    }
+  },
+  "classifications": {
+    "inv0-line1": {
+      "lineId": "inv0-line1",
+      "htsNumber": "6109100012",
+      "htsFormatted": "6109.10.00.12",
+      "description": "T-shirts, singlets, tank tops and similar garments, knitted or crocheted › Of cotton › Men's or boys' › Other T-shirts › Men's (338)",
+      "generalRate": "16.5%",
+      "adValoremPct": 16.5,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "338",
+      "confidence": "high",
+      "rationale": "Line: gender men (attribute); garment tshirt/top; construction knit; composition 100% cotton (attribute).\nDeclared 6109.10 → 6109.10.00 \"Of cotton\".\n\"Men's or boys'\" — gender men's; not \"Women's or girls'\" (line is men's)\n\"Other T-shirts\" — garment tshirt; not \"T-shirts, all white, short hemmed sleeves, hemme\" (\"all white\" not supported by the line text); \"Singlets, all white, without pockets, trim or em\" (line garment is tshirt); \"Thermal undershirts (352)\" (line garment is tshirt); \"Tank tops and other singlets\" (line garment is tshirt)\n6109.10.00.12 \"Men's (338)\" — gender men's; not \"Boys' (338)\" (line is men's)\nGeneral rate 16.5% (inherited from 6109.10.00).\nTextile category 338; units DOZ, KG.",
+      "alternatives": [],
+      "basis": "declared",
+      "compositionUsed": [
+        {
+          "fiber": "cotton",
+          "pct": 100
+        }
+      ]
+    },
+    "inv0-line2": {
+      "lineId": "inv0-line2",
+      "htsNumber": "6110202046",
+      "htsFormatted": "6110.20.20.46",
+      "description": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted › Of cotton › Other › Other › Sweatshirts › Women's (339)",
+      "generalRate": "16.5%",
+      "adValoremPct": 16.5,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "339",
+      "confidence": "high",
+      "rationale": "Line: gender women (attribute); garment sweatshirt; construction knit; composition 60% cotton / 40% polyester (attribute).\nDeclared 6110.20 → 6110.20 \"Of cotton\".\n6110.20.20 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 36 percent or more by weight of flax \" (0% flax, row needs ≥36%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Boys' or girls' garments imported as parts of pl\" (line is women's)\n\"Sweatshirts\" — garment sweatshirt; not \"Sweaters\" (line garment is sweatshirt); \"Vests, other than sweater vests\" (line garment is sweatshirt)\n6110.20.20.46 \"Women's (339)\" — gender women's; not \"Men's (338)\" (line is women's); \"Boys' (338)\" (line is women's); \"Girls' (339)\" (line is women's)\nGeneral rate 16.5% (inherited from 6110.20.20).\nTextile category 339; units DOZ, KG.",
+      "alternatives": [],
+      "basis": "declared",
+      "compositionUsed": [
+        {
+          "fiber": "cotton",
+          "pct": 60
+        },
+        {
+          "fiber": "polyester",
+          "pct": 40
+        }
+      ]
+    },
+    "inv0-line3": {
+      "lineId": "inv0-line3",
+      "htsNumber": "6203424518",
+      "htsFormatted": "6203.42.45.18",
+      "description": "Men's or boys' suits, ensembles, suit-type jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear) › Trousers, bib and brace overalls, breeches and shorts › Of cotton › Other › Other › Other › Other › Men's trousers and breeches › Other (347)",
+      "generalRate": "16.6%",
+      "adValoremPct": 16.6,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "347",
+      "confidence": "high",
+      "rationale": "Line: gender men (attribute); garment trousers; construction woven; composition 98% cotton / 2% elastane (attribute).\nDeclared 6203.42 → 6203.42 \"Of cotton\".\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Recreational performance outerwear\" (\"recreational performance outerwear\" not supported by the line text)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 15 percent or more by weight of down \" (0% down, row needs ≥15%)\n6203.42.45 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Bib and brace overalls\" (line garment is trousers)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing compact yarns described in statistica\" (\"compact yarns\" not supported by the line text)\n\"Men's trousers and breeches\" — gender men's, garment trousers; not \"Boys' trousers and breeches\" (line is men's); \"Men's shorts (347)\" (line garment is trousers); \"Boys' shorts\" (line is men's)\n6203.42.45.18 \"Other (347)\" — residual \"Other\": every specific sibling is excluded; not \"Corduroy (347)\" (\"corduroy\" not supported by the line text); \"Blue denim (347)\" (\"denim\" not supported by the line text); \"Designed for use in hospitals, clinics, laborato\" (\"hospital/laboratory use\" not supported by the line text)\nGeneral rate 16.6% (inherited from 6203.42.45).\nTextile category 347; units DOZ, KG.",
+      "alternatives": [],
+      "basis": "declared",
+      "compositionUsed": [
+        {
+          "fiber": "cotton",
+          "pct": 98
+        },
+        {
+          "fiber": "elastane",
+          "pct": 2
+        }
+      ]
+    },
+    "inv0-line4": {
+      "lineId": "inv0-line4",
+      "htsNumber": "6206403035",
+      "htsFormatted": "6206.40.30.35",
+      "description": "Women's or girls' blouses, shirts and shirt-blouses › Of man-made fibers › Other › Other › Other › Women's › Other (641)",
+      "generalRate": "26.9%",
+      "adValoremPct": 26.9,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "641",
+      "confidence": "high",
+      "rationale": "Line: gender women (attribute); garment blouse/shirt/top; construction woven; composition 100% polyester (attribute).\nDeclared 6206.40 → 6206.40 \"Of man-made fibers\".\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Certified hand-loomed and folklore products (641\" (\"hand-loomed/folklore\" not supported by the line text)\n6206.40.30 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 30 percent or more by weight of silk \" (0% silk, row needs ≥30%); \"Containing 36 percent or more by weight of wool \" (0% wool, row needs ≥36%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"With two or more colors in the warp and/or the f\" (\"yarn-dyed (two or more colours in warp/filling)\" not supported by the line text)\n\"Women's\" — gender women's; not \"Girls'\" (line is women's)\n6206.40.30.35 \"Other (641)\" — residual \"Other\": every specific sibling is excluded; not \"Designed for use in hospitals, clinics, laborato\" (\"hospital/laboratory use\" not supported by the line text)\nGeneral rate 26.9% (inherited from 6206.40.30).\nTextile category 641; units DOZ, KG.",
+      "alternatives": [],
+      "basis": "declared",
+      "compositionUsed": [
+        {
+          "fiber": "polyester",
+          "pct": 100
+        }
+      ]
+    },
+    "inv0-line5": {
+      "lineId": "inv0-line5",
+      "htsNumber": "6106100010",
+      "htsFormatted": "6106.10.00.10",
+      "description": "Women's or girls' blouses and shirts, knitted or crocheted › Of cotton › Women's (339)",
+      "generalRate": "19.7%",
+      "adValoremPct": 19.7,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "339",
+      "confidence": "high",
+      "rationale": "Line: gender women (attribute); garment shirt/top; construction knit; composition 100% cotton (attribute).\nDeclared 6106.10 → 6106.10.00 \"Of cotton\".\n6106.10.00.10 \"Women's (339)\" — gender women's; not \"Girls'\" (line is women's)\nGeneral rate 19.7% (inherited from 6106.10.00).\nTextile category 339; units DOZ, KG.",
+      "alternatives": [],
+      "basis": "declared",
+      "compositionUsed": [
+        {
+          "fiber": "cotton",
+          "pct": 100
+        }
+      ]
+    }
+  },
+  "altClassifications": {
+    "inv0-line2": {
+      "lineId": "inv0-line2",
+      "htsNumber": "6110303045",
+      "htsFormatted": "6110.30.30.45",
+      "description": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted › Of man-made fibers › Other › Other › Other › Other › Sweatshirts › Women's or girls' (639)",
+      "generalRate": "32%",
+      "adValoremPct": 32,
+      "units": [
+        "DOZ",
+        "KG"
+      ],
+      "textileCategory": "639",
+      "confidence": "medium",
+      "rationale": "Line: gender women (attribute); garment sweatshirt; construction knit; composition 65% polyester / 35% cotton (opts).\nDeclared 6110.20 → 6110.20 \"Of cotton\".\nAlternative composition 65% polyester / 35% cotton: \"Of cotton\" does not apply (predominant fibre is man-made), so the walk restarts at 6110 \"Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted\".\n6110.30 \"Of man-made fibers\" — predominant fibre man-made (65% polyester / 35% cotton); not \"Of wool or fine animal hair\" (predominant fibre is man-made); \"Of cotton\" (predominant fibre is man-made)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 25 percent or more by weight of leath\" (0% leather, row needs ≥25%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 23 percent or more by weight of wool \" (0% wool, row needs ≥23%)\n6110.30.30 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 30 percent or more by weight of silk \" (0% silk, row needs ≥30%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Boys' and girls' garments imported as parts of p\" (line is women's)\n\"Sweatshirts\" — garment sweatshirt; not \"Sweaters\" (line garment is sweatshirt); \"Vests, other than sweater vests\" (line garment is sweatshirt)\n6110.30.30.45 \"Women's or girls' (639)\" — gender women's; not \"Men's (638)\" (line is women's); \"Boys' (638)\" (line is women's)\nGeneral rate 32% (inherited from 6110.30.30).\nTextile category 639; units DOZ, KG.",
+      "alternatives": [
+        {
+          "htsNumber": "6110202046",
+          "htsFormatted": "6110.20.20.46",
+          "description": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted › Of cotton › Other › Other › Sweatshirts › Women's (339)",
+          "generalRate": "16.5%",
+          "adValoremPct": 16.5,
+          "units": [
+            "DOZ",
+            "KG"
+          ],
+          "reason": "Leaf under the declared 6110.20 (composition not matching)."
+        }
+      ],
+      "basis": "declared",
+      "flags": [
+        {
+          "code": "RECLASSIFIED_FOR_COMPOSITION",
+          "message": "Composition 65% polyester / 35% cotton does not fit \"Of cotton\" (predominant fibre is man-made); classified from 6110."
+        }
+      ],
+      "compositionUsed": [
+        {
+          "fiber": "polyester",
+          "pct": 65
+        },
+        {
+          "fiber": "cotton",
+          "pct": 35
+        }
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "QTY_MISMATCH:inv0-line2",
+      "code": "QTY_MISMATCH",
+      "severity": "blocker",
+      "category": "discrepancy",
+      "title": "Line 2 (NB-H205): invoiced 1,200 vs packed 1,176 PCS",
+      "detail": "Line 2 (NB-H205): invoice 1,200 PCS, packing list 1,176 PCS (49 ctns × 24 pcs/ctn = 1,176): 24 PCS fewer packed than invoiced (2%). At USD 7.40/PCS the packed quantity is worth USD 8,702.40 vs USD 8,880.00 invoiced. The documents' overall totals coincidentally agree (5,100 pieces), which hides this per-style difference. Per the decision policy the invoice quantity and value are kept until the difference is explained.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "2 NB-H205 WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET 6110.20 1,200 PCS 7.40 8,880"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "49-97 NB-H205 LADIES PULLOVER HOODIE TC 65/35 FLEECE 280GSM 49 ctns × 24 = 1,176 pcs"
+        }
+      ],
+      "action": "Confirm with the shipper whether 24 PCS were short/over-shipped (request a corrected invoice or credit note) or the packing list is wrong. The entry must declare the quantity actually shipped.",
+      "field": "invoices[0].lines[1].quantity",
+      "lineId": "inv0-line2",
+      "decision": {
+        "key": "quantity:inv0-line2",
+        "question": "Which quantity should be entered for line 2 (NB-H205)?",
+        "options": [
+          {
+            "value": "invoice",
+            "label": "Invoice quantity 1,200 PCS (USD 8,880.00)"
+          },
+          {
+            "value": "packed",
+            "label": "Packed quantity 1,176 PCS (USD 8,702.40)"
+          }
+        ],
+        "chosen": "invoice"
+      }
+    },
+    {
+      "id": "COMPOSITION_CONFLICT:inv0-line2",
+      "code": "COMPOSITION_CONFLICT",
+      "severity": "blocker",
+      "category": "classification",
+      "title": "Line 2 (NB-H205): fibre content differs between invoice and packing list",
+      "detail": "Invoice: \"60% Cotton 40% Polyester\" = 60% cotton / 40% polyester. Packing list: \"TC 65/35\" = 65% polyester / 35% cotton. The predominant fibre changes from cotton (60%) to polyester (65%), i.e. cotton vs man-made fibres. Textiles are classified by the fibre that predominates by weight, so the composition decides the subheading (declared HS 6110.20) (e.g. a cotton vs a man-made-fibre subheading) and therefore the duty rate and textile category. Per the decision policy the invoice composition is used until it is confirmed.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "2 NB-H205 WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET 6110.20 1,200 PCS 7.40 8,880"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "49-97 NB-H205 LADIES PULLOVER HOODIE TC 65/35 49 ctns × 24 = 1,176 pcs"
+        }
+      ],
+      "action": "Obtain the fibre-content specification or a lab test report from the manufacturer and confirm which composition is correct before filing.",
+      "field": "invoices[0].lines[1].attributes.composition",
+      "lineId": "inv0-line2",
+      "decision": {
+        "key": "composition:inv0-line2",
+        "question": "Which fibre content should line 2 (NB-H205) be classified under?",
+        "options": [
+          {
+            "value": "invoice",
+            "label": "Invoice: 60% cotton / 40% polyester"
+          },
+          {
+            "value": "other_doc",
+            "label": "Packing list: 65% polyester / 35% cotton"
+          }
+        ],
+        "chosen": "invoice"
+      }
+    },
+    {
+      "id": "MISSING_IMPORTER_ID",
+      "code": "MISSING_IMPORTER_ID",
+      "severity": "blocker",
+      "category": "missing_data",
+      "title": "Importer of record number missing",
+      "detail": "The documents carry no IRS/CBP number for the importer of record (NORTHBOUND OUTFITTERS, INC.). CBP requires it for this entry type, and NetCHB matches the importer by this tax ID.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "NORTHBOUND OUTFITTERS, INC."
+        }
+      ],
+      "action": "Enter the importer of record number (EIN NN-NNNNNNN with suffix, CBP-assigned NNNNNN-NNNNN, or SSN) in the broker inputs.",
+      "field": "header.importerTaxId"
+    },
+    {
+      "id": "MISSING_BOND",
+      "code": "MISSING_BOND",
+      "severity": "blocker",
+      "category": "missing_data",
+      "title": "Bond type missing",
+      "detail": "A formal entry needs a customs bond; the bond is known only to the broker/importer.",
+      "evidence": [],
+      "action": "Select the bond type (08 continuous, 09 single transaction, 00 no bond required) in the broker inputs.",
+      "field": "header.bondType"
+    },
+    {
+      "id": "MISSING_SURETY",
+      "code": "MISSING_SURETY",
+      "severity": "blocker",
+      "category": "missing_data",
+      "title": "Surety code missing",
+      "detail": "The bond (once selected) is secured by a surety; the 3-digit CBP surety code is not on the documents.",
+      "evidence": [],
+      "action": "Enter the surety code of the bond in the broker inputs.",
+      "field": "header.suretyCode"
+    },
+    {
+      "id": "LINE_AMOUNT_MISMATCH:inv0-line1",
+      "code": "LINE_AMOUNT_MISMATCH",
+      "severity": "warning",
+      "category": "discrepancy",
+      "title": "Line 1 (NB-T101): quantity × unit price ≠ printed amount",
+      "detail": "Line 1 (NB-T101): 2,400 PCS × USD 2.85 = USD 6,840.00, but the printed amount is USD 6,480.00 (difference USD 360.00; the digits look transposed). The printed totals reconcile only with USD 6,840.00 (\"SUB-TOTAL CARRIED FORWARD (USD)\" USD 21,975.00; \"TOTAL FOB VALUE (Items 1 - 4)\" USD 23,235.00; \"TOTAL CIF TACOMA, WA (USD)\" USD 27,270.00), so the line amount was corrected to the computed value.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "1 NB-T101 MEN'S CREW NECK SHORT SLEEVE T-SHIRT 6109.10 2,400 PCS 2.85 6,480"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "SUB-TOTAL CARRIED FORWARD (USD): USD 21,975.00"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "TOTAL FOB VALUE (Items 1 - 4): USD 23,235.00"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "TOTAL CIF TACOMA, WA (USD): USD 27,270.00"
+        }
+      ],
+      "action": "Ask the seller to confirm the line value (or issue a corrected invoice). Switch to \"printed\" (USD 6,480.00) only if the seller confirms that figure.",
+      "field": "invoices[0].lines[0].amount",
+      "lineId": "inv0-line1",
+      "decision": {
+        "key": "amount:inv0-line1",
+        "question": "Which value should be entered for line 1 (NB-T101)?",
+        "options": [
+          {
+            "value": "computed",
+            "label": "Computed: 2,400 PCS × USD 2.85 = USD 6,840.00"
+          },
+          {
+            "value": "printed",
+            "label": "As printed: USD 6,480.00"
+          }
+        ],
+        "chosen": "computed"
+      }
+    },
+    {
+      "id": "GROSS_WEIGHT_MISMATCH",
+      "code": "GROSS_WEIGHT_MISMATCH",
+      "severity": "warning",
+      "category": "discrepancy",
+      "title": "Gross weight: bill of lading 1,930 kg vs packing list 1,888 kg",
+      "detail": "Bill of lading: 1,930 kg; packing list: 1,888 kg (difference 42 kg, 2.2%, above the 1% tolerance). The entry header gross weight should match the manifested weight, so the bill of lading figure is used; line-level weights still come from the packing list. The packing list notes: \"1. All cartons 5-ply export cartons, strapped, palletized: NO.\".",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "Gross weight: 1,930 KGS"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "Total G.W.: 1,888 KGS"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "1. All cartons 5-ply export cartons, strapped, palletized: NO."
+        }
+      ],
+      "action": "Confirm the weight with the carrier/forwarder (a CFS re-weigh, pallets or dunnage explain a higher manifest weight). Choose \"packing_list\" only if the manifest weight is wrong.",
+      "field": "grossWeightKg",
+      "decision": {
+        "key": "grossWeight",
+        "question": "Which gross weight should be reported on the entry header?",
+        "options": [
+          {
+            "value": "transport_doc",
+            "label": "Bill of lading: 1,930 kg"
+          },
+          {
+            "value": "packing_list",
+            "label": "Packing list: 1,888 kg"
+          }
+        ],
+        "chosen": "transport_doc"
+      }
+    },
+    {
+      "id": "CONTAINER_NUMBER_CORRECTED",
+      "code": "CONTAINER_NUMBER_CORRECTED",
+      "severity": "warning",
+      "category": "ocr",
+      "title": "Container number OPLU3041722 needs verification",
+      "detail": "Container OPLU3041722: it was chosen among several readings: OPLU3641728 (strikethrough) fails the check digit (computed 7, printed 8) and OPLU3041722 (handwritten) passes the ISO 6346 check digit; the OCR text \"OPKUL 304/72 2\" was repaired (confidence 40).",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "OPKUL 304/72 2",
+          "bbox": [
+            132,
+            1613,
+            422,
+            1657
+          ]
+        }
+      ],
+      "action": "Verify the container number against the carrier's arrival notice, the ISF or the seal record before filing; a wrong number delays release.",
+      "field": "containers[0].number"
+    },
+    {
+      "id": "ORIGIN_DIFFERS:inv0-line5",
+      "code": "ORIGIN_DIFFERS",
+      "severity": "warning",
+      "category": "compliance",
+      "title": "Line 5 (NB-P118S): origin BD differs from invoice header VN",
+      "detail": "Line 5 (NB-P118S) is of BD (Bangladesh) origin (\"(Origin: Bangladesh)\"), while the invoice header states VN (Vietnam). The packing list confirms BD (Bangladesh). The MID must come from the producer in that country: SP Garments Dhaka Ltd. (BD). Each line is reported with its own country of origin, which can change duty rates, Chapter 99 measures and quota/visa requirements.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "(Origin: Bangladesh)"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "Country of Origin: VIETNAM"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "3. ** Carton No. 138: FOC samples (ladies polo NB-P118S) produced at our sister unit SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh. Hand-carried to Cat Lai CFS for en 7. consolidation."
+        }
+      ],
+      "action": "Enter line 5 (NB-P118S) with country of origin BD and the MID of its Bangladesh manufacturer; check origin-specific duties (incl. Chapter 99) and keep proof of origin on file.",
+      "field": "invoices[0].lines[4].countryOfOrigin",
+      "lineId": "inv0-line5"
+    },
+    {
+      "id": "DECLARATION_CONFLICT",
+      "code": "DECLARATION_CONFLICT",
+      "severity": "warning",
+      "category": "compliance",
+      "title": "Origin declaration (Vietnam) contradicts line origins",
+      "detail": "A printed statement reads \"(1) Goods manufactured and shipped by our contracted factory in Binh Duong, Vietnam. Factory packing list attached.\"; a printed statement reads \"…the goods are of Vietnam origin.\"; the carton marks read \"MADE IN VIETNAM / C/NO.; 1- 138\", but line 5 (NB-P118S) is of Bangladesh origin (BD). A false origin statement on a commercial document is a compliance risk even when the entry lines are declared correctly.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "(1) Goods manufactured and shipped by our contracted factory in Binh Duong, Vietnam. Factory packing list attached."
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "DECLARATION: We hereby certify that this invoice shows the actual price of the goods described, that all particulars are true and correct, and that the goods are of Vietnam origin."
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "MADE IN VIETNAM / C/NO.; 1- 138"
+        }
+      ],
+      "action": "Ask the seller to correct the declaration (or state the Bangladesh origin of the affected goods separately) and make sure those cartons are marked with their true country of origin (19 USC 1304)."
+    },
+    {
+      "id": "NCV_VALUE:inv0-line5",
+      "code": "NCV_VALUE",
+      "severity": "warning",
+      "category": "valuation",
+      "title": "Line 5 (NB-P118S): stated customs value looks nominal (USD 1.00/PCS)",
+      "detail": "Line 5 (NB-P118S) is free of charge / no commercial value (\"WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES\"; \"FOC SAMPLES - NO COMMERCIAL VALUE\"; \"Value for customs purpose only USD 1.00/pc\"); the stated value for customs is USD 24.00 for 24 PCS (USD 1.00/PCS). This looks nominal because it is under 25% of the median unit value of the commercial lines on the invoice (USD 7.18/PCS) and it is below USD 2.00 per unit. CBP requires NCV goods to be entered at the value of identical or similar goods, or their cost of production, not a token amount.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "5 NB-P118S WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES 6106.10 24 PCS 1.00 24"
+        }
+      ],
+      "action": "Ask the shipper for the factory cost or the price of comparable commercial goods and update line 5 (NB-P118S)'s value; entering a nominal value risks undervaluation penalties.",
+      "field": "invoices[0].lines[4].customsValue",
+      "lineId": "inv0-line5"
+    },
+    {
+      "id": "ASSIST:inv0-line4",
+      "code": "ASSIST",
+      "severity": "warning",
+      "category": "valuation",
+      "title": "Line 4 (W-B220): buyer-supplied materials (assist) USD 4,180.00 added to value",
+      "detail": "Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer (ref. NB-26-0918F): value USD 4,180.00, not included in the invoice price. The whole USD 4,180.00 is added to this line, the only line for style W-B220. The value of materials supplied free or at reduced cost by the buyer for use in producing the goods must be added to the price actually paid (19 USC 1401a(b)(1)(C) and (h)(1)(A)). Entered value: USD 1,260.00 + USD 4,180.00 = USD 5,440.00.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "(*) Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric P.O. NB-26-0918F, value USD 4,180.00, not included in th…"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "4 W-B220 WOMEN'S LONG SLEEVE BLOUSE, V-NECK 6206.40 600 PCS 2.10 1,260"
+        }
+      ],
+      "action": "Confirm the assist value (cost of acquisition plus transport to the factory) and that it relates only to the goods on this entry; if the materials cover several shipments, apportion per 19 CFR 152.103(e). Keep the buyer's purchase order for the materials on file.",
+      "field": "invoices[0].lines[3].assists",
+      "lineId": "inv0-line4"
+    },
+    {
+      "id": "ARRIVAL_ESTIMATED",
+      "code": "ARRIVAL_ESTIMATED",
+      "severity": "warning",
+      "category": "assumption",
+      "title": "Arrival date 2026-10-14 is an estimate",
+      "detail": "The arrival date 2026-10-14 is the estimated time of arrival printed on the commercial invoice; no arrival notice was provided. The entry's arrival date, entry date and exchange rate depend on the actual arrival.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "ETA: 2026-10-14"
+        }
+      ],
+      "action": "Confirm the actual arrival date from the carrier's arrival notice (or enter it in the broker inputs) before filing.",
+      "field": "transport.arrivalDate"
+    },
+    {
+      "id": "OCR_VERIFY:doc-d075d076bca1",
+      "code": "OCR_VERIFY",
+      "severity": "warning",
+      "category": "ocr",
+      "title": "Verify 5 OCR readings on BMLVHCM26090418_House_BL.pdf",
+      "detail": "containers[0].number = OPLU3041722 (conf 40, repaired from \"OPKUL 304/72 2\"); voyage = 041E (conf 39); strikethrough: Typed container number read as OPLU3641728 appears crossed out (fails ISO 6346 check digit); handwritten: Handwritten container number \"OPKUL 304/72 2\" read as OPLU3041722 (\"304/722\" read as digits 3041722; owner code \"OPKUL\" replaced by OPLU seen elsewhere on the page); passes ISO 6346 check digit; low_confidence: Measurement header not read; 13.580 taken from the column right of the gross weight (standard B/L layout).",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "OPKUL 304/72 2",
+          "bbox": [
+            132,
+            1613,
+            422,
+            1657
+          ]
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "041E",
+          "bbox": [
+            1504,
+            1240,
+            1574,
+            1266
+          ]
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "Typed container number read as OPLU3641728 appears crossed out (fails ISO 6346 check digit)."
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "Handwritten container number \"OPKUL 304/72 2\" read as OPLU3041722 (\"304/722\" read as digits 3041722; owner code \"OPKUL\" replaced by OPLU seen elsewhere on the page); passes ISO 6346 check digit."
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "Measurement header not read; 13.580 taken from the column right of the gross weight (standard B/L layout)."
+        }
+      ],
+      "action": "Check these fields against the original BMLVHCM26090418_House_BL.pdf (scan quality, handwriting or corrections) and fix any misreads before filing."
+    },
+    {
+      "id": "OCR_VERIFY:doc-c2404938fa7f",
+      "code": "OCR_VERIFY",
+      "severity": "warning",
+      "category": "ocr",
+      "title": "Verify 2 OCR readings on SPG-PL-2609-117_Packing_List.pdf",
+      "detail": "lines[2].grossWeightKg = 522 (conf 60, repaired from \"\"); lines[4].cartons = 1 (conf 50, repaired from \"\").",
+      "evidence": [
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "lines[2].grossWeightKg: 522"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "lines[4].cartons: 1"
+        }
+      ],
+      "action": "Check these fields against the original SPG-PL-2609-117_Packing_List.pdf (scan quality, handwriting or corrections) and fix any misreads before filing."
+    },
+    {
+      "id": "UFLPA",
+      "code": "UFLPA",
+      "severity": "warning",
+      "category": "compliance",
+      "title": "UFLPA: cotton-containing textiles (4 lines)",
+      "detail": "Line 1 (NB-T101), Line 2 (NB-H205), Line 3 (NB-C330) and Line 5 (NB-P118S) contain cotton. Cotton apparel is a CBP enforcement priority under the Uyghur Forced Labor Prevention Act regardless of the declared origin (Vietnam and Bangladesh): goods with Xinjiang-sourced cotton anywhere in the supply chain are presumed inadmissible and can be detained.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "NB-T101: 100% Cotton"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "NB-H205: 60% Cotton 40% Polyester"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "NB-C330: 98% Cotton 2% Elastane"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "NB-P118S: 100% Cotton"
+        }
+      ],
+      "action": "Have supply-chain tracing documents ready (fabric and yarn mill invoices, cotton origin certificates, production records, purchase orders) in case CBP detains the shipment.",
+      "field": "invoices"
+    },
+    {
+      "id": "MISSING_LOCATION_OF_GOODS",
+      "code": "MISSING_LOCATION_OF_GOODS",
+      "severity": "warning",
+      "category": "missing_data",
+      "title": "Location of goods (FIRMS code) missing",
+      "detail": "The FIRMS code of the facility holding the goods (terminal/CFS/CES) is not on the documents; it is usually on the arrival notice.",
+      "evidence": [],
+      "action": "Enter the 4-character FIRMS code in the broker inputs.",
+      "field": "header.locationOfGoods"
+    },
+    {
+      "id": "MID_VERIFY:VNSAIPHO9DIA",
+      "code": "MID_VERIFY",
+      "severity": "warning",
+      "category": "compliance",
+      "title": "Verify MID VNSAIPHO9DIA (SAIGON PHOENIX GARMENT JOINT STOCK COMPANY)",
+      "detail": "Street line \"Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward\" mixes letters and digits (C7-C8); took the largest number 9 from all digit groups. Verify against the MID the broker has on file. The address is ambiguous for the CBP MID rules. Lines: inv0-line1, inv0-line2, inv0-line3, inv0-line4.",
+      "evidence": [],
+      "action": "Verify the manufacturer ID against the factory name and street address (or a previous entry) before filing."
+    },
+    {
+      "id": "CHAPTER_99_NOT_COMPUTED",
+      "code": "CHAPTER_99_NOT_COMPUTED",
+      "severity": "warning",
+      "category": "compliance",
+      "title": "Chapter 99 additional duties not computed",
+      "detail": "Additional Chapter 99 duties (e.g. reciprocal/IEEPA, Section 122/232/301 measures) for origins VN, BD as of entry date 2026-10-14 are not computed by this app. NetCHB auto-apply-remedies is enabled, so NetCHB will add the trade remedies it finds for single-tariff lines.",
+      "evidence": [],
+      "action": "Verify the applicable Chapter 99 provisions against current CBP CSMS guidance for these origins and the entry date before filing.",
+      "field": "invoices[].lineItems[].tariffs"
+    },
+    {
+      "id": "NON_DUTIABLE_CHARGES",
+      "code": "NON_DUTIABLE_CHARGES",
+      "severity": "info",
+      "category": "valuation",
+      "title": "Freight/insurance excluded from value (USD 4,035.00)",
+      "detail": "CIF TACOMA, WA: Ocean Freight (Cat Lai - Tacoma) USD 3,850.00 + Marine Insurance Premium USD 185.00 = USD 4,035.00 are costs of international transport/insurance, excluded from the entered value and reported as header charges. printed \"TOTAL FOB VALUE (Items 1 - 4)\" USD 23,235.00 + itemized charges USD 4,035.00 = printed \"TOTAL CIF TACOMA, WA (USD)\" USD 27,270.00, so the line amounts already exclude the charges.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "Ocean Freight (Cat Lai - Tacoma): USD 3,850.00"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "Marine Insurance Premium: USD 185.00"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "TOTAL FOB VALUE (Items 1 - 4): USD 23,235.00"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 2,
+          "text": "TOTAL CIF TACOMA, WA (USD): USD 27,270.00"
+        }
+      ],
+      "action": "Keep the freight and insurance invoices (or the policy) on file to support the deduction; no change needed.",
+      "field": "invoices[0].charges"
+    },
+    {
+      "id": "DATE_AMBIGUOUS",
+      "code": "DATE_AMBIGUOUS",
+      "severity": "info",
+      "category": "assumption",
+      "title": "Invoice date 12/09/2026 read as 2026-09-12",
+      "detail": "\"12/09/2026\" can be read as 2026-09-12 (day/month) or 2026-12-09 (month/day). Chronology decides: the invoice must precede the packing list date 2026-09-20, on-board date 2026-09-24, ETD 2026-09-24, ETA 2026-10-14, which only 2026-09-12 does (consistent with day-first dates used in HK).",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "Invoice Date: 12/09/2026"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "Date: 2026-09-20"
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "On board: 2026-09-24"
+        }
+      ],
+      "action": "No action needed unless the seller confirms 2026-12-09.",
+      "field": "invoices[0].invoiceDate"
+    },
+    {
+      "id": "SELLER_NOT_MANUFACTURER",
+      "code": "SELLER_NOT_MANUFACTURER",
+      "severity": "info",
+      "category": "compliance",
+      "title": "Seller is not the manufacturer",
+      "detail": "The invoice is issued by KOWLOON BAY APPAREL SOURCING LIMITED (Hong Kong), but the goods were made by SAIGON PHOENIX GARMENT JOINT STOCK COMPANY (Vietnam) and SP Garments Dhaka Ltd. (Bangladesh). The manufacturer identification code (MID) must identify the actual producer of each line, not the seller; the seller is reported as the selling party.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "KOWLOON BAY APPAREL SOURCING LIMITED, Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong, Tel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY, L6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam, Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong P…"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh"
+        }
+      ],
+      "action": "Build each line's MID from its manufacturer's name and address (not the seller's) and verify the factory address with the importer.",
+      "field": "manufacturers"
+    },
+    {
+      "id": "FIRST_SALE_OPPORTUNITY",
+      "code": "FIRST_SALE_OPPORTUNITY",
+      "severity": "info",
+      "category": "valuation",
+      "title": "Possible first-sale valuation",
+      "detail": "KOWLOON BAY APPAREL SOURCING LIMITED appears to be a middleman (located in Hong Kong, factory elsewhere) buying from SAIGON PHOENIX GARMENT JOINT STOCK COMPANY (Vietnam) and SP Garments Dhaka Ltd. (Bangladesh). If the factory-to-middleman sale is a bona fide sale clearly destined for the United States, the entry may be valued on that first-sale price (Nissho Iwai; 19 CFR 152.103(a)(1)), which is usually lower than the price on this invoice.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "KOWLOON BAY APPAREL SOURCING LIMITED, Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong, Tel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203"
+        },
+        {
+          "docId": "doc-c2404938fa7f",
+          "page": 1,
+          "text": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY, L6 C7-C8, Dudng sé 9, KCN Séng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam, Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong P…"
+        }
+      ],
+      "action": "Optional: ask the importer whether the factory invoice, proof of payment and the supply-chain contracts are available to support a first-sale declaration; otherwise value on this invoice.",
+      "field": "invoices[0]"
+    },
+    {
+      "id": "ULTIMATE_CONSIGNEE_ASSUMED",
+      "code": "ULTIMATE_CONSIGNEE_ASSUMED",
+      "severity": "info",
+      "category": "assumption",
+      "title": "Ultimate consignee = buyer NORTHBOUND OUTFITTERS, INC., not the ship-to",
+      "detail": "The ship-to CASCADE FULFILLMENT PARTNERS LLC (Kent, WA) looks like a logistics provider (\"FULFILLMENT\") and receives the goods \"for account of Northbound Outfitters, Inc.\". The ultimate consignee is the US party the goods were sold to, so NORTHBOUND OUTFITTERS, INC. is used; CASCADE FULFILLMENT PARTNERS LLC stays the ship-to/delivery party and gives the destination state.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "NORTHBOUND OUTFITTERS, INC., 2150 NW Raleigh Street, Suite 300, Portland, OR 97210, U.S.A., Attn: Megan Holt, Sourcing Dept., Tel: +1 503 555 0148"
+        },
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 1,
+          "text": "CASCADE FULFILLMENT PARTNERS LLC, 21820 76th Avenue South, Dock 4, Kent, WA 98032, U.S.A., For account of: Northbound Outfitters, Inc., Receiving: +1 253 555 0193"
+        }
+      ],
+      "action": "Confirm the ultimate consignee and provide its IRS/EIN number (or CBP-assigned number).",
+      "field": "ultimateConsignee"
+    },
+    {
+      "id": "HOUSE_MASTER_BILL",
+      "code": "HOUSE_MASTER_BILL",
+      "severity": "info",
+      "category": "compliance",
+      "title": "House bill under a master bill",
+      "detail": "house BMLV HCM26090418 (issued by BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD.) under master OPLU SGN260917735 (ORIENT PACIFIC LINES). Both bills must be reported on the entry manifest (house and master SCAC/number); CBP matches the house bill to the AMS/ISF filing and the master bill to the carrier's manifest.",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "BMLVHCM26090418",
+          "bbox": [
+            1295,
+            445,
+            1633,
+            498
+          ]
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "MBL: OPLUSGN260917735 CARRIER: ORIENT PACIFIC LINES (OPLU)"
+        }
+      ],
+      "action": "Report both bill numbers on the entry; confirm the master bill with the carrier's arrival notice.",
+      "field": "bills"
+    },
+    {
+      "id": "RELATED_PARTY_ASSUMED",
+      "code": "RELATED_PARTY_ASSUMED",
+      "severity": "info",
+      "category": "assumption",
+      "title": "Buyer and seller assumed not related",
+      "detail": "No document states whether the parties are related (KOWLOON BAY APPAREL SOURCING LIMITED → NORTHBOUND OUTFITTERS, INC.). The entry is prepared as a non-related-party transaction. Related parties (e.g. common ownership, 5%+ shareholding, employer/employee) must be declared, and the price must then be shown to be acceptable.",
+      "evidence": [],
+      "action": "Confirm with the importer whether it is related to the seller; if it is, switch related-party to Y on the invoice.",
+      "field": "invoices[0].relatedParty"
+    },
+    {
+      "id": "ISF",
+      "code": "ISF",
+      "severity": "info",
+      "category": "compliance",
+      "title": "ISF filed by IMPORTER/AGENT",
+      "detail": "Ocean shipments to the US require an Importer Security Filing at least 24 hours before loading at the foreign port. The bill of lading states the ISF was filed by \"IMPORTER/AGENT\". AMS was filed by \"BLUE MERIDIAN\". The entry's bill numbers, manufacturer, seller, consignee and country of origin should match the ISF.",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "ISF FILED BY: IMPORTER/AGENT"
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "AMS FILED BY: BLUE MERIDIAN"
+        }
+      ],
+      "action": "Confirm the ISF was accepted (and matched to the bill) and that its parties and origin agree with this entry; late or inaccurate ISF filings risk liquidated damages and holds."
+    },
+    {
+      "id": "TELEX_RELEASE",
+      "code": "TELEX_RELEASE",
+      "severity": "info",
+      "category": "compliance",
+      "title": "Telex release: originals surrendered at origin",
+      "detail": "The bill of lading was telex-released (originals surrendered at origin), so the carrier can release the cargo without presentation of an original bill.",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "TELEX RELEASED"
+        },
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "ORIGINALS SURRENDERED AT ORIGEN"
+        }
+      ],
+      "action": "Confirm with the carrier/forwarder that the release is posted at destination and freight is settled before arranging delivery."
+    },
+    {
+      "id": "COLLECT_CHARGES",
+      "code": "COLLECT_CHARGES",
+      "severity": "info",
+      "category": "valuation",
+      "title": "Charges payable at destination (collect)",
+      "detail": "DESTINATION CHGS is payable by the consignee at destination. These transport charges arise after export, are not part of the price paid for the goods, and are not included in the entered value.",
+      "evidence": [
+        {
+          "docId": "doc-d075d076bca1",
+          "page": 1,
+          "text": "DESTINATION CHGS COLLECT"
+        }
+      ],
+      "action": "No valuation change needed; make sure the consignee expects the destination charges before release."
+    },
+    {
+      "id": "ENTRY_DATE_DEFAULTED",
+      "code": "ENTRY_DATE_DEFAULTED",
+      "severity": "info",
+      "category": "assumption",
+      "title": "Entry date defaulted to 2026-10-14",
+      "detail": "No entry date was given, so the estimated arrival date is used.",
+      "evidence": [],
+      "action": "Set the entry date in the broker inputs if the entry will be filed on a different date.",
+      "field": "header.entryDate"
+    },
+    {
+      "id": "INVOICE_NO_NORMALIZED",
+      "code": "INVOICE_NO_NORMALIZED",
+      "severity": "info",
+      "category": "format",
+      "title": "Invoice number normalized: KBAS/NB/26-0912 → KBAS-NB-26-0912",
+      "detail": "NetCHB invoice numbers may contain only letters, digits and \"-\" (max 17 characters), so other characters were replaced with \"-\".",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "KBAS/NB/26-0912"
+        }
+      ],
+      "action": "No action, unless your records use a different form of this invoice number.",
+      "field": "invoices[0].invoiceNo"
+    },
+    {
+      "id": "HTS_RESOLVED:inv0-line1",
+      "code": "HTS_RESOLVED",
+      "severity": "info",
+      "category": "classification",
+      "title": "Line 1 (NB-T101): 6109.10 -> 6109.10.00.12 Other T-shirts: Men's (338), 16.5%",
+      "detail": "T-shirts, singlets, tank tops and similar garments, knitted or crocheted › Of cotton › Men's or boys' › Other T-shirts › Men's (338). Line: gender men (attribute); garment tshirt/top; construction knit; composition 100% cotton (attribute).\nDeclared 6109.10 → 6109.10.00 \"Of cotton\".\n\"Men's or boys'\" — gender men's; not \"Women's or girls'\" (line is men's)\n\"Other T-shirts\" — garment tshirt; not \"T-shirts, all white, short hemmed sleeves, hemme\" (\"all white\" not supported by the line text); \"Singlets, all white, without pockets, trim or em\" (line garment is tshirt); \"Thermal undershirts (352)\" (line garment is tshirt); \"Tank tops and other singlets\" (line garment is tshirt)\n6109.10.00.12 \"Men's (338)\" — gender men's; not \"Boys' (338)\" (line is men's)\nGeneral rate 16.5% (inherited from 6109.10.00).\nTextile category 338; units DOZ, KG. Confidence: high.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "HS 6109.10"
+        }
+      ],
+      "action": "Review the classification; change it via the HTS decision if needed.",
+      "field": "invoices[0].lineItems[0].tariffs[0].tariffNo",
+      "lineId": "inv0-line1"
+    },
+    {
+      "id": "HTS_RESOLVED:inv0-line2",
+      "code": "HTS_RESOLVED",
+      "severity": "info",
+      "category": "classification",
+      "title": "Line 2 (NB-H205): 6110.20 -> 6110.20.20.46 Sweatshirts: Women's (339), 16.5%",
+      "detail": "Sweaters, pullovers, sweatshirts, waistcoats (vests) and similar articles, knitted or crocheted › Of cotton › Other › Other › Sweatshirts › Women's (339). Line: gender women (attribute); garment sweatshirt; construction knit; composition 60% cotton / 40% polyester (attribute).\nDeclared 6110.20 → 6110.20 \"Of cotton\".\n6110.20.20 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 36 percent or more by weight of flax \" (0% flax, row needs ≥36%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Boys' or girls' garments imported as parts of pl\" (line is women's)\n\"Sweatshirts\" — garment sweatshirt; not \"Sweaters\" (line garment is sweatshirt); \"Vests, other than sweater vests\" (line garment is sweatshirt)\n6110.20.20.46 \"Women's (339)\" — gender women's; not \"Men's (338)\" (line is women's); \"Boys' (338)\" (line is women's); \"Girls' (339)\" (line is women's)\nGeneral rate 16.5% (inherited from 6110.20.20).\nTextile category 339; units DOZ, KG. Confidence: high.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "HS 6110.20"
+        }
+      ],
+      "action": "Review the classification; change it via the HTS decision if needed.",
+      "field": "invoices[0].lineItems[1].tariffs[0].tariffNo",
+      "lineId": "inv0-line2"
+    },
+    {
+      "id": "HTS_RESOLVED:inv0-line3",
+      "code": "HTS_RESOLVED",
+      "severity": "info",
+      "category": "classification",
+      "title": "Line 3 (NB-C330): 6203.42 -> 6203.42.45.18 Men's trousers and breeches: Other (347), 16.6%",
+      "detail": "Men's or boys' suits, ensembles, suit-type jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear) › Trousers, bib and brace overalls, breeches and shorts › Of cotton › Other › Other › Other › Other › Men's trousers and breeches › Other (347). Line: gender men (attribute); garment trousers; construction woven; composition 98% cotton / 2% elastane (attribute).\nDeclared 6203.42 → 6203.42 \"Of cotton\".\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Recreational performance outerwear\" (\"recreational performance outerwear\" not supported by the line text)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 15 percent or more by weight of down \" (0% down, row needs ≥15%)\n6203.42.45 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Bib and brace overalls\" (line garment is trousers)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing compact yarns described in statistica\" (\"compact yarns\" not supported by the line text)\n\"Men's trousers and breeches\" — gender men's, garment trousers; not \"Boys' trousers and breeches\" (line is men's); \"Men's shorts (347)\" (line garment is trousers); \"Boys' shorts\" (line is men's)\n6203.42.45.18 \"Other (347)\" — residual \"Other\": every specific sibling is excluded; not \"Corduroy (347)\" (\"corduroy\" not supported by the line text); \"Blue denim (347)\" (\"denim\" not supported by the line text); \"Designed for use in hospitals, clinics, laborato\" (\"hospital/laboratory use\" not supported by the line text)\nGeneral rate 16.6% (inherited from 6203.42.45).\nTextile category 347; units DOZ, KG. Confidence: high.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "HS 6203.42"
+        }
+      ],
+      "action": "Review the classification; change it via the HTS decision if needed.",
+      "field": "invoices[0].lineItems[2].tariffs[0].tariffNo",
+      "lineId": "inv0-line3"
+    },
+    {
+      "id": "HTS_RESOLVED:inv0-line4",
+      "code": "HTS_RESOLVED",
+      "severity": "info",
+      "category": "classification",
+      "title": "Line 4 (W-B220): 6206.40 -> 6206.40.30.35 Women's: Other (641), 26.9%",
+      "detail": "Women's or girls' blouses, shirts and shirt-blouses › Of man-made fibers › Other › Other › Other › Women's › Other (641). Line: gender women (attribute); garment blouse/shirt/top; construction woven; composition 100% polyester (attribute).\nDeclared 6206.40 → 6206.40 \"Of man-made fibers\".\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"Certified hand-loomed and folklore products (641\" (\"hand-loomed/folklore\" not supported by the line text)\n6206.40.30 \"Other\" — residual \"Other\": every specific sibling is excluded; not \"Containing 30 percent or more by weight of silk \" (0% silk, row needs ≥30%); \"Containing 36 percent or more by weight of wool \" (0% wool, row needs ≥36%)\n\"Other\" — residual \"Other\": every specific sibling is excluded; not \"With two or more colors in the warp and/or the f\" (\"yarn-dyed (two or more colours in warp/filling)\" not supported by the line text)\n\"Women's\" — gender women's; not \"Girls'\" (line is women's)\n6206.40.30.35 \"Other (641)\" — residual \"Other\": every specific sibling is excluded; not \"Designed for use in hospitals, clinics, laborato\" (\"hospital/laboratory use\" not supported by the line text)\nGeneral rate 26.9% (inherited from 6206.40.30).\nTextile category 641; units DOZ, KG. Confidence: high.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "HS 6206.40"
+        }
+      ],
+      "action": "Review the classification; change it via the HTS decision if needed.",
+      "field": "invoices[0].lineItems[3].tariffs[0].tariffNo",
+      "lineId": "inv0-line4"
+    },
+    {
+      "id": "HTS_RESOLVED:inv0-line5",
+      "code": "HTS_RESOLVED",
+      "severity": "info",
+      "category": "classification",
+      "title": "Line 5 (NB-P118S): 6106.10 -> 6106.10.00.10 Of cotton: Women's (339), 19.7%",
+      "detail": "Women's or girls' blouses and shirts, knitted or crocheted › Of cotton › Women's (339). Line: gender women (attribute); garment shirt/top; construction knit; composition 100% cotton (attribute).\nDeclared 6106.10 → 6106.10.00 \"Of cotton\".\n6106.10.00.10 \"Women's (339)\" — gender women's; not \"Girls'\" (line is women's)\nGeneral rate 19.7% (inherited from 6106.10.00).\nTextile category 339; units DOZ, KG. Confidence: high.",
+      "evidence": [
+        {
+          "docId": "doc-8da4ffda2019",
+          "page": 0,
+          "text": "HS 6106.10"
+        }
+      ],
+      "action": "Review the classification; change it via the HTS decision if needed.",
+      "field": "invoices[0].lineItems[4].tariffs[0].tariffNo",
+      "lineId": "inv0-line5"
+    },
+    {
+      "id": "FIELD_OMITTED:cargoReleaseParties",
+      "code": "FIELD_OMITTED",
+      "severity": "info",
+      "category": "missing_data",
+      "title": "Some cargo release parties were not sent",
+      "detail": "Without party IDs NetCHB needs a full address (street, city, country). Not sent: CS BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD. (address incomplete (missing street address, city, country)).",
+      "evidence": [],
+      "action": "Complete these parties in NetCHB (address or DUNS) if the cargo release needs them; seller (SE) and buyer (BY) are required for ACE cargo release.",
+      "field": "cargoReleaseParties"
+    },
+    {
+      "id": "AUTO_REMEDIES",
+      "code": "AUTO_REMEDIES",
+      "severity": "info",
+      "category": "compliance",
+      "title": "auto-apply-remedies is on",
+      "detail": "The XML includes <auto-apply-remedies/>: NetCHB applies the trade remedies it finds to lines with a single tariff.",
+      "evidence": [],
+      "action": "Review the remedies NetCHB applied before transmitting; turn the option off in the broker inputs to declare them manually.",
+      "field": "autoApplyRemedies"
+    }
+  ],
+  "valuations": [
+    {
+      "lineId": "inv0-line1",
+      "currency": "USD",
+      "steps": [
+        {
+          "label": "Invoice amount, corrected (2,400 × 2.85; printed 6,480)",
+          "amount": 6840
+        }
+      ],
+      "enteredValue": 6840
+    },
+    {
+      "lineId": "inv0-line2",
+      "currency": "USD",
+      "steps": [
+        {
+          "label": "Invoice amount (1,200 × 7.4)",
+          "amount": 8880
+        }
+      ],
+      "enteredValue": 8880
+    },
+    {
+      "lineId": "inv0-line3",
+      "currency": "USD",
+      "steps": [
+        {
+          "label": "Invoice amount (900 × 6.95)",
+          "amount": 6255
+        }
+      ],
+      "enteredValue": 6255
+    },
+    {
+      "lineId": "inv0-line4",
+      "currency": "USD",
+      "steps": [
+        {
+          "label": "Invoice amount (600 × 2.1)",
+          "amount": 1260
+        },
+        {
+          "label": "Plus assist: Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer",
+          "amount": 4180,
+          "note": "100% of 4,180.00 apportioned to this line (19 USC 1401a(h))."
+        }
+      ],
+      "enteredValue": 5440
+    },
+    {
+      "lineId": "inv0-line5",
+      "currency": "USD",
+      "steps": [
+        {
+          "label": "Stated value for customs (NCV line)",
+          "amount": 24,
+          "note": "No commercial value: stated value for customs purposes"
+        }
+      ],
+      "enteredValue": 24
+    }
+  ],
+  "entryModel": {
+    "entryNo": {
+      "kind": "system"
+    },
+    "autoApplyRemedies": true,
+    "header": {
+      "importerName": "NORTHBOUND OUTFITTERS, INC.",
+      "ultimateConsignee": {
+        "consigneeName": "NORTHBOUND OUTFITTERS, INC."
+      },
+      "processingPort": "3002",
+      "entryPort": "3002",
+      "entryDate": "2026-10-14",
+      "entryType": "01",
+      "charges": 4035,
+      "grossWeight": 1930,
+      "totalEntryValue": 27439,
+      "description": "WEARING APPAREL",
+      "stateDestination": "WA",
+      "vesselName": "PACIFIC ARGOS",
+      "modeTransportation": "11",
+      "unladingPort": "3002",
+      "importDate": "2026-10-14",
+      "arrivalDate": "2026-10-14",
+      "carrierCode": "OPLU",
+      "customerReferenceNo": "NB-26-0918",
+      "voyageNo": "041E"
+    },
+    "manifest": {
+      "billsOfLading": [
+        {
+          "quantity": 138,
+          "unit": "CTN",
+          "masterScac": "OPLU",
+          "masterBill": "SGN260917735",
+          "houseScac": "BMLV",
+          "houseBill": "HCM26090418"
+        }
+      ]
+    },
+    "containers": [
+      {
+        "containerNumber": "OPLU3041722",
+        "containerSize": "20 ft",
+        "containerType": "Dry",
+        "sealNumbers": "OPL7731482"
+      }
+    ],
+    "cargoReleaseParties": [
+      {
+        "entityCode": "SE",
+        "entityName": "KOWLOON BAY APPAREL SOURCING LTD",
+        "address": {
+          "addressComponents": [
+            "Unit 1708, 17/F, Hing Fat",
+            "Industrial Building, 223 Wai Yip",
+            "Street"
+          ],
+          "city": "Kwun Tong",
+          "country": "HK"
+        }
+      },
+      {
+        "entityCode": "BY",
+        "entityName": "NORTHBOUND OUTFITTERS, INC.",
+        "address": {
+          "addressComponents": [
+            "2150 NW Raleigh Street, Suite 300"
+          ],
+          "city": "Portland",
+          "stateProvinceCode": "OR",
+          "postalCode": "97210",
+          "country": "US"
+        }
+      },
+      {
+        "entityCode": "ST",
+        "entityName": "CASCADE FULFILLMENT PARTNERS LLC",
+        "address": {
+          "addressComponents": [
+            "21820 76th Avenue South, Dock 4"
+          ],
+          "city": "Kent",
+          "stateProvinceCode": "WA",
+          "postalCode": "98032",
+          "country": "US"
+        }
+      },
+      {
+        "entityCode": "MF",
+        "entityName": "SAIGON PHOENIX GARMENT JSC",
+        "address": {
+          "addressComponents": [
+            "Lot C7-C8, Road No. 9, Song Than 2",
+            "Industrial Park, Di An Ward"
+          ],
+          "city": "Di An City",
+          "country": "VN"
+        }
+      },
+      {
+        "entityCode": "MF",
+        "entityName": "SP Garments Dhaka Ltd.",
+        "address": {
+          "addressComponents": [
+            "Plot 41"
+          ],
+          "city": "Gazipur",
+          "country": "BD"
+        }
+      }
+    ],
+    "invoices": [
+      {
+        "invoiceNo": "KBAS-NB-26-0912",
+        "lineItems": [
+          {
+            "lineId": "inv0-line1",
+            "exportDate": "2026-09-24",
+            "countryOrigin": "VN",
+            "manufacturerId": "VNSAIPHO9DIA",
+            "relatedParty": "N",
+            "countryExport": "VN",
+            "ladingPort": "55224",
+            "grossWeight": 480,
+            "commercialDescription": "MEN'S CREW NECK SHORT SLEEVE T-SHIRT, 100% COTTON",
+            "invoiceQuantity": 2400,
+            "invoiceUnitValue": 2.85,
+            "poNumber": "NB-26-0918",
+            "categoryNo": "338",
+            "tariffs": [
+              {
+                "tariffNo": "6109100012",
+                "value": 6840,
+                "quantity1": 200,
+                "unitOfMeasure1": "DOZ",
+                "quantity2": 432,
+                "unitOfMeasure2": "KG"
+              }
+            ]
+          },
+          {
+            "lineId": "inv0-line2",
+            "exportDate": "2026-09-24",
+            "countryOrigin": "VN",
+            "manufacturerId": "VNSAIPHO9DIA",
+            "relatedParty": "N",
+            "countryExport": "VN",
+            "ladingPort": "55224",
+            "grossWeight": 774,
+            "commercialDescription": "WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET, 60% COTTON 40% POLYESTER",
+            "invoiceQuantity": 1200,
+            "invoiceUnitValue": 7.4,
+            "poNumber": "NB-26-0918",
+            "categoryNo": "339",
+            "tariffs": [
+              {
+                "tariffNo": "6110202046",
+                "value": 8880,
+                "quantity1": 100,
+                "unitOfMeasure1": "DOZ",
+                "quantity2": 715.4,
+                "unitOfMeasure2": "KG"
+              }
+            ]
+          },
+          {
+            "lineId": "inv0-line3",
+            "exportDate": "2026-09-24",
+            "countryOrigin": "VN",
+            "manufacturerId": "VNSAIPHO9DIA",
+            "relatedParty": "N",
+            "countryExport": "VN",
+            "ladingPort": "55224",
+            "grossWeight": 522,
+            "commercialDescription": "MEN'S SLIM FIT CHINO TROUSERS, 98% COTTON 2% ELASTANE",
+            "invoiceQuantity": 900,
+            "invoiceUnitValue": 6.95,
+            "poNumber": "NB-26-0918",
+            "categoryNo": "347",
+            "tariffs": [
+              {
+                "tariffNo": "6203424518",
+                "value": 6255,
+                "quantity1": 75,
+                "unitOfMeasure1": "DOZ",
+                "quantity2": 486,
+                "unitOfMeasure2": "KG"
+              }
+            ]
+          },
+          {
+            "lineId": "inv0-line4",
+            "exportDate": "2026-09-24",
+            "countryOrigin": "VN",
+            "manufacturerId": "VNSAIPHO9DIA",
+            "relatedParty": "N",
+            "countryExport": "VN",
+            "ladingPort": "55224",
+            "grossWeight": 106,
+            "commercialDescription": "WOMEN'S LONG SLEEVE BLOUSE, V-NECK, 100% POLYESTER",
+            "invoiceQuantity": 600,
+            "invoiceUnitValue": 2.1,
+            "poNumber": "NB-26-0918",
+            "categoryNo": "641",
+            "tariffs": [
+              {
+                "tariffNo": "6206403035",
+                "value": 5440,
+                "quantity1": 50,
+                "unitOfMeasure1": "DOZ",
+                "quantity2": 96,
+                "unitOfMeasure2": "KG"
+              }
+            ]
+          },
+          {
+            "lineId": "inv0-line5",
+            "exportDate": "2026-09-24",
+            "countryOrigin": "BD",
+            "manufacturerId": "BDSPGAR41GAZ",
+            "relatedParty": "N",
+            "countryExport": "VN",
+            "ladingPort": "55224",
+            "grossWeight": 6,
+            "commercialDescription": "WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES, 100% COTTON",
+            "invoiceQuantity": 24,
+            "invoiceUnitValue": 1,
+            "poNumber": "NB-26-0918",
+            "categoryNo": "339",
+            "tariffs": [
+              {
+                "tariffNo": "6106100010",
+                "value": 24,
+                "quantity1": 2,
+                "unitOfMeasure1": "DOZ",
+                "quantity2": 5.1,
+                "unitOfMeasure2": "KG"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<entry xmlns=\"http://www.netchb.com/xml/entry\">\n  <entry-no>\n    <system-generated/>\n  </entry-no>\n  <auto-apply-remedies/>\n  <header>\n    <importer-name>NORTHBOUND OUTFITTERS, INC.</importer-name>\n    <ultimate-consignee>\n      <consignee-name>NORTHBOUND OUTFITTERS, INC.</consignee-name>\n    </ultimate-consignee>\n    <processing-port>3002</processing-port>\n    <entry-port>3002</entry-port>\n    <entry-date>2026-10-14</entry-date>\n    <entry-type>01</entry-type>\n    <charges>4035</charges>\n    <gross-weight>1930</gross-weight>\n    <total-entry-value>27439</total-entry-value>\n    <description>WEARING APPAREL</description>\n    <state-destination>WA</state-destination>\n    <vessel-name>PACIFIC ARGOS</vessel-name>\n    <mode-transportation>11</mode-transportation>\n    <unlading-port>3002</unlading-port>\n    <import-date>2026-10-14</import-date>\n    <arrival-date>2026-10-14</arrival-date>\n    <carrier-code>OPLU</carrier-code>\n    <customer-reference-no>NB-26-0918</customer-reference-no>\n    <voyage-no>041E</voyage-no>\n  </header>\n  <manifest>\n    <bill-of-lading>\n      <master-scac>OPLU</master-scac>\n      <master-bill>SGN260917735</master-bill>\n      <house-scac>BMLV</house-scac>\n      <house-bill>HCM26090418</house-bill>\n      <quantity>138</quantity>\n      <unit>CTN</unit>\n    </bill-of-lading>\n  </manifest>\n  <containers>\n    <container>\n      <container-number>OPLU3041722</container-number>\n      <container-size>20 ft</container-size>\n      <container-type>Dry</container-type>\n      <seal-numbers>OPL7731482</seal-numbers>\n    </container>\n  </containers>\n  <ace-cargo-release-parties>\n    <entity>\n      <entity-code>SE</entity-code>\n      <entity-name>KOWLOON BAY APPAREL SOURCING LTD</entity-name>\n      <entity-information>\n        <entity-address>\n          <address-components>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Unit 1708, 17/F, Hing Fat</address-information>\n            </address-component>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Industrial Building, 223 Wai Yip</address-information>\n            </address-component>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Street</address-information>\n            </address-component>\n          </address-components>\n          <city>Kwun Tong</city>\n          <country>HK</country>\n        </entity-address>\n      </entity-information>\n    </entity>\n    <entity>\n      <entity-code>BY</entity-code>\n      <entity-name>NORTHBOUND OUTFITTERS, INC.</entity-name>\n      <entity-information>\n        <entity-address>\n          <address-components>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>2150 NW Raleigh Street, Suite 300</address-information>\n            </address-component>\n          </address-components>\n          <city>Portland</city>\n          <state-province-code>OR</state-province-code>\n          <postal-code>97210</postal-code>\n          <country>US</country>\n        </entity-address>\n      </entity-information>\n    </entity>\n    <entity>\n      <entity-code>ST</entity-code>\n      <entity-name>CASCADE FULFILLMENT PARTNERS LLC</entity-name>\n      <entity-information>\n        <entity-address>\n          <address-components>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>21820 76th Avenue South, Dock 4</address-information>\n            </address-component>\n          </address-components>\n          <city>Kent</city>\n          <state-province-code>WA</state-province-code>\n          <postal-code>98032</postal-code>\n          <country>US</country>\n        </entity-address>\n      </entity-information>\n    </entity>\n    <entity>\n      <entity-code>MF</entity-code>\n      <entity-name>SAIGON PHOENIX GARMENT JSC</entity-name>\n      <entity-information>\n        <entity-address>\n          <address-components>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Lot C7-C8, Road No. 9, Song Than 2</address-information>\n            </address-component>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Industrial Park, Di An Ward</address-information>\n            </address-component>\n          </address-components>\n          <city>Di An City</city>\n          <country>VN</country>\n        </entity-address>\n      </entity-information>\n    </entity>\n    <entity>\n      <entity-code>MF</entity-code>\n      <entity-name>SP Garments Dhaka Ltd.</entity-name>\n      <entity-information>\n        <entity-address>\n          <address-components>\n            <address-component>\n              <component-type>15</component-type>\n              <address-information>Plot 41</address-information>\n            </address-component>\n          </address-components>\n          <city>Gazipur</city>\n          <country>BD</country>\n        </entity-address>\n      </entity-information>\n    </entity>\n  </ace-cargo-release-parties>\n  <invoices>\n    <invoice>\n      <invoice-no>KBAS-NB-26-0912</invoice-no>\n      <line-items>\n        <line-item>\n          <export-date>2026-09-24</export-date>\n          <country-origin>VN</country-origin>\n          <manufacturer-id>VNSAIPHO9DIA</manufacturer-id>\n          <related-party>N</related-party>\n          <tariffs>\n            <tariff>\n              <tariff-no>6109100012</tariff-no>\n              <value>6840</value>\n              <quantity1>200</quantity1>\n              <unit-of-measure1>DOZ</unit-of-measure1>\n              <quantity2>432</quantity2>\n              <unit-of-measure2>KG</unit-of-measure2>\n            </tariff>\n          </tariffs>\n          <country-export>VN</country-export>\n          <lading-port>55224</lading-port>\n          <gross-weight>480</gross-weight>\n          <commercial-description>MEN'S CREW NECK SHORT SLEEVE T-SHIRT, 100% COTTON</commercial-description>\n          <invoice-quantity>2400</invoice-quantity>\n          <invoice-unit-value>\n            <user-specified>2.85</user-specified>\n          </invoice-unit-value>\n          <po-number>NB-26-0918</po-number>\n          <category-no>338</category-no>\n        </line-item>\n        <line-item>\n          <export-date>2026-09-24</export-date>\n          <country-origin>VN</country-origin>\n          <manufacturer-id>VNSAIPHO9DIA</manufacturer-id>\n          <related-party>N</related-party>\n          <tariffs>\n            <tariff>\n              <tariff-no>6110202046</tariff-no>\n              <value>8880</value>\n              <quantity1>100</quantity1>\n              <unit-of-measure1>DOZ</unit-of-measure1>\n              <quantity2>715.4</quantity2>\n              <unit-of-measure2>KG</unit-of-measure2>\n            </tariff>\n          </tariffs>\n          <country-export>VN</country-export>\n          <lading-port>55224</lading-port>\n          <gross-weight>774</gross-weight>\n          <commercial-description>WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET, 60% COTTON 40% POLYESTER</commercial-description>\n          <invoice-quantity>1200</invoice-quantity>\n          <invoice-unit-value>\n            <user-specified>7.4</user-specified>\n          </invoice-unit-value>\n          <po-number>NB-26-0918</po-number>\n          <category-no>339</category-no>\n        </line-item>\n        <line-item>\n          <export-date>2026-09-24</export-date>\n          <country-origin>VN</country-origin>\n          <manufacturer-id>VNSAIPHO9DIA</manufacturer-id>\n          <related-party>N</related-party>\n          <tariffs>\n            <tariff>\n              <tariff-no>6203424518</tariff-no>\n              <value>6255</value>\n              <quantity1>75</quantity1>\n              <unit-of-measure1>DOZ</unit-of-measure1>\n              <quantity2>486</quantity2>\n              <unit-of-measure2>KG</unit-of-measure2>\n            </tariff>\n          </tariffs>\n          <country-export>VN</country-export>\n          <lading-port>55224</lading-port>\n          <gross-weight>522</gross-weight>\n          <commercial-description>MEN'S SLIM FIT CHINO TROUSERS, 98% COTTON 2% ELASTANE</commercial-description>\n          <invoice-quantity>900</invoice-quantity>\n          <invoice-unit-value>\n            <user-specified>6.95</user-specified>\n          </invoice-unit-value>\n          <po-number>NB-26-0918</po-number>\n          <category-no>347</category-no>\n        </line-item>\n        <line-item>\n          <export-date>2026-09-24</export-date>\n          <country-origin>VN</country-origin>\n          <manufacturer-id>VNSAIPHO9DIA</manufacturer-id>\n          <related-party>N</related-party>\n          <tariffs>\n            <tariff>\n              <tariff-no>6206403035</tariff-no>\n              <value>5440</value>\n              <quantity1>50</quantity1>\n              <unit-of-measure1>DOZ</unit-of-measure1>\n              <quantity2>96</quantity2>\n              <unit-of-measure2>KG</unit-of-measure2>\n            </tariff>\n          </tariffs>\n          <country-export>VN</country-export>\n          <lading-port>55224</lading-port>\n          <gross-weight>106</gross-weight>\n          <commercial-description>WOMEN'S LONG SLEEVE BLOUSE, V-NECK, 100% POLYESTER</commercial-description>\n          <invoice-quantity>600</invoice-quantity>\n          <invoice-unit-value>\n            <user-specified>2.1</user-specified>\n          </invoice-unit-value>\n          <po-number>NB-26-0918</po-number>\n          <category-no>641</category-no>\n        </line-item>\n        <line-item>\n          <export-date>2026-09-24</export-date>\n          <country-origin>BD</country-origin>\n          <manufacturer-id>BDSPGAR41GAZ</manufacturer-id>\n          <related-party>N</related-party>\n          <tariffs>\n            <tariff>\n              <tariff-no>6106100010</tariff-no>\n              <value>24</value>\n              <quantity1>2</quantity1>\n              <unit-of-measure1>DOZ</unit-of-measure1>\n              <quantity2>5.1</quantity2>\n              <unit-of-measure2>KG</unit-of-measure2>\n            </tariff>\n          </tariffs>\n          <country-export>VN</country-export>\n          <lading-port>55224</lading-port>\n          <gross-weight>6</gross-weight>\n          <commercial-description>WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES, 100% COTTON</commercial-description>\n          <invoice-quantity>24</invoice-quantity>\n          <invoice-unit-value>\n            <user-specified>1</user-specified>\n          </invoice-unit-value>\n          <po-number>NB-26-0918</po-number>\n          <category-no>339</category-no>\n        </line-item>\n      </line-items>\n    </invoice>\n  </invoices>\n</entry>\n",
+  "soapEnvelope": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!-- POST https://www.netchb.com:443/main/services/entry/EntryUploadService  (Content-Type: text/xml; charset=utf-8, SOAPAction: \"\") -->\n<!-- Preview only: this app does not transmit entries to NetCHB. -->\n<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:net=\"http://www.netchb.com/\">\n  <soapenv:Header/>\n  <soapenv:Body>\n    <net:uploadEntry>\n      <username>{username}</username>\n      <password>{password}</password>\n      <entryXml>&lt;?xml version=\"1.0\" encoding=\"UTF-8\"?&gt;\n&lt;entry xmlns=\"http://www.netchb.com/xml/entry\"&gt;\n  &lt;entry-no&gt;\n    &lt;system-generated/&gt;\n  &lt;/entry-no&gt;\n  &lt;auto-apply-remedies/&gt;\n  &lt;header&gt;\n    &lt;importer-name&gt;NORTHBOUND OUTFITTERS, INC.&lt;/importer-name&gt;\n    &lt;ultimate-consignee&gt;\n      &lt;consignee-name&gt;NORTHBOUND OUTFITTERS, INC.&lt;/consignee-name&gt;\n    &lt;/ultimate-consignee&gt;\n    &lt;processing-port&gt;3002&lt;/processing-port&gt;\n    &lt;entry-port&gt;3002&lt;/entry-port&gt;\n    &lt;entry-date&gt;2026-10-14&lt;/entry-date&gt;\n    &lt;entry-type&gt;01&lt;/entry-type&gt;\n    &lt;charges&gt;4035&lt;/charges&gt;\n    &lt;gross-weight&gt;1930&lt;/gross-weight&gt;\n    &lt;total-entry-value&gt;27439&lt;/total-entry-value&gt;\n    &lt;description&gt;WEARING APPAREL&lt;/description&gt;\n    &lt;state-destination&gt;WA&lt;/state-destination&gt;\n    &lt;vessel-name&gt;PACIFIC ARGOS&lt;/vessel-name&gt;\n    &lt;mode-transportation&gt;11&lt;/mode-transportation&gt;\n    &lt;unlading-port&gt;3002&lt;/unlading-port&gt;\n    &lt;import-date&gt;2026-10-14&lt;/import-date&gt;\n    &lt;arrival-date&gt;2026-10-14&lt;/arrival-date&gt;\n    &lt;carrier-code&gt;OPLU&lt;/carrier-code&gt;\n    &lt;customer-reference-no&gt;NB-26-0918&lt;/customer-reference-no&gt;\n    &lt;voyage-no&gt;041E&lt;/voyage-no&gt;\n  &lt;/header&gt;\n  &lt;manifest&gt;\n    &lt;bill-of-lading&gt;\n      &lt;master-scac&gt;OPLU&lt;/master-scac&gt;\n      &lt;master-bill&gt;SGN260917735&lt;/master-bill&gt;\n      &lt;house-scac&gt;BMLV&lt;/house-scac&gt;\n      &lt;house-bill&gt;HCM26090418&lt;/house-bill&gt;\n      &lt;quantity&gt;138&lt;/quantity&gt;\n      &lt;unit&gt;CTN&lt;/unit&gt;\n    &lt;/bill-of-lading&gt;\n  &lt;/manifest&gt;\n  &lt;containers&gt;\n    &lt;container&gt;\n      &lt;container-number&gt;OPLU3041722&lt;/container-number&gt;\n      &lt;container-size&gt;20 ft&lt;/container-size&gt;\n      &lt;container-type&gt;Dry&lt;/container-type&gt;\n      &lt;seal-numbers&gt;OPL7731482&lt;/seal-numbers&gt;\n    &lt;/container&gt;\n  &lt;/containers&gt;\n  &lt;ace-cargo-release-parties&gt;\n    &lt;entity&gt;\n      &lt;entity-code&gt;SE&lt;/entity-code&gt;\n      &lt;entity-name&gt;KOWLOON BAY APPAREL SOURCING LTD&lt;/entity-name&gt;\n      &lt;entity-information&gt;\n        &lt;entity-address&gt;\n          &lt;address-components&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Unit 1708, 17/F, Hing Fat&lt;/address-information&gt;\n            &lt;/address-component&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Industrial Building, 223 Wai Yip&lt;/address-information&gt;\n            &lt;/address-component&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Street&lt;/address-information&gt;\n            &lt;/address-component&gt;\n          &lt;/address-components&gt;\n          &lt;city&gt;Kwun Tong&lt;/city&gt;\n          &lt;country&gt;HK&lt;/country&gt;\n        &lt;/entity-address&gt;\n      &lt;/entity-information&gt;\n    &lt;/entity&gt;\n    &lt;entity&gt;\n      &lt;entity-code&gt;BY&lt;/entity-code&gt;\n      &lt;entity-name&gt;NORTHBOUND OUTFITTERS, INC.&lt;/entity-name&gt;\n      &lt;entity-information&gt;\n        &lt;entity-address&gt;\n          &lt;address-components&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;2150 NW Raleigh Street, Suite 300&lt;/address-information&gt;\n            &lt;/address-component&gt;\n          &lt;/address-components&gt;\n          &lt;city&gt;Portland&lt;/city&gt;\n          &lt;state-province-code&gt;OR&lt;/state-province-code&gt;\n          &lt;postal-code&gt;97210&lt;/postal-code&gt;\n          &lt;country&gt;US&lt;/country&gt;\n        &lt;/entity-address&gt;\n      &lt;/entity-information&gt;\n    &lt;/entity&gt;\n    &lt;entity&gt;\n      &lt;entity-code&gt;ST&lt;/entity-code&gt;\n      &lt;entity-name&gt;CASCADE FULFILLMENT PARTNERS LLC&lt;/entity-name&gt;\n      &lt;entity-information&gt;\n        &lt;entity-address&gt;\n          &lt;address-components&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;21820 76th Avenue South, Dock 4&lt;/address-information&gt;\n            &lt;/address-component&gt;\n          &lt;/address-components&gt;\n          &lt;city&gt;Kent&lt;/city&gt;\n          &lt;state-province-code&gt;WA&lt;/state-province-code&gt;\n          &lt;postal-code&gt;98032&lt;/postal-code&gt;\n          &lt;country&gt;US&lt;/country&gt;\n        &lt;/entity-address&gt;\n      &lt;/entity-information&gt;\n    &lt;/entity&gt;\n    &lt;entity&gt;\n      &lt;entity-code&gt;MF&lt;/entity-code&gt;\n      &lt;entity-name&gt;SAIGON PHOENIX GARMENT JSC&lt;/entity-name&gt;\n      &lt;entity-information&gt;\n        &lt;entity-address&gt;\n          &lt;address-components&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Lot C7-C8, Road No. 9, Song Than 2&lt;/address-information&gt;\n            &lt;/address-component&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Industrial Park, Di An Ward&lt;/address-information&gt;\n            &lt;/address-component&gt;\n          &lt;/address-components&gt;\n          &lt;city&gt;Di An City&lt;/city&gt;\n          &lt;country&gt;VN&lt;/country&gt;\n        &lt;/entity-address&gt;\n      &lt;/entity-information&gt;\n    &lt;/entity&gt;\n    &lt;entity&gt;\n      &lt;entity-code&gt;MF&lt;/entity-code&gt;\n      &lt;entity-name&gt;SP Garments Dhaka Ltd.&lt;/entity-name&gt;\n      &lt;entity-information&gt;\n        &lt;entity-address&gt;\n          &lt;address-components&gt;\n            &lt;address-component&gt;\n              &lt;component-type&gt;15&lt;/component-type&gt;\n              &lt;address-information&gt;Plot 41&lt;/address-information&gt;\n            &lt;/address-component&gt;\n          &lt;/address-components&gt;\n          &lt;city&gt;Gazipur&lt;/city&gt;\n          &lt;country&gt;BD&lt;/country&gt;\n        &lt;/entity-address&gt;\n      &lt;/entity-information&gt;\n    &lt;/entity&gt;\n  &lt;/ace-cargo-release-parties&gt;\n  &lt;invoices&gt;\n    &lt;invoice&gt;\n      &lt;invoice-no&gt;KBAS-NB-26-0912&lt;/invoice-no&gt;\n      &lt;line-items&gt;\n        &lt;line-item&gt;\n          &lt;export-date&gt;2026-09-24&lt;/export-date&gt;\n          &lt;country-origin&gt;VN&lt;/country-origin&gt;\n          &lt;manufacturer-id&gt;VNSAIPHO9DIA&lt;/manufacturer-id&gt;\n          &lt;related-party&gt;N&lt;/related-party&gt;\n          &lt;tariffs&gt;\n            &lt;tariff&gt;\n              &lt;tariff-no&gt;6109100012&lt;/tariff-no&gt;\n              &lt;value&gt;6840&lt;/value&gt;\n              &lt;quantity1&gt;200&lt;/quantity1&gt;\n              &lt;unit-of-measure1&gt;DOZ&lt;/unit-of-measure1&gt;\n              &lt;quantity2&gt;432&lt;/quantity2&gt;\n              &lt;unit-of-measure2&gt;KG&lt;/unit-of-measure2&gt;\n            &lt;/tariff&gt;\n          &lt;/tariffs&gt;\n          &lt;country-export&gt;VN&lt;/country-export&gt;\n          &lt;lading-port&gt;55224&lt;/lading-port&gt;\n          &lt;gross-weight&gt;480&lt;/gross-weight&gt;\n          &lt;commercial-description&gt;MEN'S CREW NECK SHORT SLEEVE T-SHIRT, 100% COTTON&lt;/commercial-description&gt;\n          &lt;invoice-quantity&gt;2400&lt;/invoice-quantity&gt;\n          &lt;invoice-unit-value&gt;\n            &lt;user-specified&gt;2.85&lt;/user-specified&gt;\n          &lt;/invoice-unit-value&gt;\n          &lt;po-number&gt;NB-26-0918&lt;/po-number&gt;\n          &lt;category-no&gt;338&lt;/category-no&gt;\n        &lt;/line-item&gt;\n        &lt;line-item&gt;\n          &lt;export-date&gt;2026-09-24&lt;/export-date&gt;\n          &lt;country-origin&gt;VN&lt;/country-origin&gt;\n          &lt;manufacturer-id&gt;VNSAIPHO9DIA&lt;/manufacturer-id&gt;\n          &lt;related-party&gt;N&lt;/related-party&gt;\n          &lt;tariffs&gt;\n            &lt;tariff&gt;\n              &lt;tariff-no&gt;6110202046&lt;/tariff-no&gt;\n              &lt;value&gt;8880&lt;/value&gt;\n              &lt;quantity1&gt;100&lt;/quantity1&gt;\n              &lt;unit-of-measure1&gt;DOZ&lt;/unit-of-measure1&gt;\n              &lt;quantity2&gt;715.4&lt;/quantity2&gt;\n              &lt;unit-of-measure2&gt;KG&lt;/unit-of-measure2&gt;\n            &lt;/tariff&gt;\n          &lt;/tariffs&gt;\n          &lt;country-export&gt;VN&lt;/country-export&gt;\n          &lt;lading-port&gt;55224&lt;/lading-port&gt;\n          &lt;gross-weight&gt;774&lt;/gross-weight&gt;\n          &lt;commercial-description&gt;WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET, 60% COTTON 40% POLYESTER&lt;/commercial-description&gt;\n          &lt;invoice-quantity&gt;1200&lt;/invoice-quantity&gt;\n          &lt;invoice-unit-value&gt;\n            &lt;user-specified&gt;7.4&lt;/user-specified&gt;\n          &lt;/invoice-unit-value&gt;\n          &lt;po-number&gt;NB-26-0918&lt;/po-number&gt;\n          &lt;category-no&gt;339&lt;/category-no&gt;\n        &lt;/line-item&gt;\n        &lt;line-item&gt;\n          &lt;export-date&gt;2026-09-24&lt;/export-date&gt;\n          &lt;country-origin&gt;VN&lt;/country-origin&gt;\n          &lt;manufacturer-id&gt;VNSAIPHO9DIA&lt;/manufacturer-id&gt;\n          &lt;related-party&gt;N&lt;/related-party&gt;\n          &lt;tariffs&gt;\n            &lt;tariff&gt;\n              &lt;tariff-no&gt;6203424518&lt;/tariff-no&gt;\n              &lt;value&gt;6255&lt;/value&gt;\n              &lt;quantity1&gt;75&lt;/quantity1&gt;\n              &lt;unit-of-measure1&gt;DOZ&lt;/unit-of-measure1&gt;\n              &lt;quantity2&gt;486&lt;/quantity2&gt;\n              &lt;unit-of-measure2&gt;KG&lt;/unit-of-measure2&gt;\n            &lt;/tariff&gt;\n          &lt;/tariffs&gt;\n          &lt;country-export&gt;VN&lt;/country-export&gt;\n          &lt;lading-port&gt;55224&lt;/lading-port&gt;\n          &lt;gross-weight&gt;522&lt;/gross-weight&gt;\n          &lt;commercial-description&gt;MEN'S SLIM FIT CHINO TROUSERS, 98% COTTON 2% ELASTANE&lt;/commercial-description&gt;\n          &lt;invoice-quantity&gt;900&lt;/invoice-quantity&gt;\n          &lt;invoice-unit-value&gt;\n            &lt;user-specified&gt;6.95&lt;/user-specified&gt;\n          &lt;/invoice-unit-value&gt;\n          &lt;po-number&gt;NB-26-0918&lt;/po-number&gt;\n          &lt;category-no&gt;347&lt;/category-no&gt;\n        &lt;/line-item&gt;\n        &lt;line-item&gt;\n          &lt;export-date&gt;2026-09-24&lt;/export-date&gt;\n          &lt;country-origin&gt;VN&lt;/country-origin&gt;\n          &lt;manufacturer-id&gt;VNSAIPHO9DIA&lt;/manufacturer-id&gt;\n          &lt;related-party&gt;N&lt;/related-party&gt;\n          &lt;tariffs&gt;\n            &lt;tariff&gt;\n              &lt;tariff-no&gt;6206403035&lt;/tariff-no&gt;\n              &lt;value&gt;5440&lt;/value&gt;\n              &lt;quantity1&gt;50&lt;/quantity1&gt;\n              &lt;unit-of-measure1&gt;DOZ&lt;/unit-of-measure1&gt;\n              &lt;quantity2&gt;96&lt;/quantity2&gt;\n              &lt;unit-of-measure2&gt;KG&lt;/unit-of-measure2&gt;\n            &lt;/tariff&gt;\n          &lt;/tariffs&gt;\n          &lt;country-export&gt;VN&lt;/country-export&gt;\n          &lt;lading-port&gt;55224&lt;/lading-port&gt;\n          &lt;gross-weight&gt;106&lt;/gross-weight&gt;\n          &lt;commercial-description&gt;WOMEN'S LONG SLEEVE BLOUSE, V-NECK, 100% POLYESTER&lt;/commercial-description&gt;\n          &lt;invoice-quantity&gt;600&lt;/invoice-quantity&gt;\n          &lt;invoice-unit-value&gt;\n            &lt;user-specified&gt;2.1&lt;/user-specified&gt;\n          &lt;/invoice-unit-value&gt;\n          &lt;po-number&gt;NB-26-0918&lt;/po-number&gt;\n          &lt;category-no&gt;641&lt;/category-no&gt;\n        &lt;/line-item&gt;\n        &lt;line-item&gt;\n          &lt;export-date&gt;2026-09-24&lt;/export-date&gt;\n          &lt;country-origin&gt;BD&lt;/country-origin&gt;\n          &lt;manufacturer-id&gt;BDSPGAR41GAZ&lt;/manufacturer-id&gt;\n          &lt;related-party&gt;N&lt;/related-party&gt;\n          &lt;tariffs&gt;\n            &lt;tariff&gt;\n              &lt;tariff-no&gt;6106100010&lt;/tariff-no&gt;\n              &lt;value&gt;24&lt;/value&gt;\n              &lt;quantity1&gt;2&lt;/quantity1&gt;\n              &lt;unit-of-measure1&gt;DOZ&lt;/unit-of-measure1&gt;\n              &lt;quantity2&gt;5.1&lt;/quantity2&gt;\n              &lt;unit-of-measure2&gt;KG&lt;/unit-of-measure2&gt;\n            &lt;/tariff&gt;\n          &lt;/tariffs&gt;\n          &lt;country-export&gt;VN&lt;/country-export&gt;\n          &lt;lading-port&gt;55224&lt;/lading-port&gt;\n          &lt;gross-weight&gt;6&lt;/gross-weight&gt;\n          &lt;commercial-description&gt;WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES, 100% COTTON&lt;/commercial-description&gt;\n          &lt;invoice-quantity&gt;24&lt;/invoice-quantity&gt;\n          &lt;invoice-unit-value&gt;\n            &lt;user-specified&gt;1&lt;/user-specified&gt;\n          &lt;/invoice-unit-value&gt;\n          &lt;po-number&gt;NB-26-0918&lt;/po-number&gt;\n          &lt;category-no&gt;339&lt;/category-no&gt;\n        &lt;/line-item&gt;\n      &lt;/line-items&gt;\n    &lt;/invoice&gt;\n  &lt;/invoices&gt;\n&lt;/entry&gt;\n</entryXml>\n    </net:uploadEntry>\n  </soapenv:Body>\n</soapenv:Envelope>\n",
+  "xsdValidation": {
+    "valid": true,
+    "errors": []
+  },
+  "estimates": {
+    "lines": [
+      {
+        "lineId": "inv0-line1",
+        "htsNumber": "6109100012",
+        "enteredValue": 6840,
+        "ratePct": 16.5,
+        "duty": 1128.6
+      },
+      {
+        "lineId": "inv0-line2",
+        "htsNumber": "6110202046",
+        "enteredValue": 8880,
+        "ratePct": 16.5,
+        "duty": 1465.2
+      },
+      {
+        "lineId": "inv0-line3",
+        "htsNumber": "6203424518",
+        "enteredValue": 6255,
+        "ratePct": 16.6,
+        "duty": 1038.33
+      },
+      {
+        "lineId": "inv0-line4",
+        "htsNumber": "6206403035",
+        "enteredValue": 5440,
+        "ratePct": 26.9,
+        "duty": 1463.36
+      },
+      {
+        "lineId": "inv0-line5",
+        "htsNumber": "6106100010",
+        "enteredValue": 24,
+        "ratePct": 19.7,
+        "duty": 4.73
+      }
+    ],
+    "totalDuty": 5100.22,
+    "mpf": 95.05,
+    "hmf": 34.3,
+    "notes": [
+      "Estimates only: NetCHB/ACE calculate the authoritative duties and fees.",
+      "Chapter 99 additional duties (e.g. reciprocal/IEEPA, Section 122/232/301 measures) are NOT included.",
+      "Cotton fee (Cotton Research & Promotion assessment) is NOT included; NetCHB computes it.",
+      "MPF 0.3464% (min 34.58, max 670.86); HMF 0.125% (vessel shipments only). Fee table FY2027: FY2027 values (Oct 1 2026 - Sep 30 2027) verified against the Federal Register notice 2026-15530. MPF applies to formal entries (0.3464% of entered value, clamped to min/max per entry); HMF only to vessel shipments. Re-verify each August when CBP publishes the next fiscal year's adjustment. Effective 2026-10-01 to 2027-09-30. Source: https://www.federalregister.gov/documents/2026/07/31/2026-15530/customs-user-fees-to-be-adjusted-for-inflation-in-fiscal-year-2027"
+    ]
+  },
+  "brokerInputs": {},
+  "timingsMs": {
+    "ingest": 3622.3,
+    "parse": 104.1,
+    "reconcile": 20.7,
+    "classify": 18.8,
+    "overrides": 0.1,
+    "assemble": 6.1,
+    "xml": 0.4,
+    "validate": 76.9,
+    "total": 3849.6
+  }
+}

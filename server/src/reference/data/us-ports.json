@@ -1,0 +1,4292 @@
+{
+ "_source": [
+  "https://www.census.gov/foreign-trade/schedules/d/dist.txt",
+  "https://www.cbp.gov/about/contact/ports"
+ ],
+ "ports": [
+  {
+   "code": "0101",
+   "name": "Portland, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "PORTLAND, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0102",
+   "name": "Bangor, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "BANGOR, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0103",
+   "name": "Eastport, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "EASTPORT, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0104",
+   "name": "Jackman, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "JACKMAN, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0105",
+   "name": "Vanceboro, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "VANCEBORO, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0106",
+   "name": "Houlton, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "HOULTON, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0107",
+   "name": "Fort Fairfield, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "FORT FAIRFIELD, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0108",
+   "name": "Van Buren, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "VAN BUREN, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0109",
+   "name": "Madawaska, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "MADAWASKA, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0110",
+   "name": "Fort Kent, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "FORT KENT, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0111",
+   "name": "Bath, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "BATH, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0112",
+   "name": "Bar Harbor, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "BAR HARBOR, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0115",
+   "name": "Calais, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "CALAIS, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0118",
+   "name": "Limestone, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "LIMESTONE, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0121",
+   "name": "Rockland (Belfast), Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "ROCKLAND, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0122",
+   "name": "Jonesport (Calais), Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "JONESPORT, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0127",
+   "name": "Bridgewater, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [
+    "BRIDGEWATER, ME"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0131",
+   "name": "Portsmouth, New Hampshire",
+   "state": "NH",
+   "kind": "port",
+   "aliases": [
+    "PORTSMOUTH, NH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0132",
+   "name": "Searsport, Maine",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "0152",
+   "name": "SEARSPORT, ME",
+   "state": "ME",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0182",
+   "name": "Manchester (User Fee Airport), New Hampshire",
+   "state": "NH",
+   "kind": "air",
+   "aliases": [
+    "MANCHESTER USER FEE AIRPORT, NH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0201",
+   "name": "St. Albans, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "ST. ALBANS, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0203",
+   "name": "Richford, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "RICHFORD, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0206",
+   "name": "Beecher Falls, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "BEECHER FALLS, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0207",
+   "name": "Burlington International Airport, Vermont",
+   "state": "VT",
+   "kind": "air",
+   "aliases": [
+    "BURLINGTON, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0209",
+   "name": "Derby Line, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "DERBY LINE, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0211",
+   "name": "Norton, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "NORTON, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0212",
+   "name": "Highgate Springs, Vermont",
+   "state": "VT",
+   "kind": "port",
+   "aliases": [
+    "HIGHGATE SPRINGS/ALBURG, VT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0401",
+   "name": "Boston, Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "BOSTON, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0402",
+   "name": "SPRINGFIELD, MA",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0403",
+   "name": "Worcester, Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "WORCESTER, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0404",
+   "name": "Gloucester, Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "GLOUCESTER, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0405",
+   "name": "New Bedford, Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "NEW BEDFORD, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0406",
+   "name": "Plymouth (New Bedford), Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "PLYMOUTH, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0407",
+   "name": "Fall River (New Bedford), Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "FALL RIVER, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0408",
+   "name": "Salem (Gloucester), Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "SALEM, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0410",
+   "name": "Bridgeport, Connecticut",
+   "state": "CT",
+   "kind": "port",
+   "aliases": [
+    "BRIDGEPORT,CT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0411",
+   "name": "Hartford, Connecticut",
+   "state": "CT",
+   "kind": "port",
+   "aliases": [
+    "HARTFORD. CT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0412",
+   "name": "Middletown, Connecticut",
+   "state": "CT",
+   "kind": "port",
+   "aliases": [
+    "NEW HAVEN,CT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0413",
+   "name": "New London (New Haven), Connecticut",
+   "state": "CT",
+   "kind": "port",
+   "aliases": [
+    "NEW LONDON, CT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0416",
+   "name": "Lawrence (Gloucester), Massachusetts",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [
+    "LAWRENCE, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0417",
+   "name": "Logan Airport, Massachusetts",
+   "state": "MA",
+   "kind": "air",
+   "aliases": [
+    "LOGAN AIRPORT, MA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0481",
+   "name": "L.G. HANSCOM FIELD, MA",
+   "state": "MA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0482",
+   "name": "Waterbury Oxford Airport",
+   "state": "CT",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "0501",
+   "name": "Newport, Rhode Island",
+   "state": "RI",
+   "kind": "port",
+   "aliases": [
+    "NEWPORT, RI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0502",
+   "name": "Providence, Rhode Island",
+   "state": "RI",
+   "kind": "port",
+   "aliases": [
+    "PROVIDENCE, RI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0503",
+   "name": "MELLVILLE, RI",
+   "state": "RI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0701",
+   "name": "Ogdensburg, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "OGDENSBURG, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0704",
+   "name": "Massena, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "MASSENA, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0706",
+   "name": "CAPE VINCENT, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0708",
+   "name": "Alexandria Bay, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "ALEXANDRIA BAY, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0712",
+   "name": "Champlain, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "CHAMPLAIN-ROUSES POINT, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0714",
+   "name": "CLAYTON, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0715",
+   "name": "Trout River, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "TROUT RIVER, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0901",
+   "name": "Buffalo, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "BUFFALO-NIAGARA FALLS, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0903",
+   "name": "Rochester, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "ROCHESTER, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0904",
+   "name": "OSWEGO, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0905",
+   "name": "SODUS POINT, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0906",
+   "name": "Syracuse, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "SYRACUSE, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "0981",
+   "name": "BINGHAMTON REGIONAL AIRPORT, NY",
+   "state": "NY",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "0983",
+   "name": "ITHACA TOMPKINS INTL AIR, ITHACA, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1001",
+   "name": "NEW YORK, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1002",
+   "name": "Albany, New York",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [
+    "ALBANY, NY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1003",
+   "name": "NEWARK, NJ",
+   "state": "NJ",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1004",
+   "name": "PERTH AMBOY, NJ",
+   "state": "NJ",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1012",
+   "name": "JOHN F KENNEDY INTL AIRPORT, NY",
+   "state": "NY",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1068",
+   "name": "NEWARK FEDEX ECCF, NJ",
+   "state": "NJ",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1069",
+   "name": "UPS, NEWARK, NJ",
+   "state": "NJ",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1071",
+   "name": "NYACC, JAMAICA, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1072",
+   "name": "DHL, JAMAICA, NY",
+   "state": "NY",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1073",
+   "name": "EMERY WORLDWIDE, JAMAICA, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1074",
+   "name": "AIR FRANCE (MACH PLUS), JAMAICA, NY",
+   "state": "NY",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1078",
+   "name": "TNT SKYPAK, JAMAICA, NY",
+   "state": "NY",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1081",
+   "name": "MORRISTOWN AIRPORT, NJ",
+   "state": "NJ",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1101",
+   "name": "Philadelphia, Pennsylvania",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [
+    "PHILADELPHIA, PA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1102",
+   "name": "CHESTER, PA",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1103",
+   "name": "Wilmington, Delaware",
+   "state": "DE",
+   "kind": "port",
+   "aliases": [
+    "WILMINGTON, DE"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1104",
+   "name": "Pittsburgh, Pennsylvania",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [
+    "PITTSBURGH, PA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1106",
+   "name": "WILKES-BARRE/SCRANTON, PA",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1108",
+   "name": "PHILA. INTL. AIRPORT, PA",
+   "state": "PA",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1109",
+   "name": "Harrisburg, Pennsylvania",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [
+    "HARRISBURG, PA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1113",
+   "name": "GLOUCESTER CITY, NJ",
+   "state": "NJ",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1119",
+   "name": "ALLENTOWN, PA (LEHIGH VALLEY INTL AIRPT)",
+   "state": "PA",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1182",
+   "name": "ATLANTIC CITY USER FEE REGIONAL AIRPORT, NJ",
+   "state": "NJ",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1183",
+   "name": "TRENTON/MERCER COUNTY USER FEE AIRPORT, NJ",
+   "state": "NJ",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1195",
+   "name": "UPS, PHILADELPHIA, PA",
+   "state": "PA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1301",
+   "name": "ANNAPOLIS, MD",
+   "state": "MD",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1302",
+   "name": "CAMBRIDGE, MD",
+   "state": "MD",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1303",
+   "name": "Baltimore, Maryland",
+   "state": "MD",
+   "kind": "port",
+   "aliases": [
+    "BALTIMORE, MD"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1304",
+   "name": "CRISFIELD, MD",
+   "state": "MD",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1305",
+   "name": "BALTIMORE-WASHINGTON INTL AIRPORT, MD",
+   "state": "MD",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1401",
+   "name": "Norfolk-Newport News, Virginia",
+   "state": "VA",
+   "kind": "port",
+   "aliases": [
+    "NORFOLK-NEWPORT NEWS, VA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1404",
+   "name": "Richmond - Petersburg, Virginia",
+   "state": "VA",
+   "kind": "port",
+   "aliases": [
+    "RICHMOND-PETERSBURG, VA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1409",
+   "name": "Charleston, West Virginia",
+   "state": "WV",
+   "kind": "port",
+   "aliases": [
+    "CHARLESTON, WV"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1410",
+   "name": "Front Royal, Virginia",
+   "state": "VA",
+   "kind": "port",
+   "aliases": [
+    "FRONT ROYAL, VA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1412",
+   "name": "New River Valley Airport, Virginia",
+   "state": "VA",
+   "kind": "air",
+   "aliases": [
+    "NEW RIVER VALLEY AIRPORT, VA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1501",
+   "name": "Wilmington, North Carolina",
+   "state": "NC",
+   "kind": "port",
+   "aliases": [
+    "WILMINGTON, NC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1502",
+   "name": "Greensboro/Winston-Salem, North Carolina",
+   "state": "NC",
+   "kind": "port",
+   "aliases": [
+    "WINSTON-SALEM, NC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1503",
+   "name": "Raleigh-Durham, North Carolina",
+   "state": "NC",
+   "kind": "port",
+   "aliases": [
+    "DURHAM, NC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1511",
+   "name": "Morehead City - Beaufort, North Carolina",
+   "state": "NC",
+   "kind": "port",
+   "aliases": [
+    "BEAUFORT-MOREHEAD CITY,NC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1512",
+   "name": "Charlotte, North Carolina",
+   "state": "NC",
+   "kind": "port",
+   "aliases": [
+    "CHARLOTTE, NC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1601",
+   "name": "Charleston, South Carolina",
+   "state": "SC",
+   "kind": "port",
+   "aliases": [
+    "CHARLESTON, SC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1602",
+   "name": "Georgetown, South Carolina",
+   "state": "SC",
+   "kind": "port",
+   "aliases": [
+    "GEORGETOWN, SC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1603",
+   "name": "Greenville-Spartanburg, South Carolina",
+   "state": "SC",
+   "kind": "port",
+   "aliases": [
+    "GREENVILLE-SPARTANBRG, SC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1604",
+   "name": "Columbia, South Carolina",
+   "state": "SC",
+   "kind": "port",
+   "aliases": [
+    "COLUMBIA, SC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1681",
+   "name": "Myrtle Beach International Airport, South Carolina",
+   "state": "SC",
+   "kind": "air",
+   "aliases": [
+    "MYRTLE BEACH INTL AIRPORT, SC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1701",
+   "name": "Brunswick, Georgia",
+   "state": "GA",
+   "kind": "port",
+   "aliases": [
+    "BRUNSWICK, GA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1703",
+   "name": "Savannah, Georgia",
+   "state": "GA",
+   "kind": "port",
+   "aliases": [
+    "SAVANNAH, GA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1704",
+   "name": "Atlanta, Georgia",
+   "state": "GA",
+   "kind": "port",
+   "aliases": [
+    "ATLANTA, GA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1801",
+   "name": "Area Port of Tampa, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "TAMPA, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1803",
+   "name": "Area Port of Jacksonville, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "JACKSONVILLE, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1805",
+   "name": "Fernandina Beach, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "FERNANDINA BEACH, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1807",
+   "name": "BOCA GRANDE, FL",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "1808",
+   "name": "Orlando International Airport, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "ORLANDO, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1809",
+   "name": "Orlando Sanford International Airport, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "ORLANDO-SANFORD AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1814",
+   "name": "St. Petersburg, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "ST. PETERSBURG, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1816",
+   "name": "Port Canaveral, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "PORT CANAVERAL, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1818",
+   "name": "Panama City, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "PANAMA CITY, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1819",
+   "name": "Pensacola, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "PENSACOLA, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1821",
+   "name": "Port Manatee, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "PORT MANATEE, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1822",
+   "name": "Fort Myers, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "FORT MYERS AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1880",
+   "name": "Naples, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "NAPLES MUNICIPAL USER FEE AIRP, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1881",
+   "name": "Lakeland Linder International Airport",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "1883",
+   "name": "Sarasota, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "SARASOTA BRADENTON ARPT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1884",
+   "name": "Daytona Beach International Airport (UFA), Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "DAYTONA BEACH INT'L ARPT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1885",
+   "name": "Melbourne Orlando International Airport (UFA), Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "MELBOURNE REGIONAL AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1887",
+   "name": "Leesburg International Airport (UFA), Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "LEESBURG REGIONAL AIRP, LEESBURG, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1888",
+   "name": "Orlando Executive Airport (UFA), Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "ORLANDO EXECUTIVE AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1889",
+   "name": "St. Augustine, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "ST. AUGUSTINE AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1901",
+   "name": "Mobile (Including Theodore), Alabama",
+   "state": "AL",
+   "kind": "port",
+   "aliases": [
+    "MOBILE, AL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1902",
+   "name": "Gulfport, Mississippi",
+   "state": "MS",
+   "kind": "port",
+   "aliases": [
+    "GULFPORT, MS"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1903",
+   "name": "Pascagoula, Mississippi",
+   "state": "MS",
+   "kind": "port",
+   "aliases": [
+    "PASCAGOULA, MS"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1904",
+   "name": "Birmingham, Alabama",
+   "state": "AL",
+   "kind": "port",
+   "aliases": [
+    "BIRMINGHAM, AL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "1910",
+   "name": "Huntsville, Alabama",
+   "state": "AL",
+   "kind": "port",
+   "aliases": [
+    "HUNTSVILLE, AL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2001",
+   "name": "Morgan City, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "MORGAN CITY, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2002",
+   "name": "New Orleans, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "NEW ORLEANS, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2003",
+   "name": "Little Rock-North Little Rock, Arkansas",
+   "state": "AR",
+   "kind": "port",
+   "aliases": [
+    "LITTLE ROCK, AR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2004",
+   "name": "Baton Rouge, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "BATON ROUGE, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2006",
+   "name": "Memphis, Tennessee",
+   "state": "TN",
+   "kind": "port",
+   "aliases": [
+    "MEMPHIS, TN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2007",
+   "name": "Nashville, Tennessee",
+   "state": "TN",
+   "kind": "port",
+   "aliases": [
+    "NASHVILLE, TN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2008",
+   "name": "Chattanooga, Tennessee",
+   "state": "TN",
+   "kind": "port",
+   "aliases": [
+    "CHATTANOOGA, TN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2010",
+   "name": "Gramercy, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "GRAMERCY, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2011",
+   "name": "GREENVILLE, MS",
+   "state": "MS",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2015",
+   "name": "Port of Jackson",
+   "state": "MS",
+   "kind": "port",
+   "aliases": [
+    "VICKSBURG, MS"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2016",
+   "name": "Knoxville, Tennessee",
+   "state": "TN",
+   "kind": "port",
+   "aliases": [
+    "KNOXVILLE, TN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2017",
+   "name": "Lake Charles, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "LAKE CHARLES, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2018",
+   "name": "Shreveport-Bossier City, Louisiana",
+   "state": "LA",
+   "kind": "port",
+   "aliases": [
+    "SHREVEPORT/BOSSIER CITY, LA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2027",
+   "name": "Tri-Cities, Tennessee",
+   "state": "TN",
+   "kind": "air",
+   "aliases": [
+    "TRI-CITIES AIRPORT, TN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2084",
+   "name": "Rogers Airport, Arkansas",
+   "state": "AR",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2095",
+   "name": "FEDEX, MEMPHIS, TN",
+   "state": "TN",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2101",
+   "name": "Port Arthur-Beaumont, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "PORT ARTHUR, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2102",
+   "name": "Sabine, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "SABINE, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2103",
+   "name": "ORANGE, TX",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2104",
+   "name": "BEAUMONT, TX",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2301",
+   "name": "Brownsville, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "BROWNSVILLE, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2302",
+   "name": "Del Rio, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "DEL RIO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2303",
+   "name": "Eagle Pass, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "EAGLE PASS, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2304",
+   "name": "Laredo, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "LAREDO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2305",
+   "name": "Hidalgo, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "HIDALGO, PHARR, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2307",
+   "name": "Rio Grande City, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "RIO GRANDE CITY, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2309",
+   "name": "Progreso, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "PROGRESO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2310",
+   "name": "Roma, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "ROMA, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2381",
+   "name": "South Texas International Airport at Edinburg",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2383",
+   "name": "Harlingen Airport (Valley International Airport)",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [
+    "VALLEY INTL AIRPORT, HARLINGEN, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2401",
+   "name": "Ysleta, El Paso, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "YSLETA, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2402",
+   "name": "El Paso, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "EL PASO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2403",
+   "name": "Presidio, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "PRESIDIO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2404",
+   "name": "Marcelino Serna, Tornillo, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "FABENS, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2406",
+   "name": "Columbus, New Mexico",
+   "state": "NM",
+   "kind": "port",
+   "aliases": [
+    "COLUMBUS, NM"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2407",
+   "name": "Albuquerque, New Mexico",
+   "state": "NM",
+   "kind": "port",
+   "aliases": [
+    "ALBUQUERQUE, NM"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2408",
+   "name": "Santa Teresa, New Mexico",
+   "state": "NM",
+   "kind": "port",
+   "aliases": [
+    "SANTA TERESA, NM"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2481",
+   "name": "SANTA TERESA AIRPORT, NM",
+   "state": "NM",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2501",
+   "name": "San Diego, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "SAN DIEGO, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2502",
+   "name": "Andrade - Class A, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "ANDRADE, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2503",
+   "name": "Calexico West - Class A, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "CALEXICO, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2504",
+   "name": "San Ysidro - Class A, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "SAN YSIDRO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2505",
+   "name": "Tecate - Class A, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "TECATE, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2506",
+   "name": "Otay Mesa, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "OTAY MESA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2507",
+   "name": "Calexico East - Class A, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "CALEXICO-EAST"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2601",
+   "name": "Douglas, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "DOUGLAS, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2602",
+   "name": "Lukeville, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "LUKEVILLE, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2603",
+   "name": "Naco, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "NACO, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2604",
+   "name": "Nogales, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "NOGALES, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2605",
+   "name": "Phoenix, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "PHOENIX, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2606",
+   "name": "Sasabe, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "SASABE, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2608",
+   "name": "San Luis, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "SAN LUIS, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2609",
+   "name": "Tucson, Arizona",
+   "state": "AZ",
+   "kind": "port",
+   "aliases": [
+    "TUCSON, AZ"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2681",
+   "name": "Scottsdale Airport, Arizona",
+   "state": "AZ",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2682",
+   "name": "Phoenix-Mesa Gateway Airport, Arizona",
+   "state": "AZ",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2704",
+   "name": "Los Angeles/Long Beach Seaport, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "LOS ANGELES, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2709",
+   "name": "LONG BEACH, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2712",
+   "name": "VENTURA, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2713",
+   "name": "Port Hueneme, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "PORT HUENEME, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2715",
+   "name": "CAPITAN, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2719",
+   "name": "MORRO BAY, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2720",
+   "name": "Los Angeles International Airport-Cargo Operations, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [
+    "LOS ANGELES INTL AIRPORT, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2721",
+   "name": "Ontario Airport, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [
+    "ONTARIO INTL AIRPORT, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2722",
+   "name": "Las Vegas, Nevada",
+   "state": "NV",
+   "kind": "port",
+   "aliases": [
+    "LAS VEGAS, NV"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2775",
+   "name": "TNT EXPRESS, LAX, CA",
+   "state": "CA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2776",
+   "name": "IBC PACIFIC",
+   "state": null,
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2781",
+   "name": "Palm Springs, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2782",
+   "name": "San Bernardino International Airport, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2783",
+   "name": "Victorville - S. California Logistics Airport, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "2786",
+   "name": "MEADOWS FIELD AIRPORT, CA",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2791",
+   "name": "DHL-HUB, LOS ANGELES, CA",
+   "state": "CA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2795",
+   "name": "UPS-ONTARIO, CA",
+   "state": "CA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2801",
+   "name": "San Francisco International Airport, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [
+    "SAN FRANCISCO INTL ARPT, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2802",
+   "name": "EUREKA, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2803",
+   "name": "Fresno (2803/2882), California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "FRESNO, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2805",
+   "name": "MONTEREY, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2809",
+   "name": "San Francisco, California",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [
+    "SAN FRANCISCO, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2810",
+   "name": "STOCKTON, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2811",
+   "name": "OAKLAND, CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2812",
+   "name": "RICHMOND,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2815",
+   "name": "CROCKETT,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2820",
+   "name": "MARTINEZ,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2821",
+   "name": "REDWOOD CITY,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2827",
+   "name": "SELBY,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2828",
+   "name": "SAN JUAQUIN RIVER,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2829",
+   "name": "SAN PABLO BAY,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2830",
+   "name": "CARQUINEZ STRAIT,CA",
+   "state": "CA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2833",
+   "name": "Reno, Nevada",
+   "state": "NV",
+   "kind": "port",
+   "aliases": [
+    "RENO, NV"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2834",
+   "name": "San Jose International Airport, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [
+    "SAN JOSE INTL AIRPORT, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2835",
+   "name": "Sacramento, California",
+   "state": "CA",
+   "kind": "air",
+   "aliases": [
+    "SACRAMENTO INT'L AIRPORT, CA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2895",
+   "name": "FEDEX, OAKLAND, CA",
+   "state": "CA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2901",
+   "name": "Astoria, Oregon",
+   "state": "OR",
+   "kind": "port",
+   "aliases": [
+    "ASTORIA, OR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2902",
+   "name": "Newport, Oregon",
+   "state": "OR",
+   "kind": "port",
+   "aliases": [
+    "NEWPORT, OR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2903",
+   "name": "Coos Bay, Oregon",
+   "state": "OR",
+   "kind": "port",
+   "aliases": [
+    "COOS BAY, OR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2904",
+   "name": "Portland, Oregon",
+   "state": "OR",
+   "kind": "port",
+   "aliases": [
+    "PORTLAND, OR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2905",
+   "name": "Longview, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "LONGVIEW, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2907",
+   "name": "Boise, Idaho",
+   "state": "ID",
+   "kind": "port",
+   "aliases": [
+    "BOISE, ID"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "2908",
+   "name": "VANCOUVER, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2909",
+   "name": "KALAMA, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2910",
+   "name": "PORTLAND INTL AIRPORT, OR",
+   "state": "OR",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "2983",
+   "name": "Hillsboro, Oregon",
+   "state": "OR",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3001",
+   "name": "Seattle, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "SEATTLE, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3002",
+   "name": "Tacoma, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "TACOMA, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3003",
+   "name": "ABERDEEN-HOQUIAM, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3004",
+   "name": "Blaine, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "BLAINE, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3005",
+   "name": "Bellingham",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "BELLINGHAM, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3006",
+   "name": "EVERETT, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3007",
+   "name": "Port Angeles, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "PORT ANGELES, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3008",
+   "name": "PORT TOWNSEND, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3009",
+   "name": "Sumas, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "SUMAS, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3010",
+   "name": "Anacortes",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "ANACORTES, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3011",
+   "name": "NIGHTHAWK, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3012",
+   "name": "DANVILLE, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3013",
+   "name": "FERRY, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3014",
+   "name": "Friday Harbor",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "FRIDAY HARBOR, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3015",
+   "name": "BOUNDARY, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3016",
+   "name": "LAURIER, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3017",
+   "name": "POINT ROBERTS, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3018",
+   "name": "KENMORE AIR HARBOR, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3019",
+   "name": "Oroville, WA, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "OROVILLE, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3020",
+   "name": "FRONTIER, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3022",
+   "name": "Spokane, Washington",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [
+    "SPOKANE, WA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3023",
+   "name": "LYNDEN, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3025",
+   "name": "METALINE FALLS",
+   "state": null,
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3026",
+   "name": "OLYMPIA, WA",
+   "state": "WA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3029",
+   "name": "SEATTLE-TACOMA INTL ARPT",
+   "state": null,
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3071",
+   "name": "UPS, SEATTLE, WA",
+   "state": "WA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3072",
+   "name": "AVION BROKERS, SEATTLE, WA",
+   "state": "WA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3073",
+   "name": "DHL, SEATTLE, WA",
+   "state": "WA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3074",
+   "name": "AIRBORNE EXPRESS, SEATTLE, WA",
+   "state": "WA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3082",
+   "name": "GRANT COUNTY AIRPORT",
+   "state": null,
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3095",
+   "name": "UPS, SEATTLE, WA",
+   "state": "WA",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3101",
+   "name": "Juneau, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "JUNEAU, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3102",
+   "name": "Ketchikan, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "KETCHIKAN, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3103",
+   "name": "Skagway, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "SKAGWAY, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3104",
+   "name": "Alcan, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "ALCAN, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3105",
+   "name": "Wrangell, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "WRANGELL, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3106",
+   "name": "Dalton Cache, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "DALTON CACHE, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3107",
+   "name": "Valdez, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3111",
+   "name": "Fairbanks, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "FAIRBANKS, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3115",
+   "name": "Sitka, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "SITKA, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3126",
+   "name": "Anchorage, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [
+    "ANCHORAGE, AK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3127",
+   "name": "Kodiak, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3128",
+   "name": "Nome, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3129",
+   "name": "Dutch Harbor, Alaska",
+   "state": "AK",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3195",
+   "name": "FEDEX, ANCHORAGE, AK",
+   "state": "AK",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3196",
+   "name": "UPS, ANCHORAGE, AK",
+   "state": "AK",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3201",
+   "name": "Honolulu, Hawaii",
+   "state": "HI",
+   "kind": "port",
+   "aliases": [
+    "HONOLULU, HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3202",
+   "name": "Hilo, Hawaii",
+   "state": "HI",
+   "kind": "port",
+   "aliases": [
+    "HILO, HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3203",
+   "name": "Kahului, Hawaii",
+   "state": "HI",
+   "kind": "port",
+   "aliases": [
+    "KAHULUI, HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3204",
+   "name": "Nawiliwili-Port Allen, Hawaii",
+   "state": "HI",
+   "kind": "port",
+   "aliases": [
+    "NAWILIWILI-PORT ALLEN,HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3205",
+   "name": "Daniel K. Inouye International Airport",
+   "state": "HI",
+   "kind": "air",
+   "aliases": [
+    "HONOLULU INTL AIRPRT, HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3206",
+   "name": "Kona, Hawaii",
+   "state": "HI",
+   "kind": "port",
+   "aliases": [
+    "KONA, HI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3207",
+   "name": "Hagatna, Guam",
+   "state": "GU",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3211",
+   "name": "Saipan, Northern Mariana Islands",
+   "state": "MP",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3212",
+   "name": "Tinian, Northern Mariana Islands",
+   "state": "MP",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3213",
+   "name": "Rota, Northern Mariana Islands",
+   "state": "MP",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3301",
+   "name": "Raymond, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "RAYMOND, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3302",
+   "name": "Eastport, ID, Idaho",
+   "state": "ID",
+   "kind": "port",
+   "aliases": [
+    "EASTPORT, ID"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3303",
+   "name": "SALT LAKE CITY, UT",
+   "state": "UT",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3304",
+   "name": "Great Falls International Airport, Montana",
+   "state": "MT",
+   "kind": "air",
+   "aliases": [
+    "GREAT FALLS, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3305",
+   "name": "BUTTE, MT",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3306",
+   "name": "Turner, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "TURNER, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3307",
+   "name": "Denver, Colorado",
+   "state": "CO",
+   "kind": "port",
+   "aliases": [
+    "DENVER, CO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3308",
+   "name": "Porthill, ID, Idaho",
+   "state": "ID",
+   "kind": "port",
+   "aliases": [
+    "PORTHILL, ID"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3309",
+   "name": "Scobey, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "SCOBY, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3310",
+   "name": "Port of Sweetgrass, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "SWEETGRASS, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3316",
+   "name": "Piegan, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "PIEGAN, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3317",
+   "name": "Opheim, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "OPHEIM, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3318",
+   "name": "Roosville, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "ROOSVILLE, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3319",
+   "name": "Morgan, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "MORGAN, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3321",
+   "name": "Whitlash, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "WHITLASH, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3322",
+   "name": "Del Bonita, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "DEL BONITA, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3323",
+   "name": "Wild Horse, MT, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "WILDHORSE, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3324",
+   "name": "Glacier Park International Airport, Montana (Kalispell)",
+   "state": "MT",
+   "kind": "air",
+   "aliases": [
+    "KALISPELL AIRPORT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3325",
+   "name": "Willow Creek, Montana",
+   "state": "MT",
+   "kind": "port",
+   "aliases": [
+    "HAVRE, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3332",
+   "name": "Natrona County Airport, Wyoming",
+   "state": "WY",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3348",
+   "name": "Helena Regional Airport, Montana",
+   "state": "MT",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3383",
+   "name": "Rocky Mountain Metropolitan Airport, Colorado",
+   "state": "CO",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3384",
+   "name": "Centennial Airport, Colorado",
+   "state": "CO",
+   "kind": "air",
+   "aliases": [
+    "CENTENNIAL AIRPORT, CO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3385",
+   "name": "Eagle County Regional Airport, Colorado",
+   "state": "CO",
+   "kind": "air",
+   "aliases": [
+    "EAGLE COUNTY REGIONAL AIRPORT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3386",
+   "name": "Bozeman Yellowstone User Fee Airport, Montana",
+   "state": "MT",
+   "kind": "air",
+   "aliases": [
+    "BOZEMAN YELLOWSTONE USER FEE AIRPORT, BELGRADE, MT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3401",
+   "name": "PEMBINA, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3403",
+   "name": "PORTAL, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3404",
+   "name": "NECHE, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3405",
+   "name": "ST JOHN, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3406",
+   "name": "NORTHGATE, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3407",
+   "name": "WALHALLA, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3408",
+   "name": "HANNAH, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3409",
+   "name": "SARLES, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3410",
+   "name": "AMBROSE, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3411",
+   "name": "FARGO,ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3413",
+   "name": "ANTLER, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3414",
+   "name": "SHERWOOD, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3415",
+   "name": "HANSBORO, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3416",
+   "name": "MAIDA, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3417",
+   "name": "FORTUNA, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3419",
+   "name": "WESTHOPE, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3420",
+   "name": "NOONAN, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3421",
+   "name": "CARBURY, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3422",
+   "name": "DUNSEITH, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3423",
+   "name": "Warroad, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "WARROAD, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3424",
+   "name": "Baudette, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "BAUDETTE, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3425",
+   "name": "Pinecreek, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "PINECREEK, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3426",
+   "name": "Roseau, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "ROSEAU, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3427",
+   "name": "GRAND FORKS, ND",
+   "state": "ND",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3430",
+   "name": "Lancaster, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "LANCASTER, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3433",
+   "name": "WILLISTON AIRPORT, ND",
+   "state": "ND",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3434",
+   "name": "MINOT AIRPORT, ND",
+   "state": "ND",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3501",
+   "name": "Minneapolis-St. Paul, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "MINNEAPOLIS-ST. PAUL, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3502",
+   "name": "Sioux Falls Regional Airport \u2013 Joe Foss Field",
+   "state": "SD",
+   "kind": "air",
+   "aliases": [
+    "SIOUX FALLS, S.D."
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3510",
+   "name": "Duluth, MN and Superior, WI, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "DULUTH, MN-SUPERIOR, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3511",
+   "name": "ASHLAND, WI",
+   "state": "WI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3512",
+   "name": "Omaha, Nebraska",
+   "state": "NE",
+   "kind": "port",
+   "aliases": [
+    "OMAHA, NE"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3513",
+   "name": "Des Moines, Iowa",
+   "state": "IA",
+   "kind": "port",
+   "aliases": [
+    "DES MOINES, IA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3581",
+   "name": "Rochester International Airport, Rochester, Minnesota",
+   "state": "MN",
+   "kind": "air",
+   "aliases": [
+    "ROCHESTER USER FEE AIRP, ROCHESTER, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3604",
+   "name": "International Falls, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "INTERNATIONAL FALLS-RANIER, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3613",
+   "name": "Grand Portage, Minnesota",
+   "state": "MN",
+   "kind": "port",
+   "aliases": [
+    "GRAND PORTAGE, MN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3701",
+   "name": "Milwaukee, Wisconsin",
+   "state": "WI",
+   "kind": "port",
+   "aliases": [
+    "MILWAUKEE, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3702",
+   "name": "Port of Marinette, Marinette, Wisconsin",
+   "state": "WI",
+   "kind": "port",
+   "aliases": [
+    "MARINETTE, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3703",
+   "name": "Green Bay, Wisconsin",
+   "state": "WI",
+   "kind": "port",
+   "aliases": [
+    "GREEN BAY, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3706",
+   "name": "Port of Manitowoc, Manitowoc, Wisconsin",
+   "state": "WI",
+   "kind": "port",
+   "aliases": [
+    "MANITOWOC, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3708",
+   "name": "Kenosha Regional Airport, Kenosha, Wisconsin",
+   "state": "WI",
+   "kind": "air",
+   "aliases": [
+    "RACINE, WI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3781",
+   "name": "Appleton International Airport, Appleton, Wisconsin",
+   "state": "WI",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3782",
+   "name": "Sheboygan County Memorial International Airport, Wisconsin",
+   "state": "WI",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3801",
+   "name": "Detroit, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "DETROIT, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3802",
+   "name": "Port Huron, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "PORT HURON, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3803",
+   "name": "Sault Sainte Marie, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "SAULT STE. MARIE, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3804",
+   "name": "Saginaw/Bay City/Flint, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "SAGINAW/BAY CITY, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3805",
+   "name": "Battle Creek, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "BATTLE CREEK, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3806",
+   "name": "Grand Rapids, Michigan",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [
+    "GRAND RAPIDS, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3807",
+   "name": "Detroit Metropolitan Airport, Michigan",
+   "state": "MI",
+   "kind": "air",
+   "aliases": [
+    "DETROIT METRO AIRPORT, DETROIT, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3808",
+   "name": "ESCANABA, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3809",
+   "name": "MARQUETTE, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3814",
+   "name": "ALGONAC, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3815",
+   "name": "MUSKEGON, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3816",
+   "name": "GRAND HAVEN, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3818",
+   "name": "ROGERS CITY, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3819",
+   "name": "DETOUR, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3842",
+   "name": "PRESQUE ISLE, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3843",
+   "name": "ALPENA, MI",
+   "state": "MI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3881",
+   "name": "OAKLAND/PONTIAC AIRPORT",
+   "state": null,
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3882",
+   "name": "WILLOW RUN AIRPORT, YPSILANTI, MI",
+   "state": "MI",
+   "kind": "air",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3883",
+   "name": "Capital Region International Airport Lansing, Michigan",
+   "state": "MI",
+   "kind": "air",
+   "aliases": [
+    "CAPITAL REGION INTL AIRPORT, LANSING, MI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3901",
+   "name": "Chicago, Illinois",
+   "state": "IL",
+   "kind": "port",
+   "aliases": [
+    "CHICAGO, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3902",
+   "name": "Peoria, Illinois",
+   "state": "IL",
+   "kind": "port",
+   "aliases": [
+    "PEORIA, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3905",
+   "name": "Gary Chicago International Airport, Gary, Indiana",
+   "state": "IN",
+   "kind": "air",
+   "aliases": [
+    "GARY, IN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3908",
+   "name": "Davenport, IA-Moline and Rock Island, IL, Illinois",
+   "state": "IL",
+   "kind": "port",
+   "aliases": [
+    "DAVENPORT, IA-ROCK ISLAND, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3909",
+   "name": "Rockford, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [
+    "ROCKFORD AIRPORT, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3910",
+   "name": "Midway International Airport Chicago, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [
+    "CHICAGO MIDWAY INT'L AIRPORT, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3971",
+   "name": "TNT EXPRESS CONSIGNMENT, CHICAGO, IL",
+   "state": "IL",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "3981",
+   "name": "Waukegan National Airport, Waukegan, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3983",
+   "name": "Chicago Executive Airport, Wheeling, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [
+    "CHICAGO EXECUTIVE AIRPORT, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "3984",
+   "name": "DuPage Airport, West Chicago, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3986",
+   "name": "South Bend International Airport, South Bend, Indiana",
+   "state": "IN",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "3987",
+   "name": "University of Illinois Willard Airport",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [
+    "UFA UI WILLARD AIRPORT, SAVOY, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4101",
+   "name": "Cleveland, Ohio",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [
+    "CLEVELAND, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4102",
+   "name": "Cincinnati, OH-Erlanger, KY, Kentucky",
+   "state": "KY",
+   "kind": "port",
+   "aliases": [
+    "CINCINNATI, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4103",
+   "name": "Columbus, Ohio",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [
+    "COLUMBUS, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4104",
+   "name": "Dayton, Ohio",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [
+    "DAYTON, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4105",
+   "name": "Toledo-Sandusky-Port Clinton, Ohio",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [
+    "TOLEDO-SNADUSKY, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4106",
+   "name": "Erie, Pennsylvania",
+   "state": "PA",
+   "kind": "port",
+   "aliases": [
+    "ERIE, PA"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4110",
+   "name": "Indianapolis, Indiana",
+   "state": "IN",
+   "kind": "port",
+   "aliases": [
+    "INDIANAPOLIS, IN"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4115",
+   "name": "Louisville, Kentucky",
+   "state": "KY",
+   "kind": "port",
+   "aliases": [
+    "LOUISVILLE, KY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4116",
+   "name": "Owensboro, KY / Evansville, IN",
+   "state": "IN",
+   "kind": "port",
+   "aliases": [
+    "OWENSBORO-EVANSVILLE, KY"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4121",
+   "name": "LORAIN, OH",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "4122",
+   "name": "Ashtabula/Conneaut, Ohio",
+   "state": "OH",
+   "kind": "port",
+   "aliases": [
+    "ASHTABULA/CONNEAUT, OH"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4183",
+   "name": "Fort Wayne, Indiana",
+   "state": "IN",
+   "kind": "air",
+   "aliases": [
+    "FORT WAYNE AIRPORT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4184",
+   "name": "Lexington, Kentucky",
+   "state": "KY",
+   "kind": "air",
+   "aliases": [
+    "BLUE GRASS AIRPORT"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4196",
+   "name": "UPS COURIER",
+   "state": null,
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "4197",
+   "name": "DHL CINCINNATI, OH",
+   "state": "OH",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "4198",
+   "name": "FEDEX, INDIANAPOLIS, IN",
+   "state": "IN",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "4501",
+   "name": "Kansas City, Missouri",
+   "state": "MO",
+   "kind": "port",
+   "aliases": [
+    "KANSAS CITY, MO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4502",
+   "name": "ST JOSEPH, MO",
+   "state": "MO",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "4503",
+   "name": "St. Louis, Missouri",
+   "state": "MO",
+   "kind": "port",
+   "aliases": [
+    "ST LOUIS, MO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4504",
+   "name": "Wichita, Kansas",
+   "state": "KS",
+   "kind": "port",
+   "aliases": [
+    "WICHITA, KS"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4505",
+   "name": "Springfield, Missouri",
+   "state": "MO",
+   "kind": "port",
+   "aliases": [
+    "SPRINGFIELD, MO"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4506",
+   "name": "Spirit of St. Louis Airport, Missouri",
+   "state": "MO",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "4581",
+   "name": "MidAmerica St. Louis Airport, Mascoutah, Illinois",
+   "state": "IL",
+   "kind": "air",
+   "aliases": [
+    "MIDAMERICAN AIRPORT, IL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4601",
+   "name": "New York/Newark, New Jersey",
+   "state": "NJ",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "4602",
+   "name": "Perth Amboy, New Jersey",
+   "state": "NJ",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "4681",
+   "name": "Morristown Airport, New Jersey",
+   "state": "NJ",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "4701",
+   "name": "John F. Kennedy International Airport, New York",
+   "state": "NY",
+   "kind": "air",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "4901",
+   "name": "Aguadilla, Puerto Rico",
+   "state": "PR",
+   "kind": "port",
+   "aliases": [
+    "AGUADILLA, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4904",
+   "name": "Fajardo, Puerto Rico",
+   "state": "PR",
+   "kind": "port",
+   "aliases": [
+    "FAJARDO, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4907",
+   "name": "Mayaguez, Puerto Rico",
+   "state": "PR",
+   "kind": "port",
+   "aliases": [
+    "MAYAGUEZ, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4908",
+   "name": "Ponce, Puerto Rico",
+   "state": "PR",
+   "kind": "port",
+   "aliases": [
+    "PONCE, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4909",
+   "name": "San Juan, PR (Area Port), Puerto Rico",
+   "state": "PR",
+   "kind": "port",
+   "aliases": [
+    "SAN JUAN, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "4913",
+   "name": "Luis Munoz Marin International Airport, Puerto Rico",
+   "state": "PR",
+   "kind": "air",
+   "aliases": [
+    "SAN JUAN INTL AIRPORT, PR"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5101",
+   "name": "Charlotte Amalie (Area Port of St. Thomas), Virgin Islands",
+   "state": "VI",
+   "kind": "port",
+   "aliases": [
+    "CHARLOTTE AMALIE, VI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5102",
+   "name": "Cruz Bay (St. John), Virgin Islands",
+   "state": "VI",
+   "kind": "port",
+   "aliases": [
+    "CRUZ BAY, VI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5104",
+   "name": "Saint Croix, Virgin Islands",
+   "state": "VI",
+   "kind": "port",
+   "aliases": [
+    "CHRISTIANSTED, VI"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5105",
+   "name": "FREDERIKSTED, VI",
+   "state": "VI",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5201",
+   "name": "Miami Seaport, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "MIAMI, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5202",
+   "name": "Key West, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "KEY WEST, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5203",
+   "name": "Port Everglades/Fort Lauderdale, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "PORT EVERGLADES, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5204",
+   "name": "West Palm Beach, Florida",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [
+    "WEST PALM BEACH, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5205",
+   "name": "FORT PIERCE, FL",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5206",
+   "name": "Miami International Airport, Florida",
+   "state": "FL",
+   "kind": "air",
+   "aliases": [
+    "MIAMI INTL AIRPORT, FL"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5210",
+   "name": "FT. LAUDERDALE INTL AIRP, FL",
+   "state": "FL",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5295",
+   "name": "UPS, MIAMI, FL",
+   "state": "FL",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5296",
+   "name": "DHL, MIAMI, FL",
+   "state": "FL",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5297",
+   "name": "FEDEX, MIAMI, FL",
+   "state": "FL",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5298",
+   "name": "IBC COURIER HUB, FL",
+   "state": "FL",
+   "kind": "courier",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5301",
+   "name": "Houston Seaport, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "HOUSTON, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5306",
+   "name": "TEXAS CITY, TX",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5309",
+   "name": "Houston Airport, Texas",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [
+    "HOUSTON INTERCONTL AIRP, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5310",
+   "name": "GALVESTON, TX",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5311",
+   "name": "Freeport, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "FREEPORT, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5312",
+   "name": "Corpus Christi, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "CORPUS CHRISTI, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5313",
+   "name": "Port Lavaca-Point Comfort, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "PORT LAVACA, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5381",
+   "name": "Sugar Land, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "SUGAR LAND REG AIRP, SUGAR LAND, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5382",
+   "name": "Conroe, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "5401",
+   "name": "Port of Washington-Dulles, Virginia",
+   "state": "VA",
+   "kind": "port",
+   "aliases": [
+    "WASHINGTON, DC"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5402",
+   "name": "ALEXANDRIA, VA",
+   "state": "VA",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5501",
+   "name": "Dallas/Ft. Worth, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "DALLAS/FT. WORTH, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5502",
+   "name": "Amarillo, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "AMARILLO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5503",
+   "name": "Lubbock, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "LUBBOCK, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5504",
+   "name": "Oklahoma City, Oklahoma",
+   "state": "OK",
+   "kind": "port",
+   "aliases": [
+    "OKLAHOMA CITY, OK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5505",
+   "name": "Tulsa, Oklahoma",
+   "state": "OK",
+   "kind": "port",
+   "aliases": [
+    "TULSA, OK"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5506",
+   "name": "Austin, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "AUSTIN, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5507",
+   "name": "San Antonio, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [
+    "SAN ANTONIO, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5582",
+   "name": "Midland, Texas",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [
+    "MIDLAND INTL AIRPORT, MIDLAND, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5583",
+   "name": "Alliance Airport, Texas",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [
+    "FORTH WORTH ALLIANCE  AIRP, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5584",
+   "name": "Addison Airport, Texas",
+   "state": "TX",
+   "kind": "air",
+   "aliases": [
+    "ADDISON AIRPORT, ADDISON, TX"
+   ],
+   "source": "cbp"
+  },
+  {
+   "code": "5585",
+   "name": "McKinney, Texas",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "cbp-only"
+  },
+  {
+   "code": "5588",
+   "name": "DALLAS LOVE FIELD USER FEE AIRP, DALLAS, TX",
+   "state": "TX",
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "5901",
+   "name": "NORFOLK/MOBILE/CHARLESTON",
+   "state": null,
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "7000",
+   "name": "LOW VALUE",
+   "state": null,
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  },
+  {
+   "code": "7001",
+   "name": "CANADIAN LATE RECEIPTS ESTIMATE",
+   "state": null,
+   "kind": "port",
+   "aliases": [],
+   "source": "census-only"
+  }
+ ]
+}

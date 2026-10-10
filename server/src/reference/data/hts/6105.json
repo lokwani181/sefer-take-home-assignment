@@ -1,0 +1,261 @@
+[
+ {
+  "htsno": "6105",
+  "indent": "0",
+  "description": "Men's or boys' shirts, knitted or crocheted:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.10.00",
+  "indent": "1",
+  "description": "Of cotton",
+  "units": [],
+  "general": "19.7%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.10.00.10",
+  "indent": "2",
+  "description": "Men's (338)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Boys':",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6105.10.00.20",
+  "indent": "3",
+  "description": "Imported as parts of playsuits (237)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.10.00.30",
+  "indent": "3",
+  "description": "Other (338)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.20",
+  "indent": "1",
+  "description": "Of man-made fibers:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.20.10.00",
+  "indent": "2",
+  "description": "Containing 23 percent or more by weight of wool or fine animal hair (438)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "13.6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "54.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.20.20",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "32%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "72%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.20.20.10",
+  "indent": "3",
+  "description": "Men's (638)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Boys':",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6105.20.20.20",
+  "indent": "4",
+  "description": "Imported as parts of playsuits (237)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.20.20.30",
+  "indent": "4",
+  "description": "Other (638)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90",
+  "indent": "1",
+  "description": "Of other textile materials:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.10.00",
+  "indent": "2",
+  "description": "Of wool or fine animal hair (438)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "54.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.40.00",
+  "indent": "2",
+  "description": "Containing 70 percent or more by weight of silk or silk waste (738)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "0.9%",
+  "special": "Free (AU,BH, CL,CO,E,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "5.6%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80.10",
+  "indent": "3",
+  "description": "Subject to cotton restraints (338)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80.20",
+  "indent": "3",
+  "description": "Subject to wool restraints (438)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80.30",
+  "indent": "3",
+  "description": "Subject to man-made fiber restraints (638)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80.60",
+  "indent": "3",
+  "description": "Other (838)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6106",
+  "indent": "0",
+  "description": "Women's or girls' blouses and shirts, knitted or crocheted:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

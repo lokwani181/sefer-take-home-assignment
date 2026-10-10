@@ -1,0 +1,2364 @@
+[
+ {
+  "htsno": "6404",
+  "indent": "0",
+  "description": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Footwear with outer soles of rubber or plastics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11",
+  "indent": "2",
+  "description": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.20",
+  "indent": "3",
+  "description": "Having uppers of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather",
+  "units": [],
+  "general": "10.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": [
+   {
+    "columns": [
+     "general"
+    ],
+    "value": "See 9903.41.10. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "6404.11.20.30",
+  "indent": "4",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.20.60",
+  "indent": "4",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.20.71",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued not over $3/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.41",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.41.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.41.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.41.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.49.00",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.51",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.51.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.51.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.51.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.59.00",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "48%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "84%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $3 but not over $6.50/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.61",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.61.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.61.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.61.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.69",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.69.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.69.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.69.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.71",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.71.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.71.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.71.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.75",
+  "indent": "6",
+  "description": "With uppers of textile materials other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.75.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.75.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.75.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.79",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "90¢/pr. + 37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "$1.58/pr. + 66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.79.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.79.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.79.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $6.50 but not over $12/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.81",
+  "indent": "5",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.81.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.81.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.81.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.85",
+  "indent": "5",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.85.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.85.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.85.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.89",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "90¢/pr. + 20%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "$1.58/pr. + 35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.89.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.89.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.89.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.90",
+  "indent": "4",
+  "description": "Valued over $12/pair",
+  "units": [],
+  "general": "20%",
+  "special": "Free (AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "For men:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.90.10",
+  "indent": "6",
+  "description": "Ski boots, cross country ski footwear and snowboard boots",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.90.20",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "For women:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.90.40",
+  "indent": "6",
+  "description": "Ski boots, cross country ski footwear and snowboard boots",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.90.50",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.11.90.70",
+  "indent": "6",
+  "description": "Ski boots, cross country ski footwear and snowboard boots",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.11.90.80",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.15",
+  "indent": "3",
+  "description": "Footwear having uppers of which over 50 percent of the external surface area (including any leather accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is leather",
+  "units": [],
+  "general": "10.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": [
+   {
+    "columns": [
+     "general"
+    ],
+    "value": "See 9903.41.10. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "6404.19.15.20",
+  "indent": "4",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.15.60",
+  "indent": "4",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.15.81",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.20",
+  "indent": "3",
+  "description": "Footwear designed to be worn over, or in lieu of, other footwear as a protection against water, oil, grease or chemicals or cold or inclement weather",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.20.30",
+  "indent": "4",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.20.60",
+  "indent": "4",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.20.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Footwear with open toes or open heels; footwear of the slip-on type, that is held to the foot without the use of laces or buckles or other fasteners, the foregoing except footwear of subheading 6404.19.20 and except footwear having a foxing or foxing-like band wholly or almost wholly of rubber or plastics applied or molded at the sole and overlapping the upper:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Less than 10 percent by weight of rubber or plastics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.25",
+  "indent": "5",
+  "description": "With uppers of vegetable fibers",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "House slippers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.25.15",
+  "indent": "7",
+  "description": "Covering the ankle",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.25.20",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.25.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.25.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.25.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.30",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "House slippers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.30.15",
+  "indent": "7",
+  "description": "Covering the ankle",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.30.20",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.30.40",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.30.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.30.80",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.36",
+  "indent": "5",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.36.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.36.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.36.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.37",
+  "indent": "5",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.37.15",
+  "indent": "6",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.37.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.37.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.37.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.39",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": [
+   {
+    "columns": [
+     "general"
+    ],
+    "value": "See 9903.27.09. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "6404.19.39.15",
+  "indent": "6",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.39.40",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.39.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.39.80",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued not over $3/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.42",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S.note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.42.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.42.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.42.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.47",
+  "indent": "6",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.47.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.47.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.47.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.47.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.49",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,R,S, SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.49.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.49.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.49.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.52",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.52.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.52.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.52.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.57",
+  "indent": "6",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.57.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.57.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.57.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.57.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.59",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "48%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "84%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.59.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.59.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.59.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.59.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $3 but not over $6.50/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Having soles (or mid-soles, if any) of rubber or plastics which are affixed to the upper exclusively with an adhesive (any mid-soles also being affixed exclusively to one another and to the sole with an adhesive); the foregoing except footwear having a foxing or a foxing-like band applied or molded at the sole and overlapping the upper and except footwear with soles which overlap the upper other than at the toe or heel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.61",
+  "indent": "6",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.61.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.61.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.61.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.61.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.69",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.69.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.69.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.69.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.72",
+  "indent": "6",
+  "description": "With uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.72.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.72.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.72.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.77",
+  "indent": "6",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.77.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.77.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.77.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.77.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.79",
+  "indent": "6",
+  "description": "Other",
+  "units": [],
+  "general": "90¢/pr. + 37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "$1.58/pr. + 66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.79.15",
+  "indent": "7",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.79.30",
+  "indent": "8",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.79.60",
+  "indent": "8",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.79.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $6.50 but not over $12/pair:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.82",
+  "indent": "5",
+  "description": "Wither uppers of vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.82.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.82.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.82.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.87",
+  "indent": "5",
+  "description": "With uppers of textile material other than vegetable fibers and having outer soles with textile materials having the greatest surface area in contact with the ground, but not taken into account under the terms of additional U.S. note 5 to this chapter",
+  "units": [],
+  "general": "12.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.87.15",
+  "indent": "6",
+  "description": "House slippers",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.19.87.30",
+  "indent": "7",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.87.60",
+  "indent": "7",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.87.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.89",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "90¢/pr. + 20%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "$1.58/pr. + 35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.89.30",
+  "indent": "6",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.89.60",
+  "indent": "6",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.89.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.90",
+  "indent": "4",
+  "description": "Valued over $12/pair",
+  "units": [],
+  "general": "9%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.90.30",
+  "indent": "5",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.90.60",
+  "indent": "5",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.19.90.90",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20",
+  "indent": "1",
+  "description": "Footwear with outer soles of leather or composition leather:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Not over 50 percent by weight of rubber or plastics and not over 50 percent by weight of textile materials and rubber or plastics with at least 10 percent by weight being rubber or plastics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "6404.20.20",
+  "indent": "3",
+  "description": "Valued not over $2.50/pair",
+  "units": [],
+  "general": "15%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.20.30",
+  "indent": "4",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.20.60",
+  "indent": "4",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.20.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.40",
+  "indent": "3",
+  "description": "Valued over $2.50/pair",
+  "units": [],
+  "general": "10%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE, R,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.40.30",
+  "indent": "4",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.40.60",
+  "indent": "4",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.40.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.60",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "37.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA, PE,R,S,SG)",
+  "other": "66%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.60.40",
+  "indent": "3",
+  "description": "For men",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.60.60",
+  "indent": "3",
+  "description": "For women",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6404.20.60.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6405",
+  "indent": "0",
+  "description": "Other footwear:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

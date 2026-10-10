@@ -1,0 +1,185 @@
+{
+  "id": "s2-scan-cn-ddp",
+  "description": "Ningbo maker → Savannah retailer by sea, DDP. Scanned combined COMMERCIAL INVOICE & PACKING LIST (Times font, stacked header, columns Item | HS Code | Description | Ctns | Qty | Unit | Unit Price | Amount | N.W. | G.W.) with itemized DDP charges and one wrong line amount, red round company chop; 2-page text house B/L (terms on page 2).",
+  "files": [
+    {
+      "file": "scan_20260915_0042.pdf",
+      "docType": "invoice_packing_list",
+      "source": "ocr",
+      "pages": 1,
+      "keyTokens": [
+        "NBHY-260917",
+        "SEP. 08, 2026",
+        "DDP",
+        "TYBEE",
+        "SAVANNAH",
+        "HY-ST2201",
+        "HY-BS4410",
+        "HY-BP3080",
+        "HY-BP3090",
+        "9403.60.80",
+        "4202.92.31",
+        "18.50",
+        "32.40",
+        "6.85",
+        "4.25",
+        "4,440.00",
+        "4,860.00",
+        "8,280.00",
+        "3,400.00",
+        "20,920.00",
+        "2,850.00",
+        "96.00",
+        "1,214.00",
+        "420.00",
+        "4,580.00",
+        "4,830.00",
+        "5,335.00",
+        "370"
+      ]
+    },
+    {
+      "file": "CXSVNGB26091187_BL.pdf",
+      "docType": "bill_of_lading",
+      "source": "text",
+      "pages": 2,
+      "keyTokens": [
+        "CXSVNGB26091187",
+        "ZSPLNGB2609180",
+        "ZSPU4182074",
+        "ZP0915447",
+        "5,335.000",
+        "58.600",
+        "370 CARTONS",
+        "ZHOUSHAN PIONEER",
+        "0926E",
+        "NINGBO, CHINA",
+        "SAVANNAH, GA",
+        "15-SEP-2026"
+      ]
+    }
+  ],
+  "notes": [
+    "Valuation policy: DDP Savannah — the line prices INCLUDE ocean freight, insurance, US duties & customs fees and US inland delivery; the invoice itemizes them under \"PRICE BREAKDOWN (included in the DDP prices above)\". All four are non-dutiable and are deducted, prorated by line value.",
+    "Line 3 arithmetic: 1,200 PCS × USD 6.85 = 8,220.00 but 8,280.00 is printed. The printed grand total 20,920.00 = 4,440 + 4,860 + 8,220 + 3,400 (computed amounts), while the printed amounts would sum to 20,980.00, so the printed line amount is the error → use 8,220 (decision amount:inv0-line3 default \"computed\"). Expect LINE_AMOUNT_MISMATCH on that line and no TOTALS_MISMATCH.",
+    "Charges: 2,850 (ocean freight) + 96 (insurance) + 1,214 (US duties/fees, estimate) + 420 (US inland) = 4,580. Base = 20,920. Each line: amount − 4,580 × amount / 20,920.",
+    "Line 1: 4,440.00 − 972.05 = 3,467.95 → 3,468.",
+    "Line 2: 4,860.00 − 1,064.00 = 3,796.00 → 3,796.",
+    "Line 3: 8,220.00 − 1,799.60 = 6,420.40 → 6,420.",
+    "Line 4: 3,400.00 − 744.36 = 2,655.64 → 2,656.",
+    "Total entered value: 3,468 + 3,796 + 6,420 + 2,656 = 16,340 (= 20,920 − 4,580). USD, no conversion.",
+    "Packing totals agree with the B/L: cartons 120 + 150 + 60 + 40 = 370; G.W. 1,620 + 2,475 + 840 + 400 = 5,335 kg (B/L 5,335.000 KGS); N.W. 4,830 kg; 58.60 CBM. The combined document is the packing list, so MISSING_DOCUMENT must not fire.",
+    "Container ZSPU4182074 passes ISO 6346 (check digit 4). House B/L CXSVNGB26091187 → house SCAC CXSV + bill NGB26091187; master ZSPLNGB2609180 → master SCAC ZSPL + bill NGB2609180.",
+    "Savannah = Schedule D port 1703; containerized vessel → mode 11. Invoice date SEP. 08, 2026 is unambiguous (month name); laden on board 15-SEP-2026.",
+    "HTS 9403.60.80 (other wooden furniture, Free) and 4202.92.31 (travel/sports bags incl. backpacks, outer surface of man-made fibers, 17.6%) are real 2026 HTSUS 8-digit codes (cached in scripts/synthetic/reference/).",
+    "Consignee on the B/L = buyer on the invoice, so ULTIMATE_CONSIGNEE_ASSUMED should not fire."
+  ],
+  "expect": {
+    "invoiceNumber": "NBHY-260917",
+    "invoiceNumberNormalized": "NBHY-260917",
+    "invoiceDate": "2026-09-08",
+    "currency": "USD",
+    "incoterm": {
+      "code": "DDP",
+      "place": "Savannah, GA"
+    },
+    "sellerName": "NINGBO HAOYU HOME & TRAVEL GOODS CO., LTD.",
+    "buyerName": "TYBEE TRADING COMPANY LLC",
+    "importerName": "TYBEE TRADING COMPANY LLC",
+    "transport": {
+      "mode": "ocean",
+      "modeTransportation": "11",
+      "entryPort": "1703",
+      "containers": [
+        "ZSPU4182074"
+      ],
+      "bills": [
+        {
+          "masterScac": "ZSPL",
+          "masterBill": "NGB2609180",
+          "houseScac": "CXSV",
+          "houseBill": "NGB26091187"
+        }
+      ],
+      "grossWeightKg": 5335
+    },
+    "lines": [
+      {
+        "lineNo": 1,
+        "styleNo": "HY-ST2201",
+        "descriptionContains": "ACACIA WOOD",
+        "quantity": 240,
+        "unit": "PCS",
+        "unitPrice": 18.5,
+        "printedAmount": 4440,
+        "countryOfOrigin": "CN",
+        "hs6": "940360",
+        "hsPrinted": "9403.60.80",
+        "enteredValue": 3468
+      },
+      {
+        "lineNo": 2,
+        "styleNo": "HY-BS4410",
+        "descriptionContains": "BOOKSHELF",
+        "quantity": 150,
+        "unit": "PCS",
+        "unitPrice": 32.4,
+        "printedAmount": 4860,
+        "countryOfOrigin": "CN",
+        "hs6": "940360",
+        "hsPrinted": "9403.60.80",
+        "enteredValue": 3796
+      },
+      {
+        "lineNo": 3,
+        "styleNo": "HY-BP3080",
+        "descriptionContains": "LAPTOP BACKPACK",
+        "quantity": 1200,
+        "unit": "PCS",
+        "unitPrice": 6.85,
+        "printedAmount": 8280,
+        "countryOfOrigin": "CN",
+        "hs6": "420292",
+        "hsPrinted": "4202.92.31",
+        "enteredValue": 6420
+      },
+      {
+        "lineNo": 4,
+        "styleNo": "HY-BP3090",
+        "descriptionContains": "KIDS BACKPACK",
+        "quantity": 800,
+        "unit": "PCS",
+        "unitPrice": 4.25,
+        "printedAmount": 3400,
+        "countryOfOrigin": "CN",
+        "hs6": "420292",
+        "hsPrinted": "4202.92.31",
+        "enteredValue": 2656
+      }
+    ],
+    "totalEnteredValue": 16340,
+    "issuesInclude": [
+      "LINE_AMOUNT_MISMATCH",
+      "NON_DUTIABLE_CHARGES"
+    ],
+    "issuesExclude": [
+      "MISSING_DOCUMENT",
+      "CHARGES_NOT_ITEMIZED",
+      "TOTALS_MISMATCH",
+      "CONTAINER_NUMBER_INVALID",
+      "CONTAINER_NUMBER_CORRECTED",
+      "HTS_NOT_DECLARED",
+      "DATE_AMBIGUOUS",
+      "GROSS_WEIGHT_MISMATCH",
+      "PACKAGE_COUNT_MISMATCH",
+      "ORIGIN_DIFFERS",
+      "CURRENCY_CONVERSION",
+      "INVOICE_NO_NORMALIZED",
+      "NCV_VALUE",
+      "ASSIST",
+      "QTY_MISMATCH",
+      "TELEX_RELEASE",
+      "ULTIMATE_CONSIGNEE_ASSUMED"
+    ]
+  }
+}

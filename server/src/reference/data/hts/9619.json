@@ -1,0 +1,368 @@
+[
+ {
+  "htsno": "9619.00",
+  "indent": "0",
+  "description": "Sanitary pads (towels) and tampons, diapers (napkins), diaper liners and similar articles, of any material:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.05.00",
+  "indent": "1",
+  "description": "Of plastics",
+  "units": [
+   "kg"
+  ],
+  "general": "5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.11.00",
+  "indent": "1",
+  "description": "Of paper pulp",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.15",
+  "indent": "1",
+  "description": "Of paper, cellulose wadding or webs of cellulose fibers",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.15.10",
+  "indent": "2",
+  "description": "Sanitary napkins and tampons",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.15.30",
+  "indent": "2",
+  "description": "Diapers and diaper liners",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.15.60",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Of textile wadding:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.21.00",
+  "indent": "2",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "3.6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.25.00",
+  "indent": "2",
+  "description": "Other (669)",
+  "units": [
+   "kg"
+  ],
+  "general": "6.3%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "74%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Diapers of other textile materials:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.31.00",
+  "indent": "3",
+  "description": "Of knitted or crocheted textile fabric (239)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "8.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.33.00",
+  "indent": "3",
+  "description": "Other (239)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "9.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.41.00",
+  "indent": "2",
+  "description": "Of synthetic fibers (239)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "16%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.43.00",
+  "indent": "2",
+  "description": "Of artificial fibers (239)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Of other textile fibers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.46.00",
+  "indent": "3",
+  "description": "Of knitted or crocheted textile fabric (839)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "5.6%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.48.00",
+  "indent": "3",
+  "description": "Other (839)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "2.8%",
+  "special": "Free (AU,BH, CL,CO,E,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other, of textile materials:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Knitted or crocheted:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.61.00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "10.8%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.64.00",
+  "indent": "3",
+  "description": "Of man-made fibers",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "14.9%",
+  "special": "Free (AU,BH,CL, CO,IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.68.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "5.6%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.71.00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "8.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P,PA, PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.74.00",
+  "indent": "3",
+  "description": "Of man-made fibers",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "16%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "76%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9619.00.78.00",
+  "indent": "4",
+  "description": "Menʼs or boysʼ",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "2.8%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.79.00",
+  "indent": "4",
+  "description": "Womenʼs or girlsʼ",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "7.3%",
+  "special": "Free (AU,BH,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.90.00",
+  "indent": "1",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "7%",
+  "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ }
+]

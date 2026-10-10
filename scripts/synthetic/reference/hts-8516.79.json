@@ -1,0 +1,27 @@
+[ {
+  "htsno" : "8516.79.00.00",
+  "indent" : "2",
+  "description" : "Other",
+  "superior" : null,
+  "units" : [ "No." ],
+  "general" : "2.7%",
+  "special" : "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other" : "40%",
+  "footnotes" : [ ],
+  "quotaQuantity" : null,
+  "additionalDuties" : null,
+  "addiitionalDuties" : null
+}, {
+  "htsno" : "8516.80",
+  "indent" : "1",
+  "description" : "Electric heating resistors:",
+  "superior" : null,
+  "units" : [ ],
+  "general" : "",
+  "special" : "",
+  "other" : "",
+  "footnotes" : [ ],
+  "quotaQuantity" : "",
+  "additionalDuties" : "",
+  "addiitionalDuties" : null
+} ]

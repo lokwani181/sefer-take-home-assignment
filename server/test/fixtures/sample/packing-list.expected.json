@@ -1,0 +1,171 @@
+{
+  "docId": "sample-pl",
+  "fileName": "SPG-PL-2609-117_Packing_List.pdf",
+  "docType": "packing_list",
+  "classificationScore": 1,
+  "source": "ocr",
+  "pageCount": 1,
+  "data": {
+    "kind": "packing_list",
+    "plNumber": "SPG-PL-2609-117",
+    "date": "2026-09-20",
+    "invoiceRefs": ["KBAS/NB/26-0912"],
+    "poNumbers": ["NB-26-0918"],
+    "shipper": {
+      "name": "SAIGON PHOENIX GARMENT JSC",
+      "lines": ["Unit 1708, 17/F, Hing Fat Ind. Bldg., 223 Wai Yip St."],
+      "city": "Kwun Tong",
+      "stateProvince": "Kowloon",
+      "country": "HK",
+      "raw": "SAIGON PHOENIX GARMENT JSC\non behalf of KOWLOON BAY APPAREL SOURCING LTD.\nUnit 1708, 17/F, Hing Fat Ind. Bldg., 223 Wai Yip St.,\nKwun Tong, Kowloon, Hong Kong"
+    },
+    "consignee": {
+      "name": "NORTHBOUND OUTFITTERS, INC.",
+      "lines": ["2150 NW Raleigh St., Suite 300"],
+      "city": "Portland",
+      "stateProvince": "OR",
+      "postalCode": "97210",
+      "country": "US",
+      "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh St., Suite 300, Portland, OR 97210, USA"
+    },
+    "deliverTo": {
+      "name": "Cascade Fulfillment Partners LLC",
+      "lines": ["21820 76th Ave S"],
+      "city": "Kent",
+      "stateProvince": "WA",
+      "postalCode": "98032",
+      "country": "US",
+      "raw": "Deliver to: Cascade Fulfillment Partners LLC,\n21820 76th Ave S, Kent, WA 98032, USA"
+    },
+    "manufacturer": {
+      "name": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY",
+      "lines": ["Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward"],
+      "city": "Di An City",
+      "stateProvince": "Binh Duong Province",
+      "country": "VN",
+      "phone": "+84 274 3742 618",
+      "taxId": "3702148865",
+      "raw": "SAIGON PHOENIX GARMENT JOINT STOCK COMPANY\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam | MST/Tax Code: 3702148865 | Tel: +84 274 3742 618"
+    },
+    "vessel": "PACIFIC ARGOS",
+    "voyage": "041E",
+    "containerSummary": "1 x 20'GP",
+    "portOfLoading": "CAT LAI, HCMC",
+    "portOfDischarge": "TACOMA, WA",
+    "lines": [
+      {
+        "cartonRange": "1-48",
+        "styleNo": "NB-T101",
+        "description": "MEN'S CREW NECK S/S TEE",
+        "details": ["100% COTTON JERSEY 160GSM", "BLACK / WHITE / HTHR NAVY", "S1 M3 L3 XL2 XXL1 (x5 per size run)"],
+        "cartons": 48,
+        "pcsPerCarton": 50,
+        "totalPcs": 2400,
+        "netWeightPerCartonKg": 9,
+        "grossWeightPerCartonKg": 10,
+        "netWeightKg": 432,
+        "grossWeightKg": 480,
+        "dimensions": "60x40x35",
+        "composition": [{ "fiber": "cotton", "pct": 100 }],
+        "compositionRaw": "100% COTTON"
+      },
+      {
+        "cartonRange": "49-97",
+        "styleNo": "NB-H205",
+        "description": "LADIES PULLOVER HOODIE",
+        "details": ["TC 65/35 FLEECE 280GSM", "OATMEAL / SAGE", "XS2 S4 M6 L6 XL6"],
+        "cartons": 49,
+        "pcsPerCarton": 24,
+        "totalPcs": 1176,
+        "netWeightPerCartonKg": 14.6,
+        "grossWeightPerCartonKg": 15.8,
+        "netWeightKg": 715.4,
+        "grossWeightKg": 774.2,
+        "dimensions": "60x45x45",
+        "composition": [
+          { "fiber": "polyester", "pct": 65 },
+          { "fiber": "cotton", "pct": 35 }
+        ],
+        "compositionRaw": "TC 65/35"
+      },
+      {
+        "cartonRange": "98-127",
+        "styleNo": "NB-C330",
+        "description": "MEN'S SLIM CHINO PANT",
+        "details": ["98/2 COTTON/SPANDEX TWILL", "KHAKI / OLIVE / NAVY", "W30-3 W32-6 W34-9 W36-9 W38-3"],
+        "cartons": 30,
+        "pcsPerCarton": 30,
+        "totalPcs": 900,
+        "netWeightPerCartonKg": 16.2,
+        "grossWeightPerCartonKg": 17.4,
+        "netWeightKg": 486,
+        "grossWeightKg": 522,
+        "dimensions": "60x40x40",
+        "composition": [
+          { "fiber": "cotton", "pct": 98 },
+          { "fiber": "elastane", "pct": 2 }
+        ],
+        "compositionRaw": "98/2 COTTON/SPANDEX"
+      },
+      {
+        "cartonRange": "128-137",
+        "styleNo": "W-B220",
+        "description": "LADIES L/S V-NECK BLOUSE",
+        "details": ["100% POLY CREPE (BUYER FABRIC)", "IVORY / BLACK", "XS6 S12 M18 L18 XL6"],
+        "cartons": 10,
+        "pcsPerCarton": 60,
+        "totalPcs": 600,
+        "netWeightPerCartonKg": 9.6,
+        "grossWeightPerCartonKg": 10.6,
+        "netWeightKg": 96,
+        "grossWeightKg": 106,
+        "dimensions": "55x40x30",
+        "composition": [{ "fiber": "polyester", "pct": 100 }],
+        "compositionRaw": "100% POLY"
+      },
+      {
+        "cartonRange": "138",
+        "styleNo": "NB-P118S",
+        "description": "LADIES POLO - SAMPLES (FOC)",
+        "details": ["100% COTTON PIQUE", "ASSORTED", "1 PC PER COLOUR/SIZE **"],
+        "cartons": 1,
+        "pcsPerCarton": 24,
+        "totalPcs": 24,
+        "netWeightPerCartonKg": 5.1,
+        "grossWeightPerCartonKg": 5.8,
+        "netWeightKg": 5.1,
+        "grossWeightKg": 5.8,
+        "dimensions": "50x35x30",
+        "countryOfOrigin": "BD",
+        "manufacturer": {
+          "name": "SP Garments Dhaka Ltd.",
+          "lines": ["Plot 41"],
+          "city": "Gazipur",
+          "country": "BD",
+          "raw": "SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh"
+        },
+        "composition": [{ "fiber": "cotton", "pct": 100 }],
+        "compositionRaw": "100% COTTON",
+        "footnoteRefs": ["**"]
+      }
+    ],
+    "totals": { "cartons": 138, "pcs": 5100, "netWeightKg": 1734.5, "grossWeightKg": 1888, "volumeCbm": 13.58 },
+    "shippingMarks": ["NORTHBOUND OUTFITTERS", "PO#: NB-26-0918", "STYLE#:", "COLOUR / SIZE:", "QTY: PCS", "C/NO.: 1 - 138", "MADE IN VIETNAM"],
+    "remarks": [
+      "1. All cartons 5-ply export cartons, strapped, palletized: NO.",
+      "2. Style W-B220 sewn from buyer-supplied fabric (Ref. NB-26-0918F).",
+      "3. ** Carton No. 138: FOC samples (ladies polo NB-P118S) produced at our sister unit SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh. Hand-carried to Cat Lai CFS for consolidation.",
+      "4. Seal no. per B/L."
+    ]
+  },
+  "fieldMeta": {
+    "lines[1].netWeightPerCartonKg": { "conf": 74, "repaired": true, "originalText": "14,60" },
+    "lines[4].cartons": { "conf": 50, "repaired": true, "originalText": "" }
+  },
+  "observations": [
+    { "kind": "ocr_repair", "text": "N.W./Ctn for NB-H205 read as '14,60'; repaired to 14.60 (49 × 14.60 = 715.40).", "field": "lines[1].netWeightPerCartonKg", "page": 1 },
+    { "kind": "ocr_repair", "text": "Carton count for NB-P118S not read; derived from 24 pcs ÷ 24 pcs/ctn = 1 (carton range '138').", "field": "lines[4].cartons", "page": 1 },
+    { "kind": "footnote", "text": "** Carton No. 138: FOC samples produced at SP Garments Dhaka Ltd., Gazipur, Bangladesh. Made in Bangladesh.", "field": "lines[4]", "page": 1 }
+  ],
+  "warnings": []
+}

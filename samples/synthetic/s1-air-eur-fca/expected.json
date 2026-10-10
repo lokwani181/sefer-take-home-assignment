@@ -1,0 +1,169 @@
+{
+  "id": "s1-air-eur-fca",
+  "description": "German exporter (Solingen) → Chicago importer by air. Text-layer invoice in EUR with German number format and bilingual labels (Inv #, Unit Value, Ext. Value), FCA Frankfurt Airport, 8-digit HTS codes; scanned house air waybill with a red RECEIVED stamp; no packing list.",
+  "files": [
+    {
+      "file": "RW-26-10387_Rechnung.pdf",
+      "docType": "commercial_invoice",
+      "source": "text",
+      "pages": 1,
+      "keyTokens": [
+        "RW-26-10387",
+        "18.09.2026",
+        "FCA",
+        "9.240,00",
+        "3.870,00",
+        "4.640,00",
+        "4.128,00",
+        "21.878,00",
+        "8211.91.40",
+        "8211.91.50",
+        "7323.93.00",
+        "1.342,0"
+      ]
+    },
+    {
+      "file": "HAWB_MSA2604417_scan.pdf",
+      "docType": "air_waybill",
+      "source": "ocr",
+      "pages": 1,
+      "keyTokens": [
+        "020-12345675",
+        "MSA2604417",
+        "FRA",
+        "ORD",
+        "LH 8402",
+        "21 SEP 2026",
+        "1,342.0",
+        "1,498.0",
+        "46",
+        "RHEINWERK",
+        "LAKESHORE",
+        "CHICAGO",
+        "FRANKFURT",
+        "RW-26-10387",
+        "8211.91",
+        "7323.93",
+        "8.97"
+      ]
+    }
+  ],
+  "notes": [
+    "Valuation policy: FCA Frankfurt Airport means the price ends when the seller hands the goods to the air carrier at FRA, so the invoice price contains no international freight or insurance. Nothing is deducted; no assists; no NCV lines. Entered value = line amount (EUR, whole number).",
+    "Line 1: 2,400 PCS × EUR 3.85 = EUR 9,240.00 → 9,240.",
+    "Line 2: 1,800 PCS × EUR 2.15 = EUR 3,870.00 → 3,870.",
+    "Line 3: 400 SETS × EUR 11.60 = EUR 4,640.00 → 4,640.",
+    "Line 4: 640 PCS × EUR 6.45 = EUR 4,128.00 → 4,128.",
+    "Total entered value: 9,240 + 3,870 + 4,640 + 4,128 = 21,878 (EUR), equal to the printed invoice total EUR 21.878,00. USD conversion happens downstream (CURRENCY_CONVERSION); values here stay in EUR.",
+    "The invoice prints amounts in German format (9.240,00 = 9240.00) and quantities without thousands separators.",
+    "No packing list was supplied → MISSING_DOCUMENT. Packages (46 cartons) and weights come from the invoice footer and the AWB, and they agree (gross 1,342.0 kg).",
+    "Chargeable weight 1,498.0 kg is volumetric (8.97 m³ × 167 kg/m³) and must NOT be used as the gross weight.",
+    "The AWB box 'Declared Value for Customs: NCV' is the standard carriage-form entry, not a no-commercial-value invoice line, so NCV_VALUE must not fire.",
+    "MAWB 020-12345675: prefix 020 = Lufthansa Cargo; serial check 1234567 mod 7 = 5 = last digit (valid). bills[0].masterScac \"LH\" assumes NetCHB expects the 2-character IATA carrier code for air (XSD carrierCodeType allows 2 or 4 chars) and masterBill the 11-digit AWB number; this mapping is inferred, not confirmed.",
+    "Entry port 3901 = Chicago, IL (covers O'Hare air cargo); mode of transportation 40 = air.",
+    "All four HTS numbers exist in the 2026 HTSUS (cached USITC subtrees in scripts/synthetic/reference/)."
+  ],
+  "expect": {
+    "invoiceNumber": "RW-26-10387",
+    "invoiceNumberNormalized": "RW-26-10387",
+    "invoiceDate": "2026-09-18",
+    "currency": "EUR",
+    "incoterm": {
+      "code": "FCA",
+      "place": "Frankfurt Airport"
+    },
+    "sellerName": "Rheinwerk Kuechentechnik GmbH",
+    "buyerName": "Lakeshore Culinary Supply Co.",
+    "importerName": "Lakeshore Culinary Supply Co.",
+    "transport": {
+      "mode": "air",
+      "modeTransportation": "40",
+      "entryPort": "3901",
+      "bills": [
+        {
+          "masterScac": "LH",
+          "masterBill": "02012345675",
+          "houseBill": "MSA2604417"
+        }
+      ],
+      "grossWeightKg": 1342
+    },
+    "lines": [
+      {
+        "lineNo": 1,
+        "styleNo": "RW-4012-SS",
+        "descriptionContains": "Steak knife, 12 cm",
+        "quantity": 2400,
+        "unit": "PCS",
+        "unitPrice": 3.85,
+        "printedAmount": 9240,
+        "countryOfOrigin": "DE",
+        "hs6": "821191",
+        "hsPrinted": "8211.91.40",
+        "enteredValue": 9240
+      },
+      {
+        "lineNo": 2,
+        "styleNo": "RW-4020-PM",
+        "descriptionContains": "Steak knife, 11 cm",
+        "quantity": 1800,
+        "unit": "PCS",
+        "unitPrice": 2.15,
+        "printedAmount": 3870,
+        "countryOfOrigin": "DE",
+        "hs6": "821191",
+        "hsPrinted": "8211.91.50",
+        "enteredValue": 3870
+      },
+      {
+        "lineNo": 3,
+        "styleNo": "RW-7310-B3",
+        "descriptionContains": "Mixing bowl set",
+        "quantity": 400,
+        "unit": "SETS",
+        "unitPrice": 11.6,
+        "printedAmount": 4640,
+        "countryOfOrigin": "DE",
+        "hs6": "732393",
+        "hsPrinted": "7323.93.00",
+        "enteredValue": 4640
+      },
+      {
+        "lineNo": 4,
+        "styleNo": "RW-7324-SB",
+        "descriptionContains": "Colander 24 cm",
+        "quantity": 640,
+        "unit": "PCS",
+        "unitPrice": 6.45,
+        "printedAmount": 4128,
+        "countryOfOrigin": "DE",
+        "hs6": "732393",
+        "hsPrinted": "7323.93.00",
+        "enteredValue": 4128
+      }
+    ],
+    "totalEnteredValue": 21878,
+    "issuesInclude": [
+      "MISSING_DOCUMENT",
+      "CURRENCY_CONVERSION"
+    ],
+    "issuesExclude": [
+      "NON_DUTIABLE_CHARGES",
+      "CHARGES_NOT_ITEMIZED",
+      "LINE_AMOUNT_MISMATCH",
+      "TOTALS_MISMATCH",
+      "CONTAINER_NUMBER_INVALID",
+      "CONTAINER_NUMBER_CORRECTED",
+      "DATE_AMBIGUOUS",
+      "HTS_NOT_DECLARED",
+      "ORIGIN_DIFFERS",
+      "NCV_VALUE",
+      "ASSIST",
+      "QTY_MISMATCH",
+      "GROSS_WEIGHT_MISMATCH",
+      "PACKAGE_COUNT_MISMATCH",
+      "INVOICE_NO_NORMALIZED",
+      "TELEX_RELEASE"
+    ]
+  }
+}

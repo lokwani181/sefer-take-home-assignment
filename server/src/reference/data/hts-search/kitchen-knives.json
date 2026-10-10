@@ -1,0 +1,623 @@
+[
+ {
+  "htsno": "6302",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Bed linen, table linen, toilet linen and kitchen linen:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.60.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Toilet linen and kitchen linen, of terry toweling or similar terry fabrics, of cotton",
+  "general": "9.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018):",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.41",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of lead crystal:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Knives with silver handles",
+  "units": [
+   "No."
+  ],
+  "general": "2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "16¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.45.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Sets of the foregoing which include two or more knives, forks, spoons or ladles",
+  "units": [
+   "pcs"
+  ],
+  "general": "3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.50.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Sterling silver tableware",
+  "units": [
+   "g"
+  ],
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.20.00.40",
+  "statisticalSuffix": "40",
+  "indent": "2",
+  "description": "Articles not elsewhere specified or included, of a type used for household, table or kitchen use; toilet or sanitary ware",
+  "units": [
+   "g"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00.15",
+  "statisticalSuffix": "15",
+  "indent": "4",
+  "description": "Teakettles",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00.60",
+  "statisticalSuffix": "60",
+  "indent": "5",
+  "description": "Kitchen ware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Teakettles",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.30",
+  "statisticalSuffix": "30",
+  "indent": "6",
+  "description": "Kitchen ware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.50.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Kitchen or tableware suitable for food or drink contact",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.90.30",
+  "statisticalSuffix": "30",
+  "indent": "6",
+  "description": "Kitchen or tableware suitable for food or drink contact",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7418",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary ware and parts thereof, of copper:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7418.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like",
+  "general": "3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7418.10.00.23",
+  "statisticalSuffix": "23",
+  "indent": "5",
+  "description": "Cooking and kitchen ware",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7418.10.00.53",
+  "statisticalSuffix": "53",
+  "indent": "5",
+  "description": "Cooking and kitchen ware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7615",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Table, kitchen or other household articles and parts thereof, of aluminum; pot scourers and scouring or polishing pads, gloves and the like, of aluminum; sanitary ware and parts thereof, of aluminum:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7615.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Table, kitchen or other household articles and parts thereof; pot scourers and scouring or polishing pads, gloves and the like:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7615.10.20",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Cast",
+  "general": "3.1%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7907.00.10.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Articles of a type used for household, table or kitchen use; toilet and sanitary wares; all the foregoing and parts thereof of zinc",
+  "units": [
+   "kg"
+  ],
+  "general": "3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8007.00.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Articles not elsewhere specified or included of a type used for household, table or kitchen use; toilet and sanitary wares; all the foregoing not coated or plated with precious metal",
+  "general": "2.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Handtools of the following kinds and base metal parts thereof: spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8205.51.30.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Kitchen and table implements",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Knives and cutting blades, for machines or for mechanical appliances, and base metal parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.30.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "For kitchen appliances or for machines used by the food industry, and parts thereof",
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208, and blades and other base metal parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Table knives having fixed blades:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Knives with silver-plated handles",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.20.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Valued under 25¢ each, not over 25.9 cm in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.4¢ each + 6.4%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.50",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Knives with rubber or plastic handles",
+  "general": "0.7¢ each + 3.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.50.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Steak knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.80.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Steak knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Other knives having fixed blades:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.20.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Kitchen and butcher knives",
+  "units": [
+   "No."
+  ],
+  "general": "0.8¢ each + 4.6%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.40.50",
+  "statisticalSuffix": "50",
+  "indent": "5",
+  "description": "Sheath-type knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.60.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Hunting knives with wood handles",
+  "units": [
+   "No."
+  ],
+  "general": "4.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Kitchen and butcher knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90.45",
+  "statisticalSuffix": "45",
+  "indent": "5",
+  "description": "Sheath-type knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Knives having other than fixed blades",
+  "general": "3¢ each + 5.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35¢ each + 55%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00.35",
+  "statisticalSuffix": "35",
+  "indent": "3",
+  "description": "Pen knives, pocket knives and other knives which have folding blades",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.94.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "For knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.16¢ each + 2.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "For table knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "For other knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.4¢ each + 6.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, chopping or mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files); base metal parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Paper knives, letter openers, erasing knives, pencil sharpeners (nonmechanical) and blades and other parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware; and base metal parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.20.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Kitchen waste disposers (disposals)",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in the kitchen:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9902.16.26",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electromechanical knives, each with self-contained electric motor, valued $8 or more but not more than $40 each (provided for in subheading 8509.80.50)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.31",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electromechanical knives, each with self-contained electric motor (provided for in subheading 8509.80.50), the foregoing only if valued either less than $8 or more than $40 each ",
+  "units": [],
+  "general": "0.3%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.76.03",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Completed kitchen cabinets and vanities and parts of kitchen cabinets and vanities provided for in subdivision (f) of U.S. note 37 of this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ }
+]

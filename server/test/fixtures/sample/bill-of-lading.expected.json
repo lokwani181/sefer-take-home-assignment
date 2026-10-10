@@ -1,0 +1,110 @@
+{
+  "docId": "sample-bl",
+  "fileName": "BMLVHCM26090418_House_BL.pdf",
+  "docType": "bill_of_lading",
+  "classificationScore": 1,
+  "source": "ocr",
+  "pageCount": 1,
+  "data": {
+    "kind": "bill_of_lading",
+    "blType": "house",
+    "blNumber": "BMLVHCM26090418",
+    "issuerName": "BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD.",
+    "issuerScac": "BMLV",
+    "masterBlNumber": "OPLUSGN260917735",
+    "carrierName": "ORIENT PACIFIC LINES",
+    "carrierScac": "OPLU",
+    "bookingNumber": "BMLHCM2609-0377",
+    "shipper": {
+      "name": "SAIGON PHOENIX GARMENT JSC",
+      "lines": ["LOT C7-C8, ROAD NO. 9, SONG THAN 2 IP"],
+      "city": "DI AN CITY",
+      "stateProvince": "BINH DUONG",
+      "country": "VN",
+      "raw": "SAIGON PHOENIX GARMENT JSC\nLOT C7-C8, ROAD NO. 9, SONG THAN 2 IP\nDI AN CITY, BINH DUONG, VIETNAM\nO/B KOWLOON BAY APPAREL SOURCING LTD\nKWUN TONG, KOWLOON, HONG KONG"
+    },
+    "consignee": {
+      "name": "CASCADE FULFILLMENT PARTNERS LLC",
+      "lines": ["21820 76TH AVENUE SOUTH, DOCK 4"],
+      "city": "KENT",
+      "stateProvince": "WA",
+      "postalCode": "98032",
+      "country": "US",
+      "contact": "RECEIVING",
+      "phone": "+1 253 555 0193",
+      "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76TH AVENUE SOUTH, DOCK 4\nKENT, WA 98032, USA\nATTN: RECEIVING TEL: +1 253 555 0193"
+    },
+    "notifyParty": {
+      "name": "NORTHBOUND OUTFITTERS, INC.",
+      "lines": ["2150 NW RALEIGH ST, SUITE 300"],
+      "city": "PORTLAND",
+      "stateProvince": "OR",
+      "postalCode": "97210",
+      "country": "US",
+      "contact": "M. HOLT",
+      "phone": "+1 503 555 0148",
+      "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW RALEIGH ST, SUITE 300\nPORTLAND, OR 97210, USA\nTEL: +1 503 555 0148 ATTN: M. HOLT"
+    },
+    "alsoNotify": "CUSTOMS BROKER (TBA)",
+    "exportReferences": ["INV KBAS/NB/26-0912", "PO NB-26-0918"],
+    "vessel": "PACIFIC ARGOS",
+    "voyage": "041E",
+    "preCarriage": "TRUCK",
+    "placeOfReceipt": "SONG THAN, BINH DUONG",
+    "portOfLoading": "CAT LAI, HCMC, VN",
+    "portOfDischarge": "TACOMA, WA, USA",
+    "placeOfDelivery": "KENT, WA (DOOR)",
+    "finalDestination": "KENT, WA, USA",
+    "moveType": "CFS / DOOR",
+    "onBoardDate": "2026-09-24",
+    "issueDate": "2026-09-24",
+    "issuePlace": "HO CHI MINH CITY",
+    "containers": [
+      {
+        "number": "OPLU3041722",
+        "checkDigitValid": true,
+        "sealNumbers": ["OPL7731482"],
+        "sizeType": "20GP",
+        "candidates": [
+          { "number": "OPLU3041728", "checkDigitValid": false, "source": "strikethrough" },
+          { "number": "OPLU3041722", "checkDigitValid": true, "source": "handwritten" }
+        ]
+      }
+    ],
+    "packages": { "count": 138, "unit": "CARTONS" },
+    "grossWeightKg": 1930,
+    "volumeCbm": 13.58,
+    "cargoDescription": [
+      "1 X 20'GP CONTAINER S.T.C.:",
+      "138 CARTONS OF",
+      "WEARING APPAREL - MEN'S AND",
+      "LADIES' KNIT AND WOVEN GARMENTS",
+      "(T-SHIRTS, HOODIES, TROUSERS,",
+      "BLOUSES, POLO SAMPLES)"
+    ],
+    "hsCodes": ["6109.10", "6110.20", "6203.42", "6206.40", "6106.10"],
+    "freightTerms": "FREIGHT PREPAID",
+    "charges": [
+      { "description": "OCEAN FREIGHT", "terms": "prepaid" },
+      { "description": "THC ORIGIN", "terms": "prepaid" },
+      { "description": "DESTINATION CHGS", "terms": "collect" }
+    ],
+    "releaseType": "telex",
+    "originalsCount": 3,
+    "amsFiledBy": "BLUE MERIDIAN",
+    "isfFiledBy": "IMPORTER/AGENT",
+    "countryOfOrigin": "VN"
+  },
+  "fieldMeta": {
+    "containers[0].number": { "conf": 40, "repaired": true, "originalText": "ORSKU 304/72 2" },
+    "onBoardDate": { "conf": 60, "repaired": true, "originalText": "24 SEP 2006" },
+    "hsCodes[2]": { "conf": 70, "repaired": true, "originalText": "6263.42" }
+  },
+  "observations": [
+    { "kind": "strikethrough", "text": "Typed container number OPLU3041728 is crossed out (fails ISO 6346 check digit).", "field": "containers[0].number", "page": 1 },
+    { "kind": "handwritten", "text": "Handwritten container number OPLU3041722 with initials (passes ISO 6346 check digit).", "field": "containers[0].number", "page": 1 },
+    { "kind": "stamp", "text": "TELEX RELEASED — ORIGINALS SURRENDERED AT ORIGIN 25-SEP-2026 BML-HCM", "page": 1 },
+    { "kind": "stamp", "text": "SHIPPED ON BOARD DATE: 24 SEP 2026 CAT LAI, HCMC VSL: PACIFIC ARGOS", "field": "onBoardDate", "page": 1 }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,194 @@
+[
+ {
+  "htsno": "8201",
+  "indent": "0",
+  "description": "Handtools of the following kinds and base metal parts thereof: spades, shovels, mattocks, picks, hoes, forks and rakes; axes, bill hooks and similar hewing tools; secateurs and pruners of any kind; scythes, sickles, hay knives, hedge shears, timber wedges and other tools of a kind used in agriculture, horticulture or forestry:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.10.00.00",
+  "indent": "1",
+  "description": "Spades and shovels, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.30.00",
+  "indent": "1",
+  "description": "Mattocks, picks, hoes and rakes, and parts thereof",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.30.00.10",
+  "indent": "2",
+  "description": "Mattocks and picks, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.30.00.80",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.40",
+  "indent": "1",
+  "description": "Axes, bill hooks and similar hewing tools, and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.40.30.00",
+  "indent": "2",
+  "description": "Machetes, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.40.60",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "6.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.40.60.10",
+  "indent": "3",
+  "description": "Axes and adzes, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.40.60.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.50.00.00",
+  "indent": "1",
+  "description": "Secateurs and similar one-handed pruners and shears (including poultry shears), and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "1¢ each + 2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.60.00.00",
+  "indent": "1",
+  "description": "Hedge shears, two-handed pruning shears and similar two-handed shears, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "1¢ each + 2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.90",
+  "indent": "1",
+  "description": "Other handtools of a kind used in agriculture, horticulture or forestry, and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.90.30.00",
+  "indent": "2",
+  "description": "Grass shears, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "2¢ each + 5.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.90.40.00",
+  "indent": "2",
+  "description": "Forks, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "15%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8201.90.60.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8202",
+  "indent": "0",
+  "description": "Handsaws, and metal parts thereof; blades for saws of all kinds (including slitting, slotting or toothless saw blades), and base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

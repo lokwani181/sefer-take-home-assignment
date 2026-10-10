@@ -1,0 +1,5602 @@
+[
+ {
+  "htsno": "2618.00.00.00",
+  "statisticalSuffix": "00",
+  "indent": "0",
+  "description": "Granulated slag (slag sand) from the manufacture of iron or steel",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "2619.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "2620",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Slag, ash and residues (other than from the manufacture of iron or steel), containing arsenic, metals or their compounds:",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Tableware and kitchenware:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4419",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tableware and kitchenware, of wood:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6804.21.00.20",
+  "statisticalSuffix": "20",
+  "indent": "3",
+  "description": "Articles consisting of a continuous rim segment of diamond agglomerated with metal, attached to circular plates of steel (whether or not attached to non-steel plates)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6804.21.00.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "Articles consisting of multiple segments of diamond agglomerated with metal, attached to circular plates of steel, without cutting parts (whether or not attached to non-steel plates)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6911",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tableware, kitchenware, other household articles and toilet articles, of porcelain or china:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6911.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Tableware and kitchenware:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6912.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6912.00.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of coarse-grained earthenware, or of coarse- grained stoneware; of fine-grained earthenware, whether or not decorated, having a reddish-colored body and a lustrous glaze which, on teapots, may be any color, but which, on other articles, must be mottled, streaked or solidly colored brown to black with metallic oxide or salt",
+  "units": [
+   "Dz Pcs"
+  ],
+  "general": "0.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "7013.10.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Kitchenware, non-glazed, greater than 75 percent by volume crystalline, of lithium aluminosilicate, having a linear coefficient of expansion not exceeding 10 x 10<sup>-7</sup> per Kelvin within a temperature range of 0˚C to 300˚C, transparent, haze-free, exhibiting transmittances of infrared radiations in excess of 75 percent at a wavelength of 2.5 microns when measured on a sample 3 mm in thickness, and containing β-quartz solid solution as the predominant crystal phase",
+  "units": [
+   "No."
+  ],
+  "general": "6.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Ferrous waste and scrap; remelting scrap ingots of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7204.30.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Waste and scrap of tinned iron or steel",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "7205",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Granules and powders, of pig iron, spiegeleisen, iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7205.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7206",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Iron and nonalloy steel in ingots or other primary forms (excluding iron of heading 7203):",
+  "footnotes": []
+ },
+ {
+  "htsno": "7207",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Semifinished products of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of iron or nonalloy steel, of a width of <il>600 mm</il> or more, hot-rolled, not clad, plated or coated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.25.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7208.26.00.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "High-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.27.00.40",
+  "statisticalSuffix": "40",
+  "indent": "4",
+  "description": "“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.36.00.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "High-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.37.00.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "High-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.38.00.15",
+  "statisticalSuffix": "15",
+  "indent": "3",
+  "description": "High-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.39.00.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7208.51.00.45",
+  "statisticalSuffix": "45",
+  "indent": "4",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7209",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of iron or nonalloy steel, of a width of <il>600 mm</il> or more, cold-rolled (cold-reduced), not clad, plated or coated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7209.16.00.40",
+  "statisticalSuffix": "40",
+  "indent": "5",
+  "description": "“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7209.17.00.40",
+  "statisticalSuffix": "40",
+  "indent": "5",
+  "description": "“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7209.18.15",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of high-strength steel",
+  "general": "Free",
+  "special": "",
+  "other": "0.4¢/kg + 20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7210",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of iron or nonalloy steel, of a width of <il>600 mm</il> or more, clad, plated or coated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7210.30.00.30",
+  "statisticalSuffix": "30",
+  "indent": "2",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7210.49.00.40",
+  "statisticalSuffix": "40",
+  "indent": "4",
+  "description": "“Advanced” or “ultra” of a kind described in statistical note 4 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7211",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of iron or nonalloy steel, of a width of less than <il>600 mm</il>, not clad, plated or coated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7211.14.00.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7211.19.15.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7211.19.45.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7211.23.15.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Of high-strength steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7212",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of iron or nonalloy steel, of a width of less than <il>600 mm</il>, clad, plated or coated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7213",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Bars and rods, hot-rolled, in irregularly wound coils, of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7213.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other, of free-cutting steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7213.91.30.11",
+  "statisticalSuffix": "11",
+  "indent": "4",
+  "description": "Tire cord-quality steel wire rod of a kind described in statistical note 5 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7213.91.30.15",
+  "statisticalSuffix": "15",
+  "indent": "4",
+  "description": "Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7214",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other bars and rods of iron or nonalloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7214.30.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other, of free-cutting steel",
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7215",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other bars and rods of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7215.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of free-cutting steel, not further worked than cold-formed or cold-finished",
+  "general": "Free",
+  "special": "",
+  "other": "0.3¢/kg + 20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7216",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Angles, shapes and sections of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7217",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of stainless steel, of a width of <il>600 mm</il> or more:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.12.00.06",
+  "statisticalSuffix": "06",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.14.00.65",
+  "statisticalSuffix": "65",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.21.00.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.22.00.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.32.00.05",
+  "statisticalSuffix": "05",
+  "indent": "5",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.32.00.35",
+  "statisticalSuffix": "35",
+  "indent": "5",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.33.00.05",
+  "statisticalSuffix": "05",
+  "indent": "5",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.33.00.35",
+  "statisticalSuffix": "35",
+  "indent": "5",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.34.00.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219.90.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7220",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of stainless steel, of a width of less than <il>600 mm</il>:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7220.20.60.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7220.20.70.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7220.20.80.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Razor blade steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "34%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7221.00.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel",
+  "general": "Free",
+  "special": "",
+  "other": "11%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7221.00.00.05",
+  "statisticalSuffix": "05",
+  "indent": "1",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7222",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7222.11.00.06",
+  "statisticalSuffix": "06",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7222.19.00.06",
+  "statisticalSuffix": "06",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7222.20.00.06",
+  "statisticalSuffix": "06",
+  "indent": "2",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7222.30.00.12",
+  "statisticalSuffix": "12",
+  "indent": "2",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7223.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7224",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7224.10.00.05",
+  "statisticalSuffix": "05",
+  "indent": "2",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7224.10.00.45",
+  "statisticalSuffix": "45",
+  "indent": "3",
+  "description": "Of tool steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7224.90.00.05",
+  "statisticalSuffix": "05",
+  "indent": "2",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7224.90.00.15",
+  "statisticalSuffix": "15",
+  "indent": "5",
+  "description": "Having a width less than four times the thickness",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of other alloy steel, of a width of <il>600 mm</il> or more:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.11.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Grain-oriented",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7225.30.11",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of tool steel",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.30.11.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.30.30.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.30.51",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of tool steel",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.30.51.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.11",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of tool steel",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.11.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.30.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.51",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of tool steel",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.51.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.40.51.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.50.11",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of tool steel",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.50.11.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.50.11.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.50.70.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Heat-resisting steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.50.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7225.99.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Flat-rolled products of other alloy steel, of a width of less than <il>600 mm</il>:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.11",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Grain-oriented:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.20.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "37%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.91.05.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of chipper knife steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "34%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.91.15.30",
+  "statisticalSuffix": "30",
+  "indent": "6",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.91.25.30",
+  "statisticalSuffix": "30",
+  "indent": "6",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.92.10",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of a width of 300 mm or more",
+  "general": "Free",
+  "special": "",
+  "other": "0.4¢/kg + 29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.92.10.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.92.30.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.92.70.05",
+  "statisticalSuffix": "05",
+  "indent": "6",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7226.92.80.05",
+  "statisticalSuffix": "05",
+  "indent": "6",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "14%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of silico-manganese steel",
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.90.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Not tempered, not treated, and not partly manufactured",
+  "general": "Free",
+  "special": "",
+  "other": "12%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.90.10.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.90.20.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.90.60.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7227.90.60.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of Cold Heading Quality (CHQ) steel of a kind described in statistical note 6 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or nonalloy steel:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Bars and rods, of high-speed steel",
+  "general": "Free",
+  "special": "",
+  "other": "32%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Bars and rods, of silico-manganese steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.30",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of tool steel (other than high-speed steel):",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.30.20.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.30.40.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of chipper knife steel, not cold-formed",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.30.80.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.50.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of tool steel (other than high-speed steel)",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7228.50.10.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.50.50.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.60.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of tool steel (other than high-speed steel)",
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7228.60.10.30",
+  "statisticalSuffix": "30",
+  "indent": "3",
+  "description": "Of ball-bearing steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7229",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire of other alloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7229.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of silico-manganese steel",
+  "general": "Free",
+  "special": "",
+  "other": "33%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7229.90.05.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of high-speed steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "37%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7301",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7301.20.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7301.20.50.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7302",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7302.10.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "1%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7302.10.50",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "9%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.11.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.19.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7304.19.50",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of other alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.22.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Drill pipe of stainless steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.23.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.23.60",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.24",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Other, of stainless steel:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.29.10",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Threaded or coupled",
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7304.29.31",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Threaded or coupled",
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7304.29.50",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7304.29.61",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of other alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.31",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Cold-drawn or cold-rolled (cold-reduced):",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.41",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Cold-drawn or cold-rolled (cold-reduced):",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.41.30.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.41.60.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.49.00.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.51",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Cold-drawn or cold-rolled (cold-reduced):",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.51.50.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.51.50.15",
+  "statisticalSuffix": "15",
+  "indent": "6",
+  "description": "Of heat-resisting steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.59.20.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of heat-resisting steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.59.60.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Of heat-resisting steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "36%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "1%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.90.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "8.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.90.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7304.90.70.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross sections, the external diameter of which exceeds <il>406.4 mm</il>, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.11.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7305.11.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.12.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7305.12.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.19.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.19.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.20.20.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Threaded or coupled",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.20.60.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Threaded or coupled",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.31.20.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Tapered pipes and tubes of steel principally used as parts of illuminating articles",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.31.40.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.31.60",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.31.60.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.39.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.39.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7305.90.50.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other tubes, pipes and hollow profiles (for example, open seamed or welded, riveted or similarly closed), of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.11.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Welded, of stainless steel",
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.19.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.19.51",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.21",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Welded of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.29.10",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Threaded or coupled",
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.29.60",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7306.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other, welded, of circular cross section, of iron or nonalloy steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.30.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Tapered steel pipes and tubes principally used as parts of illuminating articles",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.40",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other, welded, of circular cross section, of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.40.50.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Of high-nickel alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.50",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other, welded, of circular cross section, of other alloy steel:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.50.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Tapered pipes and tubes of steel principally used as parts of illuminating articles",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.61.10.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "1%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.61.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.61.50.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.61.70",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.61.70.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.69.10.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "1%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.69.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "28%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.69.50.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.69.70",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.69.70.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "5.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7306.90.50.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.21",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Flanges:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.10.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "3.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.50.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.50.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.50.50",
+  "statisticalSuffix": "50",
+  "indent": "5",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.91.50.70",
+  "statisticalSuffix": "70",
+  "indent": "5",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.92.30.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.92.30.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.93.30",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "general": "6.2%",
+  "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.93.60.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "5.5%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.93.90.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Not machined, not tooled and not otherwise processed after forging",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.93.90.60",
+  "statisticalSuffix": "60",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.99.10.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of iron or nonalloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "3.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7307.99.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "3.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,JP,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.99.50.15",
+  "statisticalSuffix": "15",
+  "indent": "5",
+  "description": "Nipples",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7307.99.50.60",
+  "statisticalSuffix": "60",
+  "indent": "4",
+  "description": "Of alloy steel (except stainless steel)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7308",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge sections, lock gates, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns) of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7308.30.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7308.90.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Not in part of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7308.90.70.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Steel grating",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7309.00.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding <il>300 liters</il>, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment",
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7310",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding <il>300 liters</il>, whether or not lined or heat insulated, but not fitted with mechanical or thermal equipment:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7310.10.00.05",
+  "statisticalSuffix": "05",
+  "indent": "2",
+  "description": "Refillable stainless steel kegs, whether or not pressurized, of a kind described in statistical note 1 to this chapter.",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7310.10.00.15",
+  "statisticalSuffix": "15",
+  "indent": "2",
+  "description": "Empty steel drums and barrels",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7310.29.00.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Refillable stainless steel kegs, whether or not pressurized, of a kind described in statistical note 1 to this chapter",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7310.29.00.55",
+  "statisticalSuffix": "55",
+  "indent": "4",
+  "description": "Refillable stainless steel kegs, whether or not pressurized, of a kind described in statistical note 1 to this chapter",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7311.00.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Containers for compressed or liquefied gas, of iron or steel",
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.09. "
+   }
+  ]
+ },
+ {
+  "htsno": "7311.00.00.30",
+  "statisticalSuffix": "30",
+  "indent": "2",
+  "description": "Seamless steel containers not overwrapped, marked DOT 3A, 3AX, 3AA, 3AAX, 3B, 3E, 3HT, 3T or DOT-E followed by a specific exemption number",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7312",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7312.10.05.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Fitted with fittings or made up into articles",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7312.10.50.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Fitted with fittings or made up into articles",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7313.00.00.00",
+  "statisticalSuffix": "00",
+  "indent": "0",
+  "description": "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "7314",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7314.12",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Endless bands for machinery, of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7314.14",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Other woven cloth, of stainless steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7315",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Chain and parts thereof, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7315.12.00.40",
+  "statisticalSuffix": "40",
+  "indent": "4",
+  "description": "Welded steel chain",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7315.82.10.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Not over <il>10 mm</il> in diameter",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7315.82.50.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Not over <il>10 mm</il> in diameter",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "10%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7316.00.00.00",
+  "statisticalSuffix": "00",
+  "indent": "0",
+  "description": "Anchors, grapnels and parts thereof, of iron or steel",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7317.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.14.10.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.14.50.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.20.51",
+  "statisticalSuffix": "51",
+  "indent": "7",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.20.61",
+  "statisticalSuffix": "61",
+  "indent": "7",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.20.91",
+  "statisticalSuffix": "91",
+  "indent": "7",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.50.30",
+  "statisticalSuffix": "30",
+  "indent": "4",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.50.51",
+  "statisticalSuffix": "51",
+  "indent": "6",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.60.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.60.70",
+  "statisticalSuffix": "70",
+  "indent": "6",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.80.30",
+  "statisticalSuffix": "30",
+  "indent": "7",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.80.55",
+  "statisticalSuffix": "55",
+  "indent": "8",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.15.80.82",
+  "statisticalSuffix": "82",
+  "indent": "8",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7318.16.00.60",
+  "statisticalSuffix": "60",
+  "indent": "4",
+  "description": "Of stainless steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7319",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7320",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Springs and leaves for springs, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7321",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas rings, plate warmers and similar nonelectric domestic appliances, and parts thereof, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7322",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motor-driven fan or blower, and parts thereof, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "22¢/kg + 30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "general": "2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of iron (other than cast iron) or steel, enameled",
+  "general": "2.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Teakettles",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Sanitary ware and parts thereof, of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Sinks and wash basins, of stainless steel",
+  "general": "3.4%",
+  "special": "Free (A*,AU,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.10.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Stainless steel sinks with one or more drawn bowls (basins)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7325",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other cast articles of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7326",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other articles of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7326.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Articles of iron or steel wire",
+  "general": "3.9%",
+  "special": "Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7326.90.86.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Laminated goods consisting of two or more flat-rolled sheets of iron or steel held together with an adhesive or having a core of non-metallic material",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7326.90.86.75",
+  "statisticalSuffix": "75",
+  "indent": "5",
+  "description": "Paint roller frames (other than of iron or steel wire)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7415",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Nails, tacks, drawing pins, staples (other than those of heading 8305) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of copper:",
+  "footnotes": []
+ },
+ {
+  "htsno": "7614.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "With steel core:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8202.31.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "With working part of steel",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8205.51.15.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Carving and butcher steels, with or without handles",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8205.59.45.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Caulking guns",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.20.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Valued under 25¢ each, not over 25.9 cm in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.4¢ each + 6.4%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.01.00",
+  "statisticalSuffix": "00",
+  "indent": "6",
+  "description": "Valued under 25¢ each, not over <il>25.9 cm</il> in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.9¢ each + 15.8%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.30.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Spoons valued under 25¢ each",
+  "units": [
+   "pcs"
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.40",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "With base metal (except stainless steel) or nonmetal handles",
+  "general": "5%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8301.10.60.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Lock bodies containing hardened steel components with attached (or insertable) flexible cable composed of wire strands and hardened steel beads",
+  "units": [
+   "doz."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.10.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Designed for motor vehicles",
+  "units": [
+   "kg"
+  ],
+  "general": "2%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.30.30",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of iron or steel, of aluminum or of zinc",
+  "general": "2%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "8302.41.60",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of iron or steel, of aluminum or of zinc",
+  "general": "3.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.42.30",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or steel, of aluminum or of zinc",
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.49.60",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of iron or steel, of aluminum or of zinc",
+  "general": "5.7%",
+  "special": "Free (A*,AU,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8307.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of iron or steel:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8307.10.60.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Jacketed corrugated stainless steel tubing as described in statistical note 1 to this chapter",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8308.20.30.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of iron or steel and not brightened, not lathed and not machined",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "2.2¢/kg",
+  "footnotes": []
+ },
+ {
+  "htsno": "8309.90.00.80",
+  "statisticalSuffix": "80",
+  "indent": "3",
+  "description": "Of steel",
+  "units": [
+   "kg",
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8409.91.50.81",
+  "statisticalSuffix": "81",
+  "indent": "6",
+  "description": "Steel forgings",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8411.91.90.81",
+  "statisticalSuffix": "81",
+  "indent": "5",
+  "description": "Steel forgings",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8411.99.90.81",
+  "statisticalSuffix": "81",
+  "indent": "6",
+  "description": "Steel forgings",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8431.49.90.81",
+  "statisticalSuffix": "81",
+  "indent": "7",
+  "description": "Steel forgings",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8454.20.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "For steel ingots",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8455.30.00.35",
+  "statisticalSuffix": "35",
+  "indent": "3",
+  "description": "Not exceeding <il>2,268 kg</il>",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.30.20",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of iron or steel",
+  "general": "5%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.30.20.90",
+  "statisticalSuffix": "90",
+  "indent": "3",
+  "description": "Of steel",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.80.30",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of iron or steel",
+  "general": "5.6%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)2.8% (JP)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.80.30.55",
+  "statisticalSuffix": "55",
+  "indent": "5",
+  "description": "Gate type",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.90.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of iron or steel",
+  "units": [
+   "kg"
+  ],
+  "general": "5%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8481.90.90.81",
+  "statisticalSuffix": "81",
+  "indent": "5",
+  "description": "Steel forgings",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8482.91.00.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of alloy steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.25.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Housings and steel bases for the electric flatirons of subheading 8516.40",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8708.10.30.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Of steel",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8708.29.21.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Of steel",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8708.40.75.70",
+  "statisticalSuffix": "70",
+  "indent": "5",
+  "description": "Steel forgings",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8714.91.50.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Sets of steel tubing cut to exact length and each set having the number of tubes needed for the assembly (with other parts) into the frame and fork of one bicycle",
+  "units": [
+   "kg"
+  ],
+  "general": "6% <u></u>",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)3% (JP)",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8716.90.50.35",
+  "statisticalSuffix": "35",
+  "indent": "4",
+  "description": "Steel wheels measuring 30 to <il>42 cm</il> in diameter, whether or not assembled",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8716.90.50.47",
+  "statisticalSuffix": "47",
+  "indent": "7",
+  "description": "Of steel",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.75",
+  "statisticalSuffix": "75",
+  "indent": "4",
+  "description": "Boltless or press-fit steel shelving units prepackaged for sale as described in statistical note 4 to this chapter",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.82",
+  "statisticalSuffix": "82",
+  "indent": "4",
+  "description": "Steel racks, other than those described in statistical reporting number 9403.20.0075",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.40",
+  "statisticalSuffix": "40",
+  "indent": "7",
+  "description": "Parts for steel racks of statistical reporting number 9403.20.0082",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9406.20.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Modular building units, of steel",
+  "units": [
+   "No.",
+   "m<sup>2</sup>"
+  ],
+  "general": "2.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9620.00.65.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of iron or steel",
+  "units": [
+   "No."
+  ],
+  "general": "2.9%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9902.14.79",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Kitchenware of glass-ceramics, non-glazed and greater than 75 percent by volume crystalline (provided for in subheading 7013.10.10)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.94",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Self-tapping screw anchors of steel (provided for in 7318.14.50), each having a shank (body) measuring 6.35 mm in diameter and an internally threaded hex washer head measuring 9.53 mm, having cut threads (provided for in subheading 7318.14.50)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.95",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Portable propane gas camping stoves, each with one adjustable burner rated to generate up to 7,650 British thermal units (BTUs) of power, with casing of steel and pan support of steel covered with porcelain, the foregoing valued $4 or more but not over $20 each (provided for in subheading 7321.11.10)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.96",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Handles of stainless steel, the foregoing comprising parts of cooking ware (provided for in subheading 7323.93.00)",
+  "units": [],
+  "general": "1.5%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.97",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Insulated thermal pitchers, each with stainless steel interior and exterior, with hinged stainless steel lid and a capacity not exceeding 1 liter (provided for in subheading 7323.93.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.98",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire crates of iron or steel, designed for dogs, the foregoing that can be folded down, less than or equal to 0.76 m in length (provided for in subheading 7323.99.90)",
+  "units": [],
+  "general": "1.4%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.99",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire crates of iron or steel, designed for dogs, the foregoing that can be folded down, greater than 0.76 but less than 1.37 m in length (provided for in subheading 7323.99.90)",
+  "units": [],
+  "general": "1.4%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.01",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wire cages of iron or steel, each with attached tray of plastics or of steel, such cages with one or two hinged doors for access to inside of cage, the foregoing designed for small pets other than dogs and for use in the home (provided for in subheading 7323.99.90)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.02",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Fire escape ladders no taller than 4.3 m when fully extended, tested to support 510.3 kg of weight and designed to be hung from a window measuring 15 cm or more but not over 25 cm; such ladders each composed of window brackets and rungs (stairs) of steel and rope of man-made fibers that connects the rungs to each other and to the window bracket; with slip resistant rungs and stabilizers, the foregoing for residential use, valued not over $19 each (provided for in subheading 7326.90.86)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.03",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Fire escape ladders measuring 4.4 m or more but not more than 7.4 m tall when fully extended, tested to support 510.3 kg of weight and designed to be hung from a window measuring 15 cm or more but not over 25 cm; such ladders each composed of window brackets and rungs (stairs) of steel and rope of man-made fibers that connects the rungs to each other and to the window bracket; with slip resistant rungs and stabilizers, the foregoing for residential use, valued not over $34.50 each (provided for in subheading 7326.90.86)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.04",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Belts and bandoliers of iron or steel, not coated or plated with precious metal, the foregoing presented with or without buckle (provided for in subheading 7326.90.86)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.05",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Side press wringer handles of steel (provided for in subheading 7326.90.86)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.06",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Riser joints of iron or steel, designed to connect drilling rigs to subsea riser containment packages, the foregoing certified by the importer as designed for high bending moments and tension at the bottom and top of riser (provided for in subheading 7326.90.86)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.17",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Grass shears, each with steel cutting blades articulated on a swivel head for horizontal trimming and vertical edging (provided for in subheading 8201.90.30)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.20",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Hand tools designed for attaching tags to garments with plastic fasteners, each comprising a steel feed mechanism housed in a plastic body and a replaceable hollow needle through which the fastener is fed, then inserted through the garment material (provided for in subheading 8205.59.55)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.21",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Steel bench vises, each weighing less than 9 kg, bolt mounted with a 180 degree swivel base and with reversible jaw faces having a jaw width (opening) measuring between 11 and 12 cm (provided for in subheading 8205.70.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.22",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Steel bench vises, weighing less than 13.5 kg, bolt mounted with a 180 degree swivel base and reversible jaw faces, having a jaw width (opening) between 13 and 14 cm (provided for in subheading 8205.70.00)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.23",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Steel bench vises, each weighing less than 18.75 kg, bolt mounted with a 180 degree swivel base and with reversible jaw faces, having a jaw width (opening) of between 17 and 18 cm (provided for in subheading 8205.70.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.26",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum insulated coffee servers with liners of steel, each with a capacity over 2 liters, containing a brew-through lid and hole at bottom of server for lever faucet attachment (provided for in subheading 8210.00.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.27",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum insulated coffee servers, each with outer layer and liner of steel, with a capacity over 2 liters, with tightly fitted hinged lid with a center hole designed to allow brewed beverages to pass directly into such server with top lever action for dispensing (provided for in subheading 8210.00.00)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.28",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum insulated coffee servers with liners of steel, each with a capacity over 2 liters, with base but no lid and a hole at bottom of server for lever faucet attachment at time of importation (provided for in subheading 8210.00.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.31",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Scissors, valued over $1.75/dozen, each with stainless steel blades, one small loop handle and one larger loop handle and with an overall length of less than 17 cm, the foregoing other than those scissors designed for use in pet grooming and presented with attached retail labeling or put up for retail sale as goods designed to cut pet hair (provided for in subheading 8213.00.90)",
+  "units": [],
+  "general": "4.2%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.32",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Nail clippers with stainless steel blades,each having one or both blades with rounded edged cut-outs and designed for use in cutting nails of dogs, cats or other small pets (including birds, rabbits, ferrets, hamsters, guinea pigs or gerbils) (provided for in subheading 8214.20.30).",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.37",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Armored safes of welded steel; each weighing 11.8 kg or less, valued $24 or more but not over $36, with digital lock. (provided for in heading 8303.00.00)",
+  "units": [],
+  "general": "1.6%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.47",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Pistons suitable for use solely or principally with marine propulsion engines, such pistons each having a cast steel crown and aluminum body, weighing 12 kg or more (provided for in subheading 8409.99.92)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.53",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum pumps, each having a steel casing and outer shell of plastics to permit cooling; such pumps measuring approximately 22 cm in height and 16 cm in width, having an aperture to connect with a HEPA filter and a power output rating exceeding 850 W but not over 1050 W, valued no more than $24 each (provided for in subheading 8414.10.00)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.58",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Pedestal column assemblies comprising parts for oscillating electric fans, presented in the assembled condition, each consisting of upper and lower tubes of steel, with thermoplastic collet (sleeve) covering the connection point of such tubes together with accompanying collet insert and allowing the two tubes to be locked at adjustable intervals (provided for in subheading 8414.90.10)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.96",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "New crankshafts of forged steel designed for use solely or principally with compression-ignition internal combustion piston engines, other than for vehicles of chapter 87, each measuring more than 1.86 m in length and weighing 453 kg or more (provided for in subheading 8483.10.30)",
+  "units": [],
+  "general": "0.6%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.15.98",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "New crankshafts designed for use solely or principally with compression-ignition internal combustion piston engines of a cylinder capacity exceeding 19,000 cc, such crankshafts measuring 200 cm or more but not over 900 cm in length, 100 cm or more but not over 200 cm in width and 50 cm or more but not over 200 cm in height (provided for in subheading 8483.10.30), the foregoing except such new crankshafts of forged steel, other than for vehicles of chapter 87, each measuring more than 1.86 m in length and weighing 453 kg or more",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.25",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electromechanical cylindrical coffee grinders, each operated by pushing the plastic cover into the base, the foregoing having a removable stainless steel bowl with a capacity of more than 0.1 liter and not exceeding 0.2 liter (provided for in subheading 8509.40.00).",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.33",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stainless steel food beaters, designed for use solely on electromechanical hand-held food mixers suitable for domestic purposes (provided for in subheading 8509.90.55).",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.34",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stainless steel dough hooks designed for use solely on electromechanical food hand mixers suitable for domestic purposes (provided for in subheading 8509.90.55)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.36",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stainless steel bowls designed for use on electromechanical stand food mixers, each having a capacity greater than 4.7 liters but not exceeding 8.6 liters (whether or not having a single stainless steel vertically oriented welded handle), the foregoing each having a rolled top edge and two welded stainless steel side brackets with circular holes (provided for in subheading 8509.90.55)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.37",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Stainless steel bowls designed for use on electromechanical stand food mixers, each having a capacity greater than 3.3 liters but not exceeding 4.8 liters (whether or not having a single stainless steel vertically oriented welded handle), the foregoing each having a rolled top edge and welded stainless steel base with four protrusions designed to interlock with a stand food mixer base (provided for in subheading 8509.90.55)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.55",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic waffle makers, of a kind used for domestic purposes, with dual-sided plates positioned vertically and deep grids divided into equal quarters in a circular shape mold, with funnel on top; such appliances in stainless steel housing, with a spout including fill mark level and a release to open housing for waffle removal (provided for in subheading 8516.60.60)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.61",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic tea kettles, of a kind used for domestic purposes, each with clear glass chamber, having a stainless steel tea steeper and hinged metal limescale filter, the foregoing having a base containing a temperature control lever (provided for in subheading 8516.71.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.62",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic coffee machines of a kind used for domestic purposes, designed to brew using coffee capsules, each having a loading lever containing both stainless steel and plastic (provided for in subheading 8516.71.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.65",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic automatic drip coffee makers of a kind used for domestic purposes, each with electronic clock and self-contained coffee holding chamber, the foregoing designed to be used without separate carafe (provided for in subheading 8516.71.00); the foregoing excluding coffee makers (i) designed for permanent installation in a wall, cabinet or shelf, (ii) with removable tank with a handle or (iii) with loading lever containing both stainless steel and plastics",
+  "units": [],
+  "general": "0.4%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.69",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic stainless steel cylindrical kettles, of a kind used for domestic purposes, each with a liquid crystal display and operational control buttons and display on top of the handle and having a translucent capacity indicator behind the handle (provided for in subheading 8516.79.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.70",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic slow cookers of a kind used for domestic purposes with stainless steel or painted metal exterior, each with a glass lid and removable ceramic cooking pot with a capacity of 5.68 liters, such cooker having five cooking functions (slow cook, brown and saute, steam, bake and roast) controlled by a digital control panel (provided for in subheading 8516.79.00), the foregoing without a thermometer probe or boiling and simmering functions",
+  "units": [],
+  "general": "1.8%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.71",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic slow cookers of a kind used for domestic purposes, with stainless steel or painted metal exterior, each with a glass lid and removable ceramic cooking pot with a capacity of 5.68 liters, such cookers having three cooking functions (bake, saute and slow cooking) operated by a digital control panel (provided for in subheading 8516.79.00), the foregoing without a thermometer probe or boiling and simmering functions",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.72",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Electrothermic slow cookers of a kind used for domestic purposes, with stainless steel or painted metal exterior, each with one primary removable ceramic cooking pot with a capacity of 3.31 liters and with two removable ceramic cooking pots each having a capacity of 1.42 liters located above the primary unit and attached to swing arms that can move to the left and right of such primary unit, with separate knobs to control temperature of each cooking pot (provided for in subheading 8516.79.00), the foregoing without a thermometer probe or boiling and simmering functions ",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.83",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum insulated coffee carafes, with interior and exterior of stainless steel, each with a capacity over 1 liter but not over 2 liters and plastic brew-through lid for direct brewing (provided for in subheading 8516.90.90)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.16.84",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum insulated thermal pitchers, each with stainless steel interior and exterior, with a capacity exceeding 1 liter but not exceeding 2 liters, measuring 27.94 cm or more but not over 30.48 cm in height, with plastic brew-through lid for direct brewing and plastic spout and handle for pouring (provided for in subheading 8516.90.90)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.05",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Suspension system stabilizer bars of alloy steel, weighing not more than 40 kg, designed for use in Class 7 and Class 8 heavy duty trucks only (provided for in subheading 8708.80.65)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.79",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Fitness equipment designed for circuit training, each unit comprising a steel frame and standing platform incorporating six handles attached to cables and pulleys with variable resistance levels, with an electronic control panel capable of the wireless exchange of data and having a multicolored light-emitting diode (LED) grid (provided for in subheading 9506.91.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.84",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Speed bags, free standing heavy bags, heavy bag stands of steel, speed bags with inflatable balls and heavy bag shells (provided for in subheading 9506.91.00)",
+  "units": [],
+  "general": "0.8%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.88",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Fitness equipment, each unit with pivoting handles and foot pedals with steel footbeds to allow the user to perform alternating movements (whether or not also with stationary handles), combining the motions of a stepper and an elliptical machine, and driving simultaneously a radial fan and magnetic brake in the base; with an electronic control console having a backlit liquid crystal display/light-emitting diode (LCD/LED) display and capable of the wireless exchange of data; having an integrated heart rate monitor with optional chest strap (provided for in subheading 9506.91.00) ",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.98",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Insulated coffee servers, each with exterior of stainless steel and vacuum liner of glass and a hinged brew-through lid with push-button dispensing; the foregoing with capacity over 2 liters (provided for in subheading 9617.00.40)\n",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.99",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Coffee servers, each with exterior of stainless steel, vacuum glass liner, a hinged brew-through lid with top lever style pump and swivel base; the foregoing with capacity over 2 liters (provided for in subheading 9617.00.40)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.18.02",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Vacuum coffee servers, each with lining of stainless steel, a plastic exterior, top carrying handle, see-through contents window and a brew-through lid; the foregoing with a capacity over 2 liters (provided for in subheading 9617.00.40)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.01.33",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of iron or steel; derivative articles of iron or steel; articles of aluminum; derivative articles of aluminum; wood products; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans); light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; semiconductor articles; semi-finished copper; and intensive copper derivative products, of any country, as provided in subdivisions (v)(vi) through (v)(xvi) of U.S. note 2 to this subchapter",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.01.83",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of iron or steel; derivative articles of iron or steel; articles of aluminum; derivative articles of aluminum; wood products; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans); light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; semiconductor articles; semi-finished copper; and intensive copper derivative products, of Brazil, as provided in subdivisions (x)(v) through (x)(xv) of U.S. note 2 to this subchapter",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.01.87",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of iron or steel; derivative articles of iron or steel; articles of aluminum; wood products; derivative articles of aluminum; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans); light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; semiconductor articles; semi-finished copper; and intensive copper derivative products, of India, as provided in subdivisions (z)(iii) through (z)(xiii) of U.S. note 2 to this subchapter <b>[Compiler's note: provision terminated as of February 7, 2026.]</b>",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.03.06",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of aluminum, of steel, or of copper or derivative aluminum or steel articles; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans) and light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; wood products; and semiconductor articles, of any country, as provided in subdivision (aa)(v) of U.S. note 2 to this subchapter <b>[Compiler's note: A modification to this heading was proclaimed after its expiration by 91 Fed. Reg. 18183. Consult U.S. Customs and Border Protection with any questions.]</b>",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.03.15",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of aluminum, of steel or of copper or derivative aluminum or steel articles; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; wood products; semiconductor articles; and patented pharmaceutical articles, as provided in subdivision (c) of U.S. note 51 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.05.07",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of aluminum, of steel, or of copper or derivative aluminum or steel articles; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans) and light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans, and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; wood products; patented pharmaceutical articles; and semiconductor articles, of Brazil, as provided in subdivision (a)(vi) of U.S. note 50 to this subchapter",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.05.90",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of aluminum, of steel or of copper or derivative aluminum or steel articles; passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; parts of passenger vehicles (sedans, sport utility vehicles, crossover utility vehicles, minivans and cargo vans) and light trucks; medium- and heavy-duty vehicles; parts of medium- and heavy-duty vehicles; wood products; patented pharmaceutical articles; and semiconductor articles, as provided in subdivision (f) of U.S. note 52 to this subchapter",
+  "general": "The duty provided in the applicable subheading",
+  "special": "The duty provided in the applicable subheading",
+  "other": "The duty provided in the applicable subheading",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.01",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles provided for in subdivision (c) of U.S. note 16 to this subchapter that do not contain any aluminum, steel, or copper",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.02",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.14, 9903.85.67 and 9903.85.68, articles of aluminum, of steel or of copper and derivative aluminum or steel articles, as provided for in subdivisions (c)(i)–(v) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 50%",
+  "special": "The duty provided in the applicable subheading + 50%",
+  "other": "The duty provided in the applicable subheading + 50%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.04",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of aluminum or of steel and derivative aluminum or steel articles the product of the United Kingdom, as provided for in subdivisions (c)(i)–(iv) and (d) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.05",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Derivative aluminum or steel articles the product of the United Kingdom, as provided for in subdivisions (c)(vi)–(vii) and (d) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 15%",
+  "special": "The duty provided in the applicable subheading + 15%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.06",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.15 and 9903.85.68, articles of copper and derivative aluminum and steel articles, as provided for in subdivisions (c)(ii), (iv), (vi)–(viii), (xi) and (e) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 10%",
+  "special": "The duty provided in the applicable subheading + 10%",
+  "other": "The duty provided in the applicable subheading + 10%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.07",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.12, 9903.82.17 and 9903.85.68, derivative aluminum and steel articles with an ad valorem (or ad valorem equivalent) rate of duty under column 1 less than 10 percent, as provided for in subdivisions (c)(ix)–(x) and (e) of U.S. note 16 to this subchapter",
+  "general": "10%",
+  "special": "10%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.08",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.12, 9903.82.17 and 9903.85.68, derivative aluminum and steel articles with an ad valorem (or ad valorem equivalent) rate of duty under column 1 equal to or greater than 10 percent, as provided for in subdivisions (c)(ix)–(x) and (e) of U.S. note 16 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.09",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.16, 9903.82.20–9903.82.26 and 9903.85.68, articles of copper and derivative aluminum and steel articles, as provided for in subdivisions (c)(vi)–(viii) and (xi) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.10",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.12, 9903.82.17 and 9903.85.68, derivative aluminum and steel articles with an ad valorem (or ad valorem equivalent) rate of duty under column 1 less than 15 percent, as provided for in subdivision (f) of U.S. note 16 to this subchapter",
+  "general": "15%",
+  "special": "15%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.11",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.12, 9903.82.17 and 9903.85.68, derivative aluminum and steel articles with an ad valorem (or ad valorem equivalent) rate of duty under column 1 equal to or greater than 15 percent, as provided for in subdivision (f) of U.S. note 16 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.12",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Except as provided for in headings 9903.82.17 and 9903.85.68, derivative aluminum and steel articles the product of any country identified in general note 3(b), as provided for in subdivisions (c)(ix)–(x) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.14",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of steel or of copper and derivative steel the product of the Russian Federation, as provided for in subdivisions (c)(iii)–(v) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 50%",
+  "special": "The duty provided in the applicable subheading + 50%",
+  "other": "The duty provided in the applicable subheading + 50%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.15",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative steel the product of the Russian Federation, as provided for in subdivisions (c)(iv), (vii), (viii), (xi) and (e) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 10%",
+  "special": "The duty provided in the applicable subheading + 10%",
+  "other": "The duty provided in the applicable subheading + 10%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.16",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative steel the product of the Russian Federation, as provided for in subdivisions (c)(vii)–(viii) and (xi) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.17",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Derivative steel articles the product of the Russian Federation, as provided for in subdivision (c)(x) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.18",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Certain articles of steel, as provided for in subdivisions (c)(iii) and (h) of U.S. note 16 to this subchapter",
+  "general": "no change",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "no change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.20",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Derivative steel articles as provided in subdivision (j) of U.S. note 16 to this subchapter",
+  "general": "The duty provided in the applicable subheading + a duty of 25%",
+  "special": "The duty provided in the applicable subheading + a duty of 25%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.21",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Derivative steel articles as provided in subdivision (j) of U.S. note 16 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.22",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Derivative steel articles the product of Argentina, Ecuador, El Salvador, Guatemala, Japan, the Republic of Korea, Liechtenstein, Switzerland, Taiwan, the United Kingdom, or a member nation of the European Union, as provided for in subdivision (c)(xi) of U.S. note 16 to this subchapter",
+  "general": "15%",
+  "special": "15%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.23",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative aluminum and steel articles with an<i> ad valorem</i> (or <i>ad valorem</i> equivalent) rate of duty under column 1 less than 10 percent, as provided for in subdivisions (e) and (k) of U.S. note 16 to this subchapter",
+  "general": "10%",
+  "special": "10%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.24",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative aluminum and steel articles with an<i> ad valorem</i> (or<i> ad valorem</i> equivalent) rate of duty under column 1 equal to or greater than 10 percent, as provided for in subdivisions (e) and (k) of U.S. note 16 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.25",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative aluminum and steel articles with an <i>ad valorem</i> (or <i>ad valorem</i> equivalent) rate of duty under column 1 less than 15 percent, as provided for in subdivisions (f) and (k) of U.S. note 16 to this subchapter",
+  "general": "15%",
+  "special": "15%",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.82.26",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Articles of copper and derivative aluminum and steel articles with an <i>ad valorem</i> (or <i>ad valorem</i> equivalent) rate of duty under column 1 equal to or greater than 15 percent, as provided for in subdivisions (f) and (k) of U.S. note 16 to this subchapter",
+  "general": "No change",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.91.09",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Notwithstanding subheading 9903.92.10, effective with respect to entries, on or after September 27, 2024, of ship-to-shore gantry cranes, configured as a high- or low-profile steel superstructure and designed to unload intermodal containers from vessels with coupling devices for containers, including spreaders or twist-locks, articles the product of China (provided for in subheading 8426.19.00), that are fulfilling in whole or in part an executed contract for sale dated prior to May 14, 2024 for goods that are entered for consumption, or withdrawn from warehouse for consumption, in the United States prior to May 14, 2026",
+  "general": "The duty provided in the applicable subheading",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.91.14",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Effective with respect to entries, on or after November 10, 2026, of ship-to-shore gantry cranes, configured as a high- or low-profile steel superstructure and designed to unload intermodal containers from vessels with coupling devices for containers, including spreaders or twist-locks (provided for in subheading 8426.19.00), as provided for in subdivision (l) of U.S. note 31 to this subchapter, except as provided in headings 9903.91.09, 9903.91.15 or 9903.91.16.",
+  "general": "The duty provided in the applicable subheading + 100%",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.91.15",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Notwithstanding heading 9903.91.14, effective with respect to entries, on or after November 10, 2026, of ship-to-shore gantry cranes, configured as a high- or low-profile steel superstructure and designed to unload intermodal containers from vessels with coupling devices for containers, including spreaders or twist-locks (provided for in subheading 8426.19.00), attested by the importer that the ship-to-shore gantry cranes: (1) are not products of China; (2) are not manufactured, assembled, or made using components, assemblies or subassemblies that are products of China, as specified in subdivision (l)(ii) of note 31 to this subchapter; and (3) are not manufactured by a company or other entity that is owned or controlled by a Chinese person or legal entity, as specified by subdivision (l)(v) of note 31 to this subchapter.",
+  "general": "The duty provided in the applicable subheading",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.91.16",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Notwithstanding heading 9903.91.14, effective with respect to entries, on or after November 10, 2026, of ship-to-shore gantry cranes, configured as a high- or low-profile steel superstructure and designed to unload intermodal containers from vessels with coupling devices for containers, including spreaders or twist-locks (provided for in subheading 8426.19.00), that: (1) are products of China; (2) that are manufactured, assembled or made using components, assemblies or subassemblies that are products of China; or (3) that are manufactured by a company or other entity that is owned or controlled by a Chinese person or legal entity, as specified by subdivision (l) of U.S. note 31 to this subchapter, that are attested by the importer as fulfilling in whole or in part an executed contract for sale dated prior to April 17, 2025 for goods that are entered for consumption, or withdrawn from warehouse for consumption, in the United States prior to April 18, 2027.",
+  "general": "The duty provided in the applicable subheading",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9903.92.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Except as provided in heading 9903.91.09, ship-to-shore gantry cranes, configured as a high- or low-profile steel superstructure and designed to unload intermodal containers from vessels with coupling devices for containers, including spreaders or twist-locks (provided for in subheading 8426.19.00)",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ }
+]

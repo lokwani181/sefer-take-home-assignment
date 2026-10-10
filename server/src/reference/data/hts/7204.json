@@ -1,0 +1,264 @@
+[
+ {
+  "htsno": "7204",
+  "indent": "0",
+  "description": "Ferrous waste and scrap; remelting scrap ingots of iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.10.00.00",
+  "indent": "1",
+  "description": "Waste and scrap of cast iron",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Waste and scrap of alloy steel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7204.21.00.00",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.09. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "7204.29.00.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.09. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "7204.30.00.00",
+  "indent": "1",
+  "description": "Waste and scrap of tinned iron or steel",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other waste and scrap:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7204.41.00",
+  "indent": "2",
+  "description": "Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.41.00.20",
+  "indent": "3",
+  "description": "No. 1 bundles",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.41.00.40",
+  "indent": "3",
+  "description": "No. 2 bundles",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.41.00.60",
+  "indent": "3",
+  "description": "Borings, shovelings and turnings",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.41.00.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.49.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.09. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "7204.49.00.20",
+  "indent": "3",
+  "description": "No. 1 heavy melting",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.49.00.40",
+  "indent": "3",
+  "description": "No. 2 heavy melting",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7204.49.00.60",
+  "indent": "4",
+  "description": "Cut plate and structural",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.49.00.70",
+  "indent": "4",
+  "description": "Shredded",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.49.00.80",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "t"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7204.50.00.00",
+  "indent": "1",
+  "description": "Remelting scrap ingots",
+  "units": [
+   "t"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "74¢/t",
+  "footnotes": []
+ },
+ {
+  "htsno": "7205",
+  "indent": "0",
+  "description": "Granules and powders, of pig iron, spiegeleisen, iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

@@ -1,0 +1,516 @@
+[
+ {
+  "htsno": "3405",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the form of paper, wadding, felt, nonwovens, cellular plastics or cellular rubber, impregnated, coated or covered with such preparations), excluding waxes of heading 3404:",
+  "footnotes": []
+ },
+ {
+  "htsno": "3405.20.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Polishes, creams and similar preparations for the maintenance of wooden furniture, floors or other woodwork",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Curtains and drapes, including panels and valances; napkins, table covers, mats, scarves, runners, doilies, centerpieces, antimacassars and furniture slipcovers; and like furnishings",
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "3926.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Fittings for furniture, coachwork or the like:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4404",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chipwood and the like:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4414",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wooden frames for paintings, photographs, mirrors or similar objects:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4420",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Wood marquetry and inlaid wood; caskets and cases for jewelry or cutlery and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling within chapter 94:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4421.91.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Consisting of wooden frames in the center of which are fixed louver boards or slats, with or without their hardware",
+  "units": [
+   "No."
+  ],
+  "general": "10.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4421.99.30.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Consisting of wooden frames in the center of which are fixed louver boards or slats, with or without their hardware",
+  "units": [
+   "No."
+  ],
+  "general": "10.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.98.85",
+  "statisticalSuffix": "85",
+  "indent": "5",
+  "description": "Furniture movers' pads of cotton",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.98.87",
+  "statisticalSuffix": "87",
+  "indent": "5",
+  "description": "Furniture movers' pads of man-made fibers",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.24.00",
+  "statisticalSuffix": "00",
+  "indent": "6",
+  "description": "Table forks (including table serving forks) and barbecue forks with wooden handles",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.5%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8301.30.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Locks of a kind used for furniture",
+  "general": "5.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Base metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like; base metal hat racks, hat-pegs, brackets and similar fixtures; castors with mountings of base metal; automatic door closers of base metal; and base metal parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.10.60.60",
+  "statisticalSuffix": "60",
+  "indent": "4",
+  "description": "Suitable for furniture and cabinets",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.10.90.60",
+  "statisticalSuffix": "60",
+  "indent": "3",
+  "description": "Suitable for furniture and cabinets",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8302.42",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Other, suitable for furniture:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8304.00.00.00",
+  "statisticalSuffix": "00",
+  "indent": "0",
+  "description": "Desk-top filing or card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment and parts thereof, of base metal, other than office furniture of heading 9403",
+  "units": [
+   "kg"
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8418.50.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other furniture (chests, cabinets, display counters, show-cases and the like) for storage and display, incorporating refrigerating or freezing equipment",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8418.91.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Furniture designed to receive refrigerating or freezing equipment",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8421.91.40.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Furniture designed to receive the clothes-dryers of subheading 8421.12",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8450.90.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Furniture designed to receive the machines of subheadings 8450.11 through 8450.20, inclusive",
+  "units": [
+   "No."
+  ],
+  "general": "2.6%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8451.90.60.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Furniture designed to receive the drying machines of subheading 8451.21 or 8451.29",
+  "units": [
+   "No."
+  ],
+  "general": "3.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Furniture, bases and covers for sewing machines, and parts thereof; other parts of sewing machines:",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Furniture, bases and covers for sewing machines, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "2.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9401.61",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Upholstered:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9402",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists' chairs); barbers' chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other furniture and parts thereof:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Metal furniture of a kind used in offices",
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other metal furniture",
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in offices:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in the kitchen:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in the bedroom:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Other wooden furniture:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Furniture of plastics:",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.82.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of bamboo",
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of furniture of a kind used for motor vehicles",
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "9706.10.00.40",
+  "statisticalSuffix": "40",
+  "indent": "2",
+  "description": "Furniture",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9706.90.00.40",
+  "statisticalSuffix": "40",
+  "indent": "2",
+  "description": "Furniture",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9804.00.05",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Books, libraries, usual and reasonable furniture and similar household effects, if actually used abroad by him or by him and his family not less than one year, and not intended for any other person, or for sale",
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": [
+   {
+    "columns": [
+     "stat"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See chapter 98 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.76.02",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Upholstered wooden furniture products provided for in subdivision (d) of U.S. note 37 of this subchapter",
+  "general": "The duty provided in the applicable subheading + 25%",
+  "special": "The duty provided in the applicable subheading + 25%",
+  "other": "The duty provided in the applicable subheading + 25%",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ }
+]

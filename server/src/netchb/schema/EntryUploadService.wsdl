@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions name="EntryUploadWebService" targetNamespace="http://www.netchb.com/" xmlns="http://schemas.xmlsoap.org/wsdl/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://www.netchb.com/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <types>
+  </types>
+  <message name="EntryUploadService_amendEntry">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="entryXml" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_deleteEntry">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="entryNumber" type="xsd:string"/>
+    <part name="masterBill" type="xsd:string"/>
+    <part name="entryStatusFilter" type="xsd:string"/>
+    <part name="cargoReleaseStatusFilter" type="xsd:string"/>
+    <part name="entrySummaryDelete" type="xsd:string"/>
+    <part name="cargoReleaseDelete" type="xsd:string"/>
+    <part name="releaseReason" type="xsd:string"/>
+    <part name="multipleCargoDisposition" type="xsd:string"/>
+    <part name="disSubmissionMade" type="xsd:string"/>
+    <part name="replacementNo" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_queryType86EntryStatusResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_deleteEntryResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_amendEntryResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_updateBol">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="bolUpdateXml" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_queryEntryStatus">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="entryNumber" type="xsd:string"/>
+    <part name="externalReferenceNumber" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_updateBolResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_queryType86EntryStatus">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="queryTimeRange" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_deleteType86EntryByMawb">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="mawbPrefix" type="xsd:string"/>
+    <part name="mawbNumber" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_deleteType86EntryByMawbResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_uploadEntry">
+    <part name="username" type="xsd:string"/>
+    <part name="password" type="xsd:string"/>
+    <part name="entryXml" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_uploadEntryResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <message name="EntryUploadService_queryEntryStatusResponse">
+    <part name="result" type="xsd:string"/>
+  </message>
+  <portType name="EntryUploadService">
+    <operation name="uploadEntry" parameterOrder="username password entryXml">
+      <input message="tns:EntryUploadService_uploadEntry"/>
+      <output message="tns:EntryUploadService_uploadEntryResponse"/>
+    </operation>
+    <operation name="amendEntry" parameterOrder="username password entryXml">
+      <input message="tns:EntryUploadService_amendEntry"/>
+      <output message="tns:EntryUploadService_amendEntryResponse"/>
+    </operation>
+    <operation name="queryEntryStatus" parameterOrder="username password entryNumber externalReferenceNumber">
+      <input message="tns:EntryUploadService_queryEntryStatus"/>
+      <output message="tns:EntryUploadService_queryEntryStatusResponse"/>
+    </operation>
+    <operation name="queryType86EntryStatus" parameterOrder="username password queryTimeRange">
+      <input message="tns:EntryUploadService_queryType86EntryStatus"/>
+      <output message="tns:EntryUploadService_queryType86EntryStatusResponse"/>
+    </operation>
+    <operation name="updateBol" parameterOrder="username password bolUpdateXml">
+      <input message="tns:EntryUploadService_updateBol"/>
+      <output message="tns:EntryUploadService_updateBolResponse"/>
+    </operation>
+    <operation name="deleteType86EntryByMawb" parameterOrder="username password mawbPrefix mawbNumber">
+      <input message="tns:EntryUploadService_deleteType86EntryByMawb"/>
+      <output message="tns:EntryUploadService_deleteType86EntryByMawbResponse"/>
+    </operation>
+    <operation name="deleteEntry" parameterOrder="username password entryNumber masterBill entryStatusFilter cargoReleaseStatusFilter entrySummaryDelete cargoReleaseDelete releaseReason multipleCargoDisposition disSubmissionMade replacementNo">
+      <input message="tns:EntryUploadService_deleteEntry"/>
+      <output message="tns:EntryUploadService_deleteEntryResponse"/>
+    </operation>
+  </portType>
+  <binding name="EntryUploadServiceBinding" type="tns:EntryUploadService">
+    <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <operation name="uploadEntry">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="amendEntry">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="queryEntryStatus">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="queryType86EntryStatus">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="updateBol">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="deleteType86EntryByMawb">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+    <operation name="deleteEntry">
+      <soap:operation soapAction=""/>
+      <input>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </input>
+      <output>
+        <soap:body namespace="http://www.netchb.com/" use="literal"/>
+      </output>
+    </operation>
+  </binding>
+  <service name="EntryUploadWebService">
+    <port binding="tns:EntryUploadServiceBinding" name="EntryUploadServicePort">
+      <soap:address location="https://www.netchb.com:443/main/services/entry/EntryUploadService"/>
+    </port>
+  </service>
+</definitions>

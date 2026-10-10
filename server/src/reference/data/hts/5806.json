@@ -1,0 +1,482 @@
+[
+ {
+  "htsno": "5806",
+  "indent": "0",
+  "description": "Narrow woven fabrics, other than goods of heading 5807; narrow fabrics consisting of warp without weft assembled by means of an adhesive (bolducs):",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10",
+  "indent": "1",
+  "description": "Woven pile fabrics (including terry toweling and similar terry fabrics) and chenille fabrics:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.10.00",
+  "indent": "2",
+  "description": "Of cotton (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "7.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "62.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Of man-made fibers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "5806.10.24.00",
+  "indent": "3",
+  "description": "Fastener fabric tapes (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "7%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "68.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.28.00",
+  "indent": "3",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "8.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "68.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.30",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "3.8%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "59%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.30.10",
+  "indent": "3",
+  "description": "Containing 85 percent or more by weight of silk or silk waste",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.30.20",
+  "indent": "3",
+  "description": "Of wool or fine animal hair (414)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.30.90",
+  "indent": "3",
+  "description": "Other (899)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.20.00",
+  "indent": "1",
+  "description": "Other woven fabrics, containing by weight 5 percent or more of elastomeric yarn or rubber thread",
+  "units": [],
+  "general": "7%",
+  "special": "Free (AU,BH,CL,CO,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.20.00.10",
+  "indent": "2",
+  "description": "Containing elastomeric yarn (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.20.00.90",
+  "indent": "2",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other woven fabrics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "5806.31.00.00",
+  "indent": "2",
+  "description": "Of cotton (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "8.8%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32",
+  "indent": "2",
+  "description": "Of man-made fibers:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10",
+  "indent": "3",
+  "description": "Ribbons",
+  "units": [],
+  "general": "6%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "76.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.10",
+  "indent": "4",
+  "description": "Suitable for the manufacture of typewriter or similar ribbons of heading 9612 (621)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Of a width not exceeding 12 cm:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Of polyester:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "With woven selvedge:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "5806.32.10.20",
+  "indent": "8",
+  "description": "Containing wire in selvedge (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.30",
+  "indent": "8",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.40",
+  "indent": "7",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Of nylon:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "7",
+  "description": "With woven selvedge:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "5806.32.10.50",
+  "indent": "8",
+  "description": "Containing wire in selvedge (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.60",
+  "indent": "8",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.70",
+  "indent": "7",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.80",
+  "indent": "6",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.10.95",
+  "indent": "5",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.32.20.00",
+  "indent": "3",
+  "description": "Other (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "6.2%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "84%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39",
+  "indent": "2",
+  "description": "Of other textile materials:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.10.00",
+  "indent": "3",
+  "description": "Of wool or fine animal hair (414)",
+  "units": [
+   "kg"
+  ],
+  "general": "6.6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "59%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.20.00",
+  "indent": "3",
+  "description": "Of vegetable fibers, except cotton (899)",
+  "units": [
+   "kg"
+  ],
+  "general": "4.9%",
+  "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.30",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.30.10",
+  "indent": "4",
+  "description": "Containing 85 percent or more by weight of silk or silk waste",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "5806.39.30.20",
+  "indent": "5",
+  "description": "Of metalized yarn (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.30.80",
+  "indent": "5",
+  "description": "Other (899)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.40.00.00",
+  "indent": "1",
+  "description": "Fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)",
+  "units": [
+   "kg"
+  ],
+  "general": "8%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO,KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "83.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807",
+  "indent": "0",
+  "description": "Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

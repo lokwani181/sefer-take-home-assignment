@@ -1,0 +1,480 @@
+[
+ {
+  "htsno": "8211",
+  "indent": "0",
+  "description": "Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208, and blades and other base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.10.00.00",
+  "indent": "1",
+  "description": "Sets of assorted articles",
+  "units": [
+   "pcs"
+  ],
+  "general": "The rate of duty applicable to that article in the set subject to the highest rate of duty",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "The rate of duty appli- cable to that article in the set subject to the high- est rate of duty",
+  "footnotes": [
+   {
+    "columns": [
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8211.91",
+  "indent": "2",
+  "description": "Table knives having fixed blades:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.10.00",
+  "indent": "3",
+  "description": "Knives with silver-plated handles",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Knives with stainless steel handles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "With handles containing nickel or containing over 10 percent by weight of manganese:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8211.91.20.00",
+  "indent": "5",
+  "description": "Valued under 25¢ each, not over 25.9 cm in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.4¢ each + 6.4%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.25.00",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.4¢ each + 6.8%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8211.91.30.00",
+  "indent": "5",
+  "description": "Valued under 25¢ each, not over 25.9 cm in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.9¢ each + 10.6%",
+  "special": "Free (AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.40.00",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.3¢ each + 3.7%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.50",
+  "indent": "3",
+  "description": "Knives with rubber or plastic handles",
+  "units": [],
+  "general": "0.7¢ each + 3.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.50.30",
+  "indent": "4",
+  "description": "Steak knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.50.60",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "0.3¢ each + 4.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.80.30",
+  "indent": "4",
+  "description": "Steak knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.91.80.60",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92",
+  "indent": "2",
+  "description": "Other knives having fixed blades:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "With rubber or plastic handles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8211.92.20.00",
+  "indent": "4",
+  "description": "Kitchen and butcher knives",
+  "units": [
+   "No."
+  ],
+  "general": "0.8¢ each + 4.6%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.40",
+  "indent": "4",
+  "description": "Other",
+  "units": [],
+  "general": "1¢ each + 4.6%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.40.50",
+  "indent": "5",
+  "description": "Sheath-type knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.40.60",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8211.92.60.00",
+  "indent": "4",
+  "description": "Hunting knives with wood handles",
+  "units": [
+   "No."
+  ],
+  "general": "4.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [],
+  "general": "0.4¢ each + 6.1%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90.30",
+  "indent": "5",
+  "description": "Kitchen and butcher knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90.45",
+  "indent": "5",
+  "description": "Sheath-type knives",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.92.90.60",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00",
+  "indent": "2",
+  "description": "Knives having other than fixed blades",
+  "units": [],
+  "general": "3¢ each + 5.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35¢ each + 55%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00.31",
+  "indent": "3",
+  "description": "Folding two-handled multi-use tools in which one or more tools are housed in each handle and one or more of the tools is a folding knife blade",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00.35",
+  "indent": "3",
+  "description": "Pen knives, pocket knives and other knives which have folding blades",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.93.00.60",
+  "indent": "3",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.94",
+  "indent": "2",
+  "description": "Blades:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.94.10.00",
+  "indent": "3",
+  "description": "For knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.16¢ each + 2.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.94.50.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "1¢ each + 5.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "11¢ each + 55%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95",
+  "indent": "2",
+  "description": "Handles of base metal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95.10.00",
+  "indent": "3",
+  "description": "For table knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95.50.00",
+  "indent": "3",
+  "description": "For other knives having fixed blades",
+  "units": [
+   "No."
+  ],
+  "general": "0.4¢ each + 6.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8211.95.90.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3¢ each + 5.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35¢ each + 55%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8212",
+  "indent": "0",
+  "description": "Razors and razor blades (including razor blade blanks in strips), and base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

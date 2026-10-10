@@ -1,0 +1,209 @@
+[
+ {
+  "htsno": "4420",
+  "indent": "0",
+  "description": "Wood marquetry and inlaid wood; caskets and cases for jewelry or cutlery and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling within chapter 94:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Statuettes and other ornaments:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "4420.11.00",
+  "indent": "2",
+  "description": "Of tropical wood",
+  "units": [],
+  "general": "3.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "4420.11.00.10",
+  "indent": "4",
+  "description": "Of mango wood (Mangifera spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4420.11.00.30",
+  "indent": "4",
+  "description": "Of teak (Tectona spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4420.11.00.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4420.19.00.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "4420.90",
+  "indent": "1",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Jewelry boxes, silverware chests, cigar and cigarette boxes, microscope cases, tool or utensil cases and similar boxes, cases and chests, all the foregoing of wood:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "4420.90.20.00",
+  "indent": "3",
+  "description": "Cigar and cigarette boxes",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "4420.90.45.00",
+  "indent": "4",
+  "description": "Not lined with textile fabrics",
+  "units": [
+   "No."
+  ],
+  "general": "4.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "4420.90.65.00",
+  "indent": "4",
+  "description": "Lined with textile fabrics",
+  "units": [
+   "kg",
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "11¢/kg + 20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "4420.90.80.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "33 1/3%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "4421",
+  "indent": "0",
+  "description": "Other articles of wood:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

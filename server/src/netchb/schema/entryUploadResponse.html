@@ -1,0 +1,492 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+		<link href="/static/netchbStyle.css" type="text/css" rel="stylesheet" />
+		<title>Entry Response Explanations</title>
+		<style type="text/css">
+.listItem {font-family: monospace; font-size: 9pt; margin-bottom: 5px;}
+		</style>
+	</head>
+	<body>
+		<div class="body" id="bodyDiv">
+			<div class="sectionTitle"><img src="/static/whiteBullet.gif"/> Entry Response Explanations</div>
+			<div class="formContainerWithLabel">
+				<div class="containerLabel">uploadEntry responses</div>
+				<div class="content" style="width:800px">
+					If everything goes correctly, the system will respond with the following:
+<pre>&lt;accepted&gt;
+	&lt;entry-no&gt;ABC-0000001-1&lt;/entry-no&gt;
+&lt;/accepted&gt;</pre><br/>
+					This, however does not mean the entry was accepted by customs.  It only states that the entry has been
+					successfully uploaded into the system.<p/>
+					If you include the &lt;transmit&gt; tag, the response will also include the following:
+<pre>&lt;accepted&gt;
+	&lt;transmitted /&gt;
+	&lt;entry-no&gt;ABC-0000001-1&lt;/entry-no&gt;
+&lt;/accepted&gt;</pre><br/>
+					or:
+<pre>&lt;accepted&gt;
+	&lt;not-transmitted&gt;entry contains errors&lt;/not-transmitted&gt;
+	&lt;entry-no&gt;ABC-0000001-1&lt;/entry-no&gt;
+&lt;/accepted&gt;</pre><br/>
+					An accepted entry may also include warnings.  They would be returned as follows:
+<pre>&lt;accepted&gt;
+	&lt;warning&gt;Warning message appears here&lt;/warning&gt;
+	&lt;entry-no&gt;ABC-0000001-1&lt;/entry-no&gt;
+&lt;/accepted&gt;</pre><br/>
+
+For Type 86 entries, additional warnings have been added to help assist brokers to be compliant with CBP regulations. The following checks have been put into place:
+<br/>1. If a description is used that matches our internal list of generic descriptions, we will give a warning to update the description to be more specific. (e.g. Items would be a generic description that CBP might flag)
+<br/>2. If a description is used for multiple different HTS codes in the upload, our system will throw a warning to make each tariff have a unique description.
+<br/>3. Each tariff needs a description. If there is not one, the system will throw a warning to inform the user.
+<br/>4. Chapter 98 tariffs are invalid for type 86 entries.
+<br/>5. The consignee name will be checked against a list of invalid consignees provided by CBP. 
+<br/>6. Check if the weight to value ratio (weight per kilogram / value in dollars) is greater than 1.
+<br/>7. Check to see if the preparer port is required or invalid 
+
+<br/><br/>These warnings could be configured to "Informational", "Error", or "None" under Account -> Preferences -> Broker Preferences. 
+<br/> 1. Information - The system will create the entry and provide the warnings as shown in the example below
+<br/> 2. Error - The system will not create the entry and provide the cbp-warnings inside a &lt;rejection&gt; tag
+<br/> 3. None - The system will not check for these warnings at all. 
+
+<br/><br/>The system will report these errors in the &lt;cbp-warning&gt; tag as a direct child of the &lt;accepted&gt; tag. The below is an example with the "Informational CBP Warnings" setting and the Entry Number in the request.
+
+<br/><pre>&lt;accepted&gt;
+  &lt;warning&gt;Existing warning message appears here&lt;/warning&gt;
+  &lt;entry-no&gt;ABC-0000001-1&lt;/entry-no&gt;
+  &lt;cbp-warnings&gt;
+    &lt;entity-warning&gt;
+      &lt;entity-type&gt;ENTRY_NUMBER&lt;/entity-type&gt;
+      &lt;entity-id&gt;ABC-0000001-1&lt;/entity-type&gt;
+      &lt;warning&gt;
+        &lt;type&gt;hts-duplicate-description&lt;/type&gt;
+        &lt;description&gt;Multiple HTS cannot contain same Description&lt;/description&gt;
+        &lt;invalid-item&gt;HATS&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;hts-generic-description&lt;/type&gt;
+        &lt;description&gt;HTS has a generic Description&lt;/description&gt;
+        &lt;invalid-item&gt;ITEMS&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;hts-value-ratio&lt;/type&gt;
+        &lt;description&gt;
+          The Value to Weight ratio must not exceed 1.0 KG per dollar
+        &lt;/description&gt;
+        &lt;invalid-item&gt;220.0&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;invalid-consignee&lt;/type&gt;
+        &lt;description&gt;The consignee is invalid&lt;/description&gt;
+        &lt;invalid-item&gt;CRAZY GRANDMA&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;preparer-port&lt;/type&gt;
+        &lt;description&gt;The Preparer Port is Required&lt;/description&gt;
+        &lt;invalid-item&gt;&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+    &lt;/entity-warning&gt;
+  &lt;/cbp-warnings&gt;
+&lt;/accepted&gt;
+
+An example with the "Error CBP Warnings" setting and with the system genenerated entry number in request
+&lt;rejected&gt;
+  &lt;cbp-warnings&gt;
+    &lt;entity-warning&gt;
+      &lt;entity-type&gt;INVOICE_NUMBER&lt;/entity-type&gt;
+      &lt;entity-id&gt;12345&lt;/entity-type&gt;
+      &lt;warning&gt;
+        &lt;type&gt;hts-duplicate-description&lt;/type&gt;
+        &lt;description&gt;Multiple HTS cannot contain same Description&lt;/description&gt;
+        &lt;invalid-item&gt;HATS&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;hts-generic-description&lt;/type&gt;
+        &lt;description&gt;HTS has a generic Description&lt;/description&gt;
+        &lt;invalid-item&gt;ITEMS&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+    &lt;/entity-warning&gt;
+    &lt;entity-warning&gt;
+      &lt;entity-type&gt;NO_ID&lt;/entity-type&gt;
+      &lt;entity-id&gt;&lt;/entity-type&gt;
+      &lt;warning&gt;
+        &lt;type&gt;invalid-consignee&lt;/type&gt;
+        &lt;description&gt;The consignee is invalid&lt;/description&gt;
+        &lt;invalid-item&gt;CRAZY GRANDMA&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+      &lt;warning&gt;
+        &lt;type&gt;preparer-port&lt;/type&gt;
+        &lt;description&gt;The Preparer Port Should match the Account Processing Port&lt;/description&gt;
+        &lt;invalid-item&gt;3001&lt;/invalid-item&gt;
+      &lt;/warning&gt;
+    &lt;/entity-warning&gt;
+  &lt;/cbp-warnings&gt;
+&lt;/rejected&gt;
+
+</pre>
+<br/>
+The entity-type has the following valid values for the Entry Web Service - 
+<br/>1. ENTRY_NUMBER - This will be used if the xml provides a entry number in the request
+<br/>2. INVOICE_NUMBER - This will be used if there is no entry number in xml and the error is in the invoice 
+<br/>3. HOUSE_BILL - This will be used if there is no entry number in the xml and the issue is outside of the Invoice (i.e. invalid consignee)
+<br/>4. NO_ID - This will be used if there is no entry number in the request, the error is outside of the invoice, and there is no House bill
+<br/>*** If entity-type is ENTRY_NUMBER, the entity-id will be {Filer Code}-{Entry Number}-{Check Digit} (i.e. ST9-1000001-1). *** 
+
+<br>Each Request could have multiple entity-warning tags if the entry number is not specified in request
+
+
+
+
+<br/><br/>If there are problems, they will be in the following forms:
+<pre>&lt;rejected&gt;username/password invalid&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;
+    &lt;validation-error&gt;
+        Line 31: cvc-complex-type.2.4.a: Invalid content was found starting with element
+        'bad-tag'. One of '{"http://www.netchb.com/xml/entry":entry-no,
+        "http://www.netchb.com/xml/entry":precalculated}' is expected.
+    &lt;/validation-error&gt;
+&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;duplicate entry number&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;
+    importer not found - an importer with tax id 11-12345678 must be in the user's importer table
+&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;you do not have sufficient privileges&lt;/rejected&gt;</pre>
+<pre>&lt;error&gt;&lt;!-- A stack trace would be included here --&gt;&lt;/error&gt;</pre>
+				</div>
+			</div>
+			<div class="formContainerWithLabel">
+				<div class="containerLabel">amendEntry responses</div>
+				<div class="content">
+					The responses for the amendEntry operation are the same as the responses for uploadEntry above.
+				</div>
+			</div>
+			<div class="formContainerWithLabel">
+				<div class="containerLabel">queryEntryStatus responses</div>
+				<div class="content">
+					For a successfully submitted request, the response will be returned as shown below.  The structure is very similar to
+					the XML structure for uploading an entry.
+<pre>
+&lt;?xml version="1.0" encoding="ISO-8859-1"?&gt;
+&lt;entry&gt;
+  &lt;entry-no&gt;ST9-0000601-1&lt;/entry-no&gt;
+  &lt;total-value&gt;10,549.00&lt;/total-value&gt;
+  &lt;total-duty&gt;464.15&lt;/total-duty&gt;
+  &lt;total-tax/&gt;
+  &lt;total-anti-dumping/&gt;
+  &lt;total-countervailing/&gt;
+  &lt;total-fees&gt;
+    &lt;fee&gt;
+      &lt;class-code&gt;499&lt;/class-code&gt;
+      &lt;amount&gt;25.00&lt;/amount&gt;
+    &lt;/fee&gt;
+    &lt;fee&gt;
+      &lt;class-code&gt;501&lt;/class-code&gt;
+      &lt;amount&gt;10.00&lt;/amount&gt;
+    &lt;/fee&gt;
+  &lt;/total-fees&gt;
+  &lt;status-7501&gt;Accepted&lt;/status-7501&gt;
+  &lt;status-3461&gt;05&lt;/status-3461&gt;
+  &lt;status-3461-description&gt;Paperless&lt;/status-3461-description&gt;
+  &lt;status-fda/&gt;
+  &lt;status-fda-description/&gt;
+  &lt;fda-proceed-date/&gt;
+  &lt;status-manifest/&gt;
+  &lt;status-manifest-description/&gt;
+  &lt;cargo-release-date&gt;2011-01-31&lt;/cargo-release-date&gt;
+  &lt;header&gt;
+    &lt;importer&gt;
+      &lt;tax-id&gt;354-58-4564&lt;/tax-id&gt;
+      &lt;name&gt;&lt;![CDATA[ABC Importer]]&gt;&lt;/name&gt;
+      &lt;address1&gt;&lt;![CDATA[789 Freeway]]&gt;&lt;/address1&gt;
+      &lt;address2&gt;&lt;![CDATA[Suite 5]]&gt;&lt;/address2&gt;
+      &lt;city&gt;&lt;![CDATA[Los Angeles]]&gt;&lt;/city&gt;
+      &lt;state&gt;CA&lt;/state&gt;
+      &lt;zip&gt;92001&lt;/zip&gt;
+    &lt;/importer&gt;
+    &lt;ultimate-consignee&gt;
+      &lt;tax-id&gt;31-181480700&lt;/tax-id&gt;
+      &lt;name&gt;&lt;![CDATA[Ferrari USA]]&gt;&lt;/name&gt;
+      &lt;address1&gt;&lt;![CDATA[3567 Speedway]]&gt;&lt;/address1&gt;
+      &lt;address2/&gt;
+      &lt;city&gt;&lt;![CDATA[New York]]&gt;&lt;/city&gt;
+      &lt;state&gt;NY&lt;/state&gt;
+      &lt;zip&gt;90001&lt;/zip&gt;
+    &lt;/ultimate-consignee&gt;
+    &lt;processing-port&gt;2605&lt;/processing-port&gt;
+    &lt;entry-port&gt;2609&lt;/entry-port&gt;
+    &lt;entry-date&gt;2011-01-31&lt;/entry-date&gt;
+    &lt;entry-type&gt;01&lt;/entry-type&gt;
+    &lt;bond-type&gt;9&lt;/bond-type&gt;
+    &lt;payment-type&gt;7&lt;/payment-type&gt;
+    &lt;statement-date&gt;2011-02-11&lt;/statement-date&gt;
+    &lt;statement-no&gt;4611103449&lt;/statement-no&gt;
+    &lt;charges&gt;550.00&lt;/charges&gt;
+    &lt;gross-weight&gt;225&lt;/gross-weight&gt;
+    &lt;description&gt;&lt;![CDATA[WINDOW DISPLAY]]&gt;&lt;/description&gt;
+    &lt;cf-4811&gt;12-12345678&lt;/cf-4811&gt;
+    &lt;missing-docs/&gt;
+    &lt;electronic-invoice&gt;E&lt;/electronic-invoice&gt;
+    &lt;surety-code&gt;856&lt;/surety-code&gt;
+    &lt;add-cvd-surety-code/&gt;
+    &lt;state-destination/&gt;
+    &lt;vessel-name/&gt;
+    &lt;mode-transportation&gt;40&lt;/mode-transportation&gt;
+    &lt;unlading-port&gt;8888&lt;/unlading-port&gt;
+    &lt;import-date&gt;2011-01-31&lt;/import-date&gt;
+    &lt;arrival-date&gt;2011-01-31&lt;/arrival-date&gt;
+    &lt;carrier-code&gt;AA&lt;/carrier-code&gt;
+    &lt;broker-reference-no&gt;0000601&lt;/broker-reference-no&gt;
+    &lt;customer-reference-no/&gt;
+    &lt;voyage-no&gt;12345&lt;/voyage-no&gt;
+    &lt;location-of-goods&gt;U200&lt;/location-of-goods&gt;
+    &lt;firms-code-name&gt;DANZAS CORPORATION&lt;/firms-code-name&gt;
+    &lt;nafta-recon/&gt;
+    &lt;other-recon/&gt;
+    &lt;bond-amount&gt;11,100&lt;/bond-amount&gt;
+    &lt;bond-producer-account-no&gt;AB12345678&lt;/bond-producer-account-no&gt;
+    &lt;general-order-no/&gt;
+    &lt;team-no/&gt;
+    &lt;informal-fee/&gt;
+    &lt;mail-fee/&gt;
+    &lt;manual-surcharge/&gt;
+    &lt;consolidated-informal-indicator/&gt;
+  &lt;/header&gt;
+  &lt;manifest&gt;
+    &lt;inbond-date/&gt;
+    &lt;bill-of-lading&gt;
+      &lt;inbond-no/&gt;
+      &lt;master-scac/&gt;
+      &lt;master-bill&gt;93237963763&lt;/master-bill&gt;
+      &lt;house-scac/&gt;
+      &lt;house-bill/&gt;
+      &lt;sub-house-bill/&gt;
+      &lt;quantity&gt;40&lt;/quantity&gt;
+      &lt;unit&gt;PKGS&lt;/unit&gt;
+    &lt;/bill-of-lading&gt;
+  &lt;/manifest&gt;
+  &lt;invoices&gt;
+    &lt;invoice&gt;
+      &lt;invoice-no&gt;12&lt;/invoice-no&gt;
+      &lt;aii-supplier-id&gt;CNSHAAGR356SHA&lt;/aii-supplier-id&gt;
+      &lt;line-items&gt;
+        &lt;line-item&gt;
+          &lt;line-no&gt;1&lt;/line-no&gt;
+          &lt;export-date&gt;2010-11-10&lt;/export-date&gt;
+          &lt;country-origin&gt;GB&lt;/country-origin&gt;
+          &lt;manufacturer-id&gt;GBTEDBAK6LON&lt;/manufacturer-id&gt;
+          &lt;country-export&gt;CN&lt;/country-export&gt;
+          &lt;lading-port/&gt;
+          &lt;related-party&gt;N&lt;/related-party&gt;
+          &lt;irs-tax/&gt;
+          &lt;commercial-description/&gt;
+          &lt;add-case-number/&gt;
+          &lt;add-rate/&gt;
+          &lt;cvd-case-number/&gt;
+          &lt;cvd-rate/&gt;
+          &lt;gross-weight&gt;156&lt;/gross-weight&gt;
+          &lt;invoice-quantity/&gt;
+          &lt;charges&gt;396&lt;/charges&gt;
+          &lt;visa-no/&gt;
+          &lt;tariffs&gt;
+            &lt;tariff&gt;
+              &lt;tariff-no&gt;9618000000&lt;/tariff-no&gt;
+              &lt;tariff-description&gt;&lt;![CDATA[MANNEQUINS AUTOMATONS& DISPLAY]]&gt;&lt;/tariff-description&gt;
+              &lt;value&gt;7,593.00&lt;/value&gt;
+              &lt;duty&gt;334.09&lt;/duty&gt;
+              &lt;quantity1/&gt;
+              &lt;unit-of-measure1&gt;X&lt;/unit-of-measure1&gt;
+              &lt;quantity2/&gt;
+              &lt;unit-of-measure2/&gt;
+              &lt;special-program/&gt;
+              &lt;secondary-special-program/&gt;
+              &lt;specific-rate&gt;0&lt;/specific-rate&gt;
+              &lt;ad-valorem-rate&gt;0.044&lt;/ad-valorem-rate&gt;
+              &lt;other-rate&gt;0&lt;/other-rate&gt;
+              &lt;duty-computation-code&gt;7&lt;/duty-computation-code&gt;
+            &lt;/tariff&gt;
+          &lt;/tariffs&gt;
+          &lt;fees&gt;
+            &lt;fee&gt;
+              &lt;class-code&gt;499&lt;/class-code&gt;
+              &lt;amount&gt;15.95&lt;/amount&gt;
+            &lt;/fee&gt;
+          &lt;/fees&gt;
+        &lt;/line-item&gt;
+        &lt;line-item&gt;
+          &lt;line-no&gt;2&lt;/line-no&gt;
+          &lt;export-date&gt;2010-11-10&lt;/export-date&gt;
+          &lt;country-origin&gt;GB&lt;/country-origin&gt;
+          &lt;manufacturer-id&gt;GBTEDBAK6LON&lt;/manufacturer-id&gt;
+          &lt;country-export&gt;CN&lt;/country-export&gt;
+          &lt;lading-port/&gt;
+          &lt;related-party&gt;N&lt;/related-party&gt;
+          &lt;irs-tax/&gt;
+          &lt;commercial-description/&gt;
+          &lt;add-case-number/&gt;
+          &lt;add-rate/&gt;
+          &lt;cvd-case-number/&gt;
+          &lt;cvd-rate/&gt;
+          &lt;gross-weight&gt;10&lt;/gross-weight&gt;
+          &lt;invoice-quantity/&gt;
+          &lt;charges&gt;25&lt;/charges&gt;
+          &lt;visa-no/&gt;
+          &lt;tariffs&gt;
+            &lt;tariff&gt;
+              &lt;tariff-no&gt;9618000000&lt;/tariff-no&gt;
+              &lt;tariff-description&gt;&lt;![CDATA[MANNEQUINS AUTOMATONS& DISPLAY]]&gt;&lt;/tariff-description&gt;
+              &lt;value&gt;478.00&lt;/value&gt;
+              &lt;duty&gt;21.03&lt;/duty&gt;
+              &lt;quantity1/&gt;
+              &lt;unit-of-measure1&gt;X&lt;/unit-of-measure1&gt;
+              &lt;quantity2/&gt;
+              &lt;unit-of-measure2/&gt;
+              &lt;special-program/&gt;
+              &lt;secondary-special-program/&gt;
+              &lt;specific-rate&gt;0&lt;/specific-rate&gt;
+              &lt;ad-valorem-rate&gt;0.044&lt;/ad-valorem-rate&gt;
+              &lt;other-rate&gt;0&lt;/other-rate&gt;
+              &lt;duty-computation-code&gt;7&lt;/duty-computation-code&gt;
+            &lt;/tariff&gt;
+          &lt;/tariffs&gt;
+          &lt;fees&gt;
+            &lt;fee&gt;
+              &lt;class-code&gt;499&lt;/class-code&gt;
+              &lt;amount&gt;1.00&lt;/amount&gt;
+            &lt;/fee&gt;
+          &lt;/fees&gt;
+        &lt;/line-item&gt;
+        &lt;line-item&gt;
+          &lt;line-no&gt;3&lt;/line-no&gt;
+          &lt;export-date&gt;2010-11-10&lt;/export-date&gt;
+          &lt;country-origin&gt;GB&lt;/country-origin&gt;
+          &lt;manufacturer-id&gt;GBTEDBAK6LON&lt;/manufacturer-id&gt;
+          &lt;country-export&gt;CN&lt;/country-export&gt;
+          &lt;lading-port/&gt;
+          &lt;related-party&gt;N&lt;/related-party&gt;
+          &lt;irs-tax/&gt;
+          &lt;commercial-description/&gt;
+          &lt;add-case-number/&gt;
+          &lt;add-rate/&gt;
+          &lt;cvd-case-number/&gt;
+          &lt;cvd-rate/&gt;
+          &lt;gross-weight&gt;10&lt;/gross-weight&gt;
+          &lt;invoice-quantity/&gt;
+          &lt;charges&gt;25&lt;/charges&gt;
+          &lt;visa-no/&gt;
+          &lt;tariffs&gt;
+            &lt;tariff&gt;
+              &lt;tariff-no&gt;9618000000&lt;/tariff-no&gt;
+              &lt;tariff-description&gt;&lt;![CDATA[MANNEQUINS AUTOMATONS& DISPLAY]]&gt;&lt;/tariff-description&gt;
+              &lt;value&gt;478.00&lt;/value&gt;
+              &lt;duty&gt;21.03&lt;/duty&gt;
+              &lt;quantity1/&gt;
+              &lt;unit-of-measure1&gt;X&lt;/unit-of-measure1&gt;
+              &lt;quantity2/&gt;
+              &lt;unit-of-measure2/&gt;
+              &lt;special-program/&gt;
+              &lt;secondary-special-program/&gt;
+              &lt;specific-rate&gt;0&lt;/specific-rate&gt;
+              &lt;ad-valorem-rate&gt;0.044&lt;/ad-valorem-rate&gt;
+              &lt;other-rate&gt;0&lt;/other-rate&gt;
+              &lt;duty-computation-code&gt;7&lt;/duty-computation-code&gt;
+            &lt;/tariff&gt;
+          &lt;/tariffs&gt;
+          &lt;fees&gt;
+            &lt;fee&gt;
+              &lt;class-code&gt;499&lt;/class-code&gt;
+              &lt;amount&gt;1.00&lt;/amount&gt;
+            &lt;/fee&gt;
+          &lt;/fees&gt;
+        &lt;/line-item&gt;
+      &lt;/line-items&gt;
+    &lt;/invoice&gt;
+    &lt;invoice&gt;
+      &lt;invoice-no&gt;5&lt;/invoice-no&gt;
+      &lt;aii-supplier-id&gt;CNSHAAGR356SHA&lt;/aii-supplier-id&gt;
+      &lt;line-items&gt;
+        &lt;line-item&gt;
+          &lt;line-no&gt;1&lt;/line-no&gt;
+          &lt;export-date&gt;2010-11-10&lt;/export-date&gt;
+          &lt;country-origin&gt;GB&lt;/country-origin&gt;
+          &lt;manufacturer-id&gt;GBTEDBAK6LON&lt;/manufacturer-id&gt;
+          &lt;country-export&gt;CN&lt;/country-export&gt;
+          &lt;lading-port/&gt;
+          &lt;related-party&gt;N&lt;/related-party&gt;
+          &lt;irs-tax/&gt;
+          &lt;commercial-description/&gt;
+          &lt;add-case-number/&gt;
+          &lt;add-rate/&gt;
+          &lt;cvd-case-number/&gt;
+          &lt;cvd-rate/&gt;
+          &lt;gross-weight&gt;21&lt;/gross-weight&gt;
+          &lt;invoice-quantity/&gt;
+          &lt;charges&gt;52&lt;/charges&gt;
+          &lt;visa-no/&gt;
+          &lt;tariffs&gt;
+            &lt;tariff&gt;
+              &lt;tariff-no&gt;9618000000&lt;/tariff-no&gt;
+              &lt;tariff-description&gt;&lt;![CDATA[MANNEQUINS AUTOMATONS& DISPLAY]]&gt;&lt;/tariff-description&gt;
+              &lt;value&gt;1,000.00&lt;/value&gt;
+              &lt;duty&gt;44.00&lt;/duty&gt;
+              &lt;quantity1/&gt;
+              &lt;unit-of-measure1&gt;X&lt;/unit-of-measure1&gt;
+              &lt;quantity2/&gt;
+              &lt;unit-of-measure2/&gt;
+              &lt;special-program/&gt;
+              &lt;secondary-special-program/&gt;
+              &lt;specific-rate&gt;0&lt;/specific-rate&gt;
+              &lt;ad-valorem-rate&gt;0.044&lt;/ad-valorem-rate&gt;
+              &lt;other-rate&gt;0&lt;/other-rate&gt;
+              &lt;duty-computation-code&gt;7&lt;/duty-computation-code&gt;
+            &lt;/tariff&gt;
+          &lt;/tariffs&gt;
+          &lt;fees&gt;
+            &lt;fee&gt;
+              &lt;class-code&gt;499&lt;/class-code&gt;
+              &lt;amount&gt;2.10&lt;/amount&gt;
+            &lt;/fee&gt;
+          &lt;/fees&gt;
+        &lt;/line-item&gt;
+      &lt;/line-items&gt;
+    &lt;/invoice&gt;
+  &lt;/invoices&gt;
+&lt;/entry&gt;
+</pre>
+Entry Status XSD: <a href="entry_query.xsd">entry_query.xsd</a>
+				</div>
+			</div>
+			<div class="formContainerWithLabel">
+				<div class="containerLabel">updateBol responses</div>
+				<div class="content">
+					If everything goes correctly, the system will respond with the following:
+<pre>&lt;updated&gt;&lt;/updated&gt;</pre><br/>
+If you include the &lt;transmit-bol-update&gt; tag, the response will also include the following:
+<pre>&lt;updated&gt;&lt;transmitted/&gt;&lt;/updated&gt;</pre><br/>
+					If there are problems, they will be in the following forms:
+<pre>&lt;rejected&gt;username/password invalid&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;
+    &lt;validation-error&gt;
+        Line 31: cvc-complex-type.2.4.a: Invalid content was found starting with element
+        'bad-tag'. One of '{"http://www.netchb.com/xml/bolUpdate":entry,
+        "http://www.netchb.com/xml/bolUpdate":manifest}' is expected.
+    &lt;/validation-error&gt;
+&lt;/rejected&gt;</pre>
+<pre>&lt;rejected&gt;entry not found&lt;/rejected&gt;</pre>
+<pre>&lt;error&gt;&lt;!-- A stack trace would be included here --&gt;&lt;/error&gt;</pre>
+				</div>
+			</div>
+		</div>
+		<div class="sideBar" id="sideBarDiv"></div>
+		<div class="logo">
+		</div>
+		<div class="menu">
+			<table style="margin-left: 50px; height: 100%;">
+				<tbody>
+					<tr>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</body>
+</html>

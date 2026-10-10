@@ -1,0 +1,748 @@
+[
+ {
+  "htsno": "8516",
+  "indent": "0",
+  "description": "Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electrothermic hairdressing apparatus (for example, hair dryers, hair curlers, curling tong heaters) and hand dryers; electric flatirons; other electrothermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 8545; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.10.00",
+  "indent": "1",
+  "description": "Electric instantaneous or storage water heaters and immersion heaters",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.10.00.40",
+  "indent": "2",
+  "description": "Storage water heaters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.10.00.80",
+  "indent": "2",
+  "description": "Other water heaters and immersion heaters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Electric space heating apparatus and electric soil heating apparatus:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.21.00.00",
+  "indent": "2",
+  "description": "Storage heating radiators",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.29.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "3.7%",
+  "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Portable space heaters:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.29.00.30",
+  "indent": "4",
+  "description": "Fan-forced",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.29.00.60",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.29.00.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Electrothermic hairdressing or hand-drying apparatus:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.31.00.00",
+  "indent": "2",
+  "description": "Hair dryers",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.32.00",
+  "indent": "2",
+  "description": "Other hairdressing apparatus",
+  "units": [],
+  "general": "3.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.32.00.20",
+  "indent": "3",
+  "description": "Curlers",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.32.00.40",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.33.00.00",
+  "indent": "2",
+  "description": "Hand-drying apparatus",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.40",
+  "indent": "1",
+  "description": "Electric flatirons:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.40.20.00",
+  "indent": "2",
+  "description": "Travel type",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.40.40.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.50.00",
+  "indent": "1",
+  "description": "Microwave ovens",
+  "units": [],
+  "general": "2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.50.00.30",
+  "indent": "2",
+  "description": "Having a capacity not exceeding 22.5 liters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.50.00.60",
+  "indent": "2",
+  "description": "Having a capacity exceeding 22.5 liters but not exceeding 31.0 liters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.50.00.90",
+  "indent": "2",
+  "description": "Having a capacity exceeding 31.0 liters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60",
+  "indent": "1",
+  "description": "Other ovens; cooking stoves, ranges, cooking plates, boiling rings, grillers and roasters:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60.40",
+  "indent": "2",
+  "description": "Cooking stoves, ranges and ovens",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60.40.60",
+  "indent": "3",
+  "description": "Microwave oven combinations",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.60.40.70",
+  "indent": "4",
+  "description": "Portable",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.60.40.74",
+  "indent": "5",
+  "description": "Of a maximum width not exceeding 70 centimeters",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Of a maximum width exceeding 70 centimeters:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.60.40.78",
+  "indent": "6",
+  "description": "Containing a gas fueled cooktop",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60.40.82",
+  "indent": "6",
+  "description": "Containing a radiant heated cooktop",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60.40.86",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.60.60.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "2.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other electrothermic appliances:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.71.00",
+  "indent": "2",
+  "description": "Coffee or tea makers",
+  "units": [],
+  "general": "3.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Coffee makers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.71.00.20",
+  "indent": "4",
+  "description": "Automatic drip and pump type",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.71.00.40",
+  "indent": "4",
+  "description": "Percolator",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.71.00.60",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.71.00.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.72.00.00",
+  "indent": "2",
+  "description": "Toasters",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.79.00.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "2.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.80",
+  "indent": "1",
+  "description": "Electric heating resistors:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.80.40.00",
+  "indent": "2",
+  "description": "Assembled only with simple insulated former and electrical connections, used for anti-icing or deicing",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.80.80.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90",
+  "indent": "1",
+  "description": "Parts:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.05.00",
+  "indent": "2",
+  "description": "Of heaters or heating apparatus of subheading 8516.10, 8516.21 or 8516.29",
+  "units": [
+   "No."
+  ],
+  "general": "3.7%",
+  "special": "Free (A*,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.15.00",
+  "indent": "2",
+  "description": "Housings for the hand-drying apparatus of subheading 8516.33",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.25.00",
+  "indent": "2",
+  "description": "Housings and steel bases for the electric flatirons of subheading 8516.40",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Parts for the microwave ovens of subheading 8516.50:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.90.35.00",
+  "indent": "3",
+  "description": "Assemblies, incorporating more than one of the following: cooking chamber; structural supporting chassis; door; outer case",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.45.00",
+  "indent": "3",
+  "description": "Printed circuit assemblies",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.50.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Parts for the cooking stoves, ranges and ovens of subheading 8516.60.40:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8516.90.55.00",
+  "indent": "3",
+  "description": "Cooking chambers, whether or not assembled",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.65.00",
+  "indent": "3",
+  "description": "Top surface panels with or without heating elements or controls",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.75.00",
+  "indent": "3",
+  "description": "Door assemblies, incorporating more than one of the following: inner panel; outer panel; window; insulation",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.80.10",
+  "indent": "4",
+  "description": "Shelving and racks for cooking stoves and ranges",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.80.50",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.85.00",
+  "indent": "2",
+  "description": "Housings for toasters",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8516.90.90.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3.9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8517",
+  "indent": "0",
+  "description": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 8443, 8525, 8527 or 8528; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

@@ -1,0 +1,291 @@
+{
+  "_comment": "Golden expectations for the sample shipment (PLAN.md §1). Used by T3/T5/T8/T9 tests. HTS stat suffixes are NOT pinned — only the 8-digit prefix. Values are whole USD.",
+  "invoiceNoNormalized": "KBAS-NB-26-0912",
+  "header": {
+    "entryType": "01",
+    "entryPort": "3002",
+    "processingPort": "3002",
+    "unladingPort": "3002",
+    "modeTransportation": "11",
+    "carrierCode": "OPLU",
+    "vesselName": "PACIFIC ARGOS",
+    "voyageNo": "041E",
+    "arrivalDate": "2026-10-14",
+    "grossWeight": 1930,
+    "charges": 4035,
+    "totalEntryValue": 27439,
+    "stateDestination": "WA",
+    "importerName": "NORTHBOUND OUTFITTERS, INC."
+  },
+  "exportDate": "2026-09-24",
+  "countryExport": "VN",
+  "billsOfLading": [
+    {
+      "masterScac": "OPLU",
+      "masterBill": "SGN260917735",
+      "houseScac": "BMLV",
+      "houseBill": "HCM26090418",
+      "quantity": 138,
+      "unit": "CTN"
+    }
+  ],
+  "containers": [
+    {
+      "containerNumber": "OPLU3041722",
+      "sealNumbers": "OPL7731482"
+    }
+  ],
+  "lines": [
+    {
+      "lineId": "inv0-line1",
+      "styleNo": "NB-T101",
+      "tariffPrefix": "61091000",
+      "countryOrigin": "VN",
+      "value": 6840,
+      "quantity1": 200,
+      "unitOfMeasure1": "DOZ",
+      "quantity2": 432,
+      "unitOfMeasure2": "KG",
+      "midCountry": "VN"
+    },
+    {
+      "lineId": "inv0-line2",
+      "styleNo": "NB-H205",
+      "tariffPrefix": "61102020",
+      "altTariffPrefix": "611030",
+      "countryOrigin": "VN",
+      "value": 8880,
+      "quantity1": 100,
+      "unitOfMeasure1": "DOZ",
+      "quantity2": 715.4,
+      "unitOfMeasure2": "KG",
+      "midCountry": "VN"
+    },
+    {
+      "lineId": "inv0-line3",
+      "styleNo": "NB-C330",
+      "tariffPrefix": "62034245",
+      "countryOrigin": "VN",
+      "value": 6255,
+      "quantity1": 75,
+      "unitOfMeasure1": "DOZ",
+      "quantity2": 486,
+      "unitOfMeasure2": "KG",
+      "midCountry": "VN"
+    },
+    {
+      "lineId": "inv0-line4",
+      "styleNo": "W-B220",
+      "tariffPrefix": "62064030",
+      "countryOrigin": "VN",
+      "value": 5440,
+      "quantity1": 50,
+      "unitOfMeasure1": "DOZ",
+      "quantity2": 96,
+      "unitOfMeasure2": "KG",
+      "midCountry": "VN"
+    },
+    {
+      "lineId": "inv0-line5",
+      "styleNo": "NB-P118S",
+      "tariffPrefix": "61061000",
+      "countryOrigin": "BD",
+      "value": 24,
+      "quantity1": 2,
+      "unitOfMeasure1": "DOZ",
+      "quantity2": 5.1,
+      "unitOfMeasure2": "KG",
+      "midCountry": "BD"
+    }
+  ],
+  "decisionFlips": [
+    {
+      "decisions": {
+        "quantity:inv0-line2": "packed"
+      },
+      "expect": {
+        "lineId": "inv0-line2",
+        "value": 8702,
+        "quantity1": 98
+      },
+      "issueAfter": {
+        "id": "QTY_MISMATCH:inv0-line2",
+        "severity": "warning"
+      }
+    },
+    {
+      "decisions": {
+        "composition:inv0-line2": "other_doc"
+      },
+      "expect": {
+        "lineId": "inv0-line2",
+        "tariffPrefix": "611030"
+      },
+      "issueAfter": {
+        "id": "COMPOSITION_CONFLICT:inv0-line2",
+        "severity": "warning"
+      }
+    },
+    {
+      "decisions": {
+        "amount:inv0-line1": "printed"
+      },
+      "expect": {
+        "lineId": "inv0-line1",
+        "value": 6480
+      },
+      "issueAfter": {
+        "id": "LINE_AMOUNT_MISMATCH:inv0-line1",
+        "severity": "warning"
+      }
+    }
+  ],
+  "expectedIssues": [
+    {
+      "id": "LINE_AMOUNT_MISMATCH:inv0-line1",
+      "severity": "warning",
+      "decisionKey": "amount:inv0-line1",
+      "defaultChoice": "computed"
+    },
+    {
+      "id": "QTY_MISMATCH:inv0-line2",
+      "severity": "blocker",
+      "decisionKey": "quantity:inv0-line2",
+      "defaultChoice": "invoice"
+    },
+    {
+      "id": "COMPOSITION_CONFLICT:inv0-line2",
+      "severity": "blocker",
+      "decisionKey": "composition:inv0-line2",
+      "defaultChoice": "invoice"
+    },
+    {
+      "id": "ASSIST:inv0-line4",
+      "severity": "warning"
+    },
+    {
+      "id": "NCV_VALUE:inv0-line5",
+      "severity": "warning"
+    },
+    {
+      "id": "ORIGIN_DIFFERS:inv0-line5",
+      "severity": "warning"
+    },
+    {
+      "id": "DECLARATION_CONFLICT",
+      "severity": "warning"
+    },
+    {
+      "id": "NON_DUTIABLE_CHARGES",
+      "severity": "info"
+    },
+    {
+      "id": "SELLER_NOT_MANUFACTURER",
+      "severity": "info"
+    },
+    {
+      "id": "FIRST_SALE_OPPORTUNITY",
+      "severity": "info"
+    },
+    {
+      "id": "CONTAINER_NUMBER_CORRECTED",
+      "severity": "warning"
+    },
+    {
+      "id": "GROSS_WEIGHT_MISMATCH",
+      "severity": "warning",
+      "decisionKey": "grossWeight",
+      "defaultChoice": "transport_doc"
+    },
+    {
+      "id": "DATE_AMBIGUOUS",
+      "severity": "info"
+    },
+    {
+      "id": "ULTIMATE_CONSIGNEE_ASSUMED",
+      "severity": "info"
+    },
+    {
+      "id": "HOUSE_MASTER_BILL",
+      "severity": "info"
+    },
+    {
+      "id": "ARRIVAL_ESTIMATED",
+      "severity": "warning"
+    },
+    {
+      "id": "RELATED_PARTY_ASSUMED",
+      "severity": "info"
+    },
+    {
+      "id": "UFLPA",
+      "severity": "warning"
+    },
+    {
+      "id": "ISF",
+      "severity": "info"
+    },
+    {
+      "id": "TELEX_RELEASE",
+      "severity": "info"
+    },
+    {
+      "id": "COLLECT_CHARGES",
+      "severity": "info"
+    },
+    {
+      "id": "INVOICE_NO_NORMALIZED",
+      "severity": "info"
+    },
+    {
+      "id": "MISSING_IMPORTER_ID",
+      "severity": "blocker"
+    },
+    {
+      "id": "MISSING_BOND",
+      "severity": "blocker"
+    },
+    {
+      "id": "MISSING_SURETY",
+      "severity": "blocker"
+    },
+    {
+      "id": "MISSING_LOCATION_OF_GOODS",
+      "severity": "warning"
+    },
+    {
+      "id": "CHAPTER_99_NOT_COMPUTED",
+      "severity": "warning"
+    }
+  ],
+  "mustNotHaveIssues": [
+    "PACKAGE_COUNT_MISMATCH",
+    "TOTALS_MISMATCH",
+    "QTY_MISMATCH:inv0-line1",
+    "QTY_MISMATCH:inv0-line3",
+    "QTY_MISMATCH:inv0-line4",
+    "QTY_MISMATCH:inv0-line5",
+    "COMPOSITION_CONFLICT:inv0-line1",
+    "COMPOSITION_CONFLICT:inv0-line3",
+    "COMPOSITION_CONFLICT:inv0-line4",
+    "COMPOSITION_CONFLICT:inv0-line5",
+    "LINE_AMOUNT_MISMATCH:inv0-line2",
+    "LINE_AMOUNT_MISMATCH:inv0-line3",
+    "LINE_AMOUNT_MISMATCH:inv0-line4",
+    "CONTAINER_NUMBER_INVALID"
+  ],
+  "brokerInputsClearBlockers": {
+    "inputs": {
+      "importerTaxId": "93-1234567",
+      "bondType": "08",
+      "suretyCode": "036",
+      "locationOfGoods": "W123"
+    },
+    "clears": [
+      "MISSING_IMPORTER_ID",
+      "MISSING_BOND",
+      "MISSING_SURETY",
+      "MISSING_LOCATION_OF_GOODS"
+    ]
+  }
+}

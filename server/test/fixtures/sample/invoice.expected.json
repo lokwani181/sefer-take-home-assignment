@@ -1,0 +1,205 @@
+{
+  "docId": "sample-ci",
+  "fileName": "KBAS-NB-26-0912_Commercial_Invoice.pdf",
+  "docType": "commercial_invoice",
+  "classificationScore": 1,
+  "source": "text",
+  "pageCount": 2,
+  "data": {
+    "kind": "commercial_invoice",
+    "invoiceNumber": "KBAS/NB/26-0912",
+    "invoiceDateRaw": "12/09/2026",
+    "invoiceDate": "2026-09-12",
+    "invoiceDateAmbiguous": true,
+    "invoiceDateAlternatives": ["2026-12-09"],
+    "seller": {
+      "name": "KOWLOON BAY APPAREL SOURCING LIMITED",
+      "lines": ["Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street"],
+      "city": "Kwun Tong",
+      "stateProvince": "Kowloon",
+      "country": "HK",
+      "phone": "+852 2797 4410",
+      "raw": "KOWLOON BAY APPAREL SOURCING LIMITED\nUnit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410 Fax: +852 2797 4411 Email: docs@kbapparel.com.hk BR No. 61847203"
+    },
+    "buyer": {
+      "name": "NORTHBOUND OUTFITTERS, INC.",
+      "lines": ["2150 NW Raleigh Street, Suite 300"],
+      "city": "Portland",
+      "stateProvince": "OR",
+      "postalCode": "97210",
+      "country": "US",
+      "contact": "Megan Holt, Sourcing Dept.",
+      "phone": "+1 503 555 0148",
+      "raw": "NORTHBOUND OUTFITTERS, INC.\n2150 NW Raleigh Street, Suite 300\nPortland, OR 97210, U.S.A.\nAttn: Megan Holt, Sourcing Dept.\nTel: +1 503 555 0148"
+    },
+    "shipTo": {
+      "name": "CASCADE FULFILLMENT PARTNERS LLC",
+      "lines": ["21820 76th Avenue South, Dock 4"],
+      "city": "Kent",
+      "stateProvince": "WA",
+      "postalCode": "98032",
+      "country": "US",
+      "phone": "+1 253 555 0193",
+      "raw": "CASCADE FULFILLMENT PARTNERS LLC\n21820 76th Avenue South, Dock 4\nKent, WA 98032, U.S.A.\nFor account of: Northbound Outfitters, Inc.\nReceiving: +1 253 555 0193"
+    },
+    "poNumbers": ["NB-26-0918"],
+    "currency": "USD",
+    "incoterm": { "code": "CIF", "place": "TACOMA, WA", "version": "2020" },
+    "paymentTerms": "T/T 30 DAYS AFTER B/L DATE",
+    "countryOfOrigin": "VN",
+    "portOfLoading": "CAT LAI, HO CHI MINH CITY, VN",
+    "portOfDischarge": "TACOMA, WA, U.S.A.",
+    "vessel": "PACIFIC ARGOS",
+    "voyage": "041E",
+    "transportRef": "BMLVHCM26090418",
+    "etd": "2026-09-24",
+    "eta": "2026-10-14",
+    "lines": [
+      {
+        "lineNo": 1,
+        "styleNo": "NB-T101",
+        "description": "MEN'S CREW NECK SHORT SLEEVE T-SHIRT",
+        "details": [
+          "100% Cotton single jersey, 160 GSM, knitted",
+          "Colours: Black / White / Heather Navy",
+          "Size ratio S-M-L-XL-XXL : 1-3-3-2-1"
+        ],
+        "hsCode": "6109.10",
+        "quantity": 2400,
+        "unit": "PCS",
+        "unitPrice": 2.85,
+        "amount": 6480,
+        "composition": [{ "fiber": "cotton", "pct": 100 }],
+        "compositionRaw": "100% Cotton",
+        "construction": "knit",
+        "gender": "men",
+        "garmentType": "t-shirt"
+      },
+      {
+        "lineNo": 2,
+        "styleNo": "NB-H205",
+        "description": "WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET",
+        "details": [
+          "60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted",
+          "Colours: Oatmeal / Sage",
+          "Size ratio XS-S-M-L-XL : 1-2-3-3-3"
+        ],
+        "hsCode": "6110.20",
+        "quantity": 1200,
+        "unit": "PCS",
+        "unitPrice": 7.4,
+        "amount": 8880,
+        "composition": [
+          { "fiber": "cotton", "pct": 60 },
+          { "fiber": "polyester", "pct": 40 }
+        ],
+        "compositionRaw": "60% Cotton 40% Polyester",
+        "construction": "knit",
+        "gender": "women",
+        "garmentType": "hoodie"
+      },
+      {
+        "lineNo": 3,
+        "styleNo": "NB-C330",
+        "description": "MEN'S SLIM FIT CHINO TROUSERS",
+        "details": [
+          "98% Cotton 2% Elastane stretch twill, 245 GSM, woven",
+          "Colours: Khaki / Olive / Navy",
+          "Waist 30-32-34-36-38 : 1-2-3-3-1"
+        ],
+        "hsCode": "6203.42",
+        "quantity": 900,
+        "unit": "PCS",
+        "unitPrice": 6.95,
+        "amount": 6255,
+        "composition": [
+          { "fiber": "cotton", "pct": 98 },
+          { "fiber": "elastane", "pct": 2 }
+        ],
+        "compositionRaw": "98% Cotton 2% Elastane",
+        "construction": "woven",
+        "gender": "men",
+        "garmentType": "trousers"
+      },
+      {
+        "lineNo": 4,
+        "styleNo": "W-B220",
+        "description": "WOMEN'S LONG SLEEVE BLOUSE, V-NECK",
+        "details": [
+          "100% Polyester crepe de chine, woven",
+          "Colours: Ivory / Black",
+          "Size ratio XS-S-M-L-XL : 1-2-3-3-1",
+          "CMT price, see note (*)"
+        ],
+        "hsCode": "6206.40",
+        "quantity": 600,
+        "unit": "PCS",
+        "unitPrice": 2.1,
+        "amount": 1260,
+        "footnoteRefs": ["*"],
+        "composition": [{ "fiber": "polyester", "pct": 100 }],
+        "compositionRaw": "100% Polyester",
+        "construction": "woven",
+        "gender": "women",
+        "garmentType": "blouse"
+      },
+      {
+        "lineNo": 5,
+        "styleNo": "NB-P118S",
+        "description": "WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES",
+        "details": [
+          "100% Cotton pique, knitted",
+          "FOC SAMPLES - NO COMMERCIAL VALUE",
+          "Value for customs purpose only USD 1.00/pc",
+          "(Origin: Bangladesh)"
+        ],
+        "hsCode": "6106.10",
+        "quantity": 24,
+        "unit": "PCS",
+        "unitPrice": 1,
+        "amount": 24,
+        "countryOfOrigin": "BD",
+        "noCommercialValue": true,
+        "customsValue": 24,
+        "composition": [{ "fiber": "cotton", "pct": 100 }],
+        "compositionRaw": "100% Cotton",
+        "construction": "knit",
+        "gender": "women",
+        "garmentType": "polo"
+      }
+    ],
+    "charges": [
+      { "type": "freight", "amount": 3850, "description": "Ocean Freight (Cat Lai - Tacoma)" },
+      { "type": "insurance", "amount": 185, "description": "Marine Insurance Premium" }
+    ],
+    "totals": [
+      { "label": "SUB-TOTAL CARRIED FORWARD (USD)", "amount": 21975 },
+      { "label": "BROUGHT FORWARD", "amount": 21975 },
+      { "label": "TOTAL FOB VALUE (Items 1 - 4)", "amount": 23235 },
+      { "label": "TOTAL CIF TACOMA, WA (USD)", "amount": 27270 }
+    ],
+    "totalPackages": { "count": 138, "unit": "CARTONS" },
+    "assists": [
+      {
+        "description": "Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer",
+        "value": 4180,
+        "currency": "USD",
+        "styleRefs": ["W-B220"],
+        "reference": "NB-26-0918F"
+      }
+    ],
+    "notes": [
+      "(*) Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric P.O. NB-26-0918F, value USD 4,180.00, not included in this invoice.",
+      "(1) Goods manufactured and shipped by our contracted factory in Binh Duong, Vietnam. Factory packing list attached.",
+      "(2) Item 5 samples are free of charge, not for resale, value stated for customs purpose only and not included in invoice total.",
+      "(3) Insurance covered under open policy No. VHI/MC/2026/0331, Institute Cargo Clauses (A).",
+      "DECLARATION: We hereby certify that this invoice shows the actual price of the goods described, that all particulars are true and correct, and that the goods are of Vietnam origin."
+    ]
+  },
+  "fieldMeta": {},
+  "observations": [
+    { "kind": "footnote", "text": "(*) Style W-B220: CMT price only; buyer-supplied fabric value USD 4,180.00 not included in this invoice.", "field": "lines[3]", "page": 2 },
+    { "kind": "note", "text": "Item 5 amounts printed in parentheses: (1.00) (24.00) — value for customs purposes only, excluded from invoice total.", "field": "lines[4]", "page": 2 }
+  ],
+  "warnings": []
+}

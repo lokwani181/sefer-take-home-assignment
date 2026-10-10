@@ -1,0 +1,928 @@
+[
+ {
+  "htsno": "3926",
+  "indent": "0",
+  "description": "Other articles of plastics and articles of other materials of headings 3901 to 3914:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.10.00.00",
+  "indent": "1",
+  "description": "Office or school supplies",
+  "units": [
+   "kg"
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20",
+  "indent": "1",
+  "description": "Articles of apparel and clothing accessories (including gloves, mittens and mitts):",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Gloves, mittens and mitts:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.20.10",
+  "indent": "3",
+  "description": "Seamless",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.10.10",
+  "indent": "4",
+  "description": "Surgical and medical",
+  "units": [
+   "doz. prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.20.10.20",
+  "indent": "5",
+  "description": "Disposable",
+  "units": [
+   "doz. prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.10.50",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "doz. prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Specially designed for use in sports:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.20.20.00",
+  "indent": "5",
+  "description": "Baseball and softball gloves and mitts",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.30.00",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.40",
+  "indent": "4",
+  "description": "Other",
+  "units": [],
+  "general": "6.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.40.10",
+  "indent": "5",
+  "description": "Disposable",
+  "units": [
+   "doz. prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.40.50",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "doz. prs."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.20.60.00",
+  "indent": "3",
+  "description": "Plastic rainwear, including jackets, coats, ponchos, parkas and slickers, featuring an outer shell of polyvinyl chloride plastic with or without attached hoods, valued not over $10 per unit",
+  "units": [
+   "doz."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3926.20.90.10",
+  "indent": "4",
+  "description": "Aprons",
+  "units": [
+   "doz."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.20.90.50",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "doz."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.30",
+  "indent": "1",
+  "description": "Fittings for furniture, coachwork or the like:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.30.10.00",
+  "indent": "2",
+  "description": "Handles and knobs",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 3.25% (JP)",
+  "other": "57.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.30.50.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "5.3%",
+  "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG) 2.65% (JP)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.40.00",
+  "indent": "1",
+  "description": "Statuettes and other ornamental articles",
+  "units": [],
+  "general": "5.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.40.00.10",
+  "indent": "2",
+  "description": "Bows and similar products for decorative purposes including gift-packaging and the like",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.40.00.90",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90",
+  "indent": "1",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.10.00",
+  "indent": "2",
+  "description": "Buckets and pails",
+  "units": [
+   "No."
+  ],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.16.00",
+  "indent": "2",
+  "description": "Pacifiers",
+  "units": [
+   "gross"
+  ],
+  "general": "3.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.21.00",
+  "indent": "2",
+  "description": "Ice bags; douche bags, enema bags, hot water bottles, and fittings therefor; invalid and similar nursing cushions; dress shields; pessaries; prophylactics; bulbs for syringes; syringes (other than hypodermic syringes) and fittings therefor, not in part of glass or metal",
+  "units": [
+   "No."
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.25.00",
+  "indent": "2",
+  "description": "Handles and knobs, not elsewhere specified or included, of plastics",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "57.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.30.00",
+  "indent": "2",
+  "description": "Parts for yachts or pleasure boats of heading 8903; parts of canoes, racing shells, pneumatic craft and pleasure boats which are not of a type designed to be principally used with motors or sails",
+  "units": [
+   "kg"
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Beads, bugles and spangles, not strung (except temporarily) and not set; articles thereof, not elsewhere specified or included:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.90.33.00",
+  "indent": "3",
+  "description": "Handbags",
+  "units": [
+   "No."
+  ],
+  "general": "6.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.35.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.40.00",
+  "indent": "2",
+  "description": "Imitation gemstones",
+  "units": [
+   "kg"
+  ],
+  "general": "2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3926.90.45",
+  "indent": "2",
+  "description": "Gaskets, washers and other seals",
+  "units": [],
+  "general": "3.5%",
+  "special": "Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3926.90.45.10",
+  "indent": "3",
+  "description": "O-Rings",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.45.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.48.00",
+  "indent": "2",
+  "description": "Photo albums",
+  "units": [
+   "No."
+  ],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.50.00",
+  "indent": "2",
+  "description": "Frames or mounts for photographic slides",
+  "units": [
+   "kg"
+  ],
+  "general": "3.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Belting and belts, for machinery:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Containing textile fibers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.90.55.00",
+  "indent": "4",
+  "description": "V-belts",
+  "units": [
+   "kg"
+  ],
+  "general": "5.1%",
+  "special": "Free (A+,AU,B,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.90.56.00",
+  "indent": "5",
+  "description": "With textile components in which vegetable fibers predominate by weight over any other textile fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "5.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.57.00",
+  "indent": "5",
+  "description": "With textile components in which man-made fibers predominate by weight over any other textile fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "74%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.59.00",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "2.4%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.60",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3926.90.60.10",
+  "indent": "4",
+  "description": "Synchronous belts",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.60.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Clothespins:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.90.65",
+  "indent": "3",
+  "description": "Spring type",
+  "units": [],
+  "general": "4.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8.4%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.65.10",
+  "indent": "4",
+  "description": "Valued not over 80 cents per gross",
+  "units": [
+   "gross"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.65.20",
+  "indent": "4",
+  "description": "Valued over 80 cents but not over $1.35 per gross",
+  "units": [
+   "gross"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.65.30",
+  "indent": "4",
+  "description": "Valued over $1.35 but not over $1.70 per gross",
+  "units": [
+   "gross"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.65.50",
+  "indent": "4",
+  "description": "Valued over $1.70 per gross",
+  "units": [
+   "gross"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.70.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "gross"
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.75.00",
+  "indent": "2",
+  "description": "Pneumatic mattresses and other inflatable articles, not elsewhere specified or included",
+  "units": [
+   "No."
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.77.00",
+  "indent": "2",
+  "description": "Waterbed mattresses and liners, and parts of the foregoing",
+  "units": [
+   "No."
+  ],
+  "general": "2.4%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.83.00",
+  "indent": "2",
+  "description": "Empty cartridges and cassettes for typewriter and machine ribbons",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.85.00",
+  "indent": "2",
+  "description": "Fasteners, in clips suitable for use in a mechanical attaching device",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.87.00",
+  "indent": "2",
+  "description": "Flexible plastic document binders with tabs, rolled or flat",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.94.00",
+  "indent": "2",
+  "description": "Cards, not punched, suitable for use as, or in making, jacquard cards; Jacquard cards and jacquard heads for power-driven weaving machines, and parts thereof; and Transparent sheeting of plastics containing 30 percent or more by weight of lead",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.96.00",
+  "indent": "2",
+  "description": "Casing for bicycle derailleur cables; and casing for cable or inner wire for caliper and cantilever brakes, whether or not cut to length",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3926.90.99",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "5.3%",
+  "special": "Free (A,AU,B,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.05",
+  "indent": "3",
+  "description": "Elastic bands made wholly of plastics",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Laboratory ware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "3926.90.99.15",
+  "indent": "4",
+  "description": "Separatory funnels",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.20",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.25",
+  "indent": "3",
+  "description": "Reflective triangular warning signs for road use",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.30",
+  "indent": "3",
+  "description": "Ladders",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.40",
+  "indent": "3",
+  "description": "Covers, rings and frames for manholes; catch basins; drainage gates and frames thereof; cleanout covers and frames thereof; valve, service and meter boxes",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.50",
+  "indent": "3",
+  "description": "Face masks and shields, medical positioning or transport pads, medical waste containers or disinfectant wipes dispensers",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.87",
+  "indent": "3",
+  "description": "Rigid tubes or pipes suitable for use as electrical conduit",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3926.90.99.89",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

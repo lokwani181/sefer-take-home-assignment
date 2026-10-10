@@ -1,0 +1,204 @@
+[
+ {
+  "htsno": "7114",
+  "indent": "0",
+  "description": "Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Of precious metal whether or not plated or clad with precious metal:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7114.11",
+  "indent": "2",
+  "description": "Of silver, whether or not plated or clad with other precious metal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.10.00",
+  "indent": "3",
+  "description": "Knives with silver handles",
+  "units": [
+   "No."
+  ],
+  "general": "2.8%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "16¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.20.00",
+  "indent": "3",
+  "description": "Forks with silver handles",
+  "units": [
+   "No."
+  ],
+  "general": "2.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "16¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Spoons and ladles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7114.11.30.00",
+  "indent": "4",
+  "description": "With sterling silver handles",
+  "units": [
+   "No."
+  ],
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.40.00",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "3.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.45.00",
+  "indent": "3",
+  "description": "Sets of the foregoing which include two or more knives, forks, spoons or ladles",
+  "units": [
+   "pcs"
+  ],
+  "general": "3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Articles not elsewhere specified or included of a type used for household, table or kitchen use; toilet and sanitary wares; all the foregoing and parts thereof, of silver:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7114.11.50.00",
+  "indent": "4",
+  "description": "Sterling silver tableware",
+  "units": [
+   "g"
+  ],
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.60.00",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "g"
+  ],
+  "general": "3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.11.70.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "g"
+  ],
+  "general": "3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.19.00.00",
+  "indent": "2",
+  "description": "Of other precious metal whether or not plated or clad with precious metal",
+  "units": [
+   "g"
+  ],
+  "general": "7.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.20.00",
+  "indent": "1",
+  "description": "Of base metal clad with precious metal",
+  "units": [],
+  "general": "3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.20.00.40",
+  "indent": "2",
+  "description": "Articles not elsewhere specified or included, of a type used for household, table or kitchen use; toilet or sanitary ware",
+  "units": [
+   "g"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7114.20.00.60",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "g"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7115",
+  "indent": "0",
+  "description": "Other articles of precious metal or of metal clad with precious metal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

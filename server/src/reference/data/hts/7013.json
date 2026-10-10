@@ -1,0 +1,1220 @@
+[
+ {
+  "htsno": "7013",
+  "indent": "0",
+  "description": "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018):",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.10",
+  "indent": "1",
+  "description": "Of glass-ceramics:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.10.10.00",
+  "indent": "2",
+  "description": "Kitchenware, non-glazed, greater than 75 percent by volume crystalline, of lithium aluminosilicate, having a linear coefficient of expansion not exceeding 10 x 10-7 per Kelvin within a temperature range of 0˚C to 300˚C, transparent, haze-free, exhibiting transmittances of infrared radiations in excess of 75 percent at a wavelength of 2.5 microns when measured on a sample 3 mm in thickness, and containing β-quartz solid solution as the predominant crystal phase",
+  "units": [
+   "No."
+  ],
+  "general": "6.9%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.10.50.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "26%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Stemware drinking glasses, other than of glass-ceramics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.22",
+  "indent": "2",
+  "description": "Of lead crystal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.22.10.00",
+  "indent": "3",
+  "description": "Valued not over $1 each",
+  "units": [
+   "No."
+  ],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.22.20.00",
+  "indent": "3",
+  "description": "Valued over $1 but not over $3 each",
+  "units": [
+   "No."
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.22.30.00",
+  "indent": "3",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "7.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.22.50.00",
+  "indent": "3",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.05.00",
+  "indent": "3",
+  "description": "Pressed and toughened (specially tempered)",
+  "units": [
+   "No."
+  ],
+  "general": "12.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.28.10.00",
+  "indent": "4",
+  "description": "Valued not over $0.30 each",
+  "units": [
+   "No."
+  ],
+  "general": "28.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.20",
+  "indent": "4",
+  "description": "Valued over $0.30 but not over $3 each",
+  "units": [],
+  "general": "22.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.20.10",
+  "indent": "5",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.20.90",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $3 each:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Cut or engraved",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.28.30.00",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "11.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.40.00",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.28.50",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.50.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.50.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.60",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.60.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.28.60.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other drinking glasses, other than of glass-ceramics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.33",
+  "indent": "2",
+  "description": "Of lead crystal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.33.10.00",
+  "indent": "3",
+  "description": "Valued not over $1 each",
+  "units": [
+   "No."
+  ],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.33.20.00",
+  "indent": "3",
+  "description": "Valued over $1 but not over $3 each",
+  "units": [
+   "No."
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.33.30.00",
+  "indent": "3",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "7.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.33.50.00",
+  "indent": "3",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.05.00",
+  "indent": "3",
+  "description": "Pressed and toughened (specially tempered)",
+  "units": [
+   "No."
+  ],
+  "general": "12.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.37.10.01",
+  "indent": "4",
+  "description": "Valued not over $0.30 each",
+  "units": [
+   "No."
+  ],
+  "general": "28.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.20",
+  "indent": "4",
+  "description": "Valued over $0.30 but not over $3 each",
+  "units": [],
+  "general": "22.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.20.10",
+  "indent": "5",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.20.90",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $3 each:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Cut or engraved:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.37.30.00",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "11.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.40.00",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.37.50",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [],
+  "general": "7.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.50.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.50.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.60",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.60.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.37.60.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Glassware of a kind used for table (other than drinking glasses) or kitchen purposes, other than of glass-ceramics: ",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.41",
+  "indent": "2",
+  "description": "Of lead crystal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.41.10.00",
+  "indent": "3",
+  "description": "Valued not over $1 each",
+  "units": [
+   "No."
+  ],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.41.20.00",
+  "indent": "3",
+  "description": "Valued over $1 but not over $3 each",
+  "units": [
+   "No."
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.41.30.00",
+  "indent": "3",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "10.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.41.50.00",
+  "indent": "3",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.42",
+  "indent": "2",
+  "description": "Of glass having a linear coefficient of expansion not exceeding 5 x 10-6 per Kelvin within a temperature range of 0˚C to 300˚C:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.42.10.00",
+  "indent": "3",
+  "description": "Pressed and toughened (specially tempered)",
+  "units": [
+   "No."
+  ],
+  "general": "12.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.42.20.00",
+  "indent": "4",
+  "description": "Valued not over $3 each",
+  "units": [
+   "No."
+  ],
+  "general": "22.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.42.30.00",
+  "indent": "4",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "11.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.42.40.00",
+  "indent": "4",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "7.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.10.00",
+  "indent": "3",
+  "description": "Pressed and toughened (specially tempered)",
+  "units": [
+   "No."
+  ],
+  "general": "12.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.49.20",
+  "indent": "4",
+  "description": "Valued not over $3 each",
+  "units": [],
+  "general": "22.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA,OM,P,PA, PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.20.10",
+  "indent": "5",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.20.90",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Valued over $3 each:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Cut or engraved:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.49.30.00",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "11.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.40.00",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "7.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.49.50",
+  "indent": "6",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.50.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.50.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.60",
+  "indent": "6",
+  "description": "Valued over $5 each",
+  "units": [],
+  "general": "7.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.60.10",
+  "indent": "7",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.49.60.90",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other glassware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.91",
+  "indent": "2",
+  "description": "Of lead crystal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.91.10.00",
+  "indent": "3",
+  "description": "Valued not over $1 each",
+  "units": [
+   "No."
+  ],
+  "general": "20%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.91.20.00",
+  "indent": "3",
+  "description": "Valued over $1 but not over $3 each",
+  "units": [
+   "No."
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.91.30.00",
+  "indent": "3",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "10.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.91.50.00",
+  "indent": "3",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "6%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.10.00",
+  "indent": "3",
+  "description": "Glassware decorated with metal flecking, glass pictorial scenes or glass thread- or ribbon-like effects, any of the foregoing embedded or introduced into the body of the glassware prior to its solidification; millefiori glassware; glassware colored prior to solidification, and characterized by random distribution of numerous bubbles, seeds or stones, throughout the mass of the glass",
+  "units": [
+   "No."
+  ],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.20.00",
+  "indent": "3",
+  "description": "Pressed and toughened (specially tempered)",
+  "units": [
+   "No."
+  ],
+  "general": "12.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.99.30.00",
+  "indent": "4",
+  "description": "Smokers' articles; perfume bottles fitted with ground glass stoppers",
+  "units": [
+   "No."
+  ],
+  "general": "9%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.35.00",
+  "indent": "4",
+  "description": "Votive-candle holders",
+  "units": [
+   "No."
+  ],
+  "general": "6.6%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "55%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.99.40.01",
+  "indent": "5",
+  "description": "Valued not over $0.30 each",
+  "units": [
+   "No."
+  ],
+  "general": "38%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.50",
+  "indent": "5",
+  "description": "Valued over $0.30 but not over $3 each",
+  "units": [],
+  "general": "30%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.50.10",
+  "indent": "6",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.50.90",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Valued over $3 each:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Cut or engraved:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.99.60.00",
+  "indent": "7",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "15%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.70.00",
+  "indent": "7",
+  "description": "Valued over $5 each",
+  "units": [
+   "No."
+  ],
+  "general": "7.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7013.99.80",
+  "indent": "7",
+  "description": "Valued over $3 but not over $5 each",
+  "units": [],
+  "general": "11.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.80.10",
+  "indent": "8",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.80.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.90",
+  "indent": "7",
+  "description": "Valued over $5 each",
+  "units": [],
+  "general": "7.2%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.90.10",
+  "indent": "8",
+  "description": "Crystalline or non-lead crystal",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7013.99.90.90",
+  "indent": "8",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

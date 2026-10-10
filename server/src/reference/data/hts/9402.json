@@ -1,0 +1,68 @@
+[
+ {
+  "htsno": "9402",
+  "indent": "0",
+  "description": "Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists' chairs); barbers' chairs and similar chairs, having rotating as well as both reclining and elevating movements; parts of the foregoing articles:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9402.10.00.00",
+  "indent": "1",
+  "description": "Dentists', barbers' or similar chairs and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9402.90.00",
+  "indent": "1",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9402.90.00.10",
+  "indent": "2",
+  "description": "Hospital beds",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9402.90.00.20",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403",
+  "indent": "0",
+  "description": "Other furniture and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

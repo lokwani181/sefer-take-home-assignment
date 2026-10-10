@@ -1,0 +1,1507 @@
+[
+ {
+  "htsno": "9403",
+  "indent": "0",
+  "description": "Other furniture and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.10.00",
+  "indent": "1",
+  "description": "Metal furniture of a kind used in offices",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.10.00.20",
+  "indent": "2",
+  "description": "Filing cabinets",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.10.00.40",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00",
+  "indent": "1",
+  "description": "Other metal furniture",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Household:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.20.00.11",
+  "indent": "3",
+  "description": "Floor-standing, metal-top ironing boards",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.20.00.16",
+  "indent": "4",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.17",
+  "indent": "4",
+  "description": "Toddler beds, bassinets, cradles, play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.35",
+  "indent": "4",
+  "description": "Mechanically adjustable bed or mattress base, not foldable, having the characteristics of a bed or bed frame, of a width exceeding 91.44 cm, of a length exceeding 184.15 cm, and of a depth exceeding 8.89 cm",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.40",
+  "indent": "4",
+  "description": "Mattress bases with legs, not foldable, having the characteristics of a stationary (not mechanically adjustable) bed frame, of a width exceeding 91.44 cm, of a length exceeding 184.15 cm and of a depth exceeding 8.89 cm",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Foldable mattress foundations with legs, having the characteristics of a bed or bed frame, whether or not mechanically adjustable:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.20.00.46",
+  "indent": "5",
+  "description": "Mechanically adjustable",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.48",
+  "indent": "5",
+  "description": "Stationary (not mechanically adjustable)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.50",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Counters, lockers, racks, display cases, shelves, partitions and similar fixtures:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.20.00.75",
+  "indent": "4",
+  "description": "Boltless or press-fit steel shelving units prepackaged for sale as described in statistical note 4 to this chapter",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.78",
+  "indent": "4",
+  "description": "Storage lockers, other than exchange lockers as described in statistical note 5 to this chapter",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.82",
+  "indent": "4",
+  "description": "Steel racks, other than those described in statistical reporting number 9403.20.0075",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.86",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.20.00.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in offices:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.40.00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   ""
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80.01",
+  "indent": "3",
+  "description": "Of Padauk (Padouk) or Narra (Pterocarpus spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80.05",
+  "indent": "3",
+  "description": "Of Rosewood, Palissander, Cocobolo, Bois de Rose, Kingwood, Tulipwood or Blackwood (Dalbergia spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80.21",
+  "indent": "3",
+  "description": "Of teak (Tectona spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80.31",
+  "indent": "3",
+  "description": "Of Wenge (Millettia spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.30.80.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in the kitchen:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.40.00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.40.60.00",
+  "indent": "3",
+  "description": "Designed for motor vehicle use",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.90.40",
+  "indent": "4",
+  "description": "Dining tables",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.90.60",
+  "indent": "4",
+  "description": "Cabinets designed for permanent installation",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.40.90.80",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50",
+  "indent": "1",
+  "description": "Wooden furniture of a kind used in the bedroom:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50.40.00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.50.60.00",
+  "indent": "3",
+  "description": "Designed for motor vehicle use",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "9403.50.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Beds:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.50.90.41",
+  "indent": "5",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50.90.42",
+  "indent": "5",
+  "description": "Toddler beds, bassinets, and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50.90.45",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.50.90.80",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60",
+  "indent": "1",
+  "description": "Other wooden furniture:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.40.00",
+  "indent": "2",
+  "description": "Bent-wood furniture",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.80",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.80.10",
+  "indent": "3",
+  "description": "Play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.80.40",
+  "indent": "3",
+  "description": "Dining tables",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.60.80.89",
+  "indent": "4",
+  "description": "Of teak (Tectona spp.)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.60.80.93",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70",
+  "indent": "1",
+  "description": "Furniture of plastics:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40",
+  "indent": "2",
+  "description": "Of reinforced or laminated plastics",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.01",
+  "indent": "3",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.02",
+  "indent": "3",
+  "description": "Toddler beds, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.03",
+  "indent": "3",
+  "description": "Play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.15",
+  "indent": "3",
+  "description": "Other household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.20",
+  "indent": "3",
+  "description": "Office",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.40.31",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "9403.70.80.01",
+  "indent": "3",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80.02",
+  "indent": "3",
+  "description": "Toddler beds, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80.03",
+  "indent": "3",
+  "description": "Play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80.15",
+  "indent": "3",
+  "description": "Other household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80.20",
+  "indent": "3",
+  "description": "Office",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.70.80.31",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Furniture of other materials, including cane, osier, bamboo or similar materials:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.82.00",
+  "indent": "2",
+  "description": "Of bamboo",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.82.00.01",
+  "indent": "3",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.82.00.02",
+  "indent": "3",
+  "description": "Toddler beds, bassinets, and cradles; play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.82.00.15",
+  "indent": "3",
+  "description": "Other household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.82.00.30",
+  "indent": "3",
+  "description": "Other ",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.83.00",
+  "indent": "2",
+  "description": "Of rattan",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.83.00.01",
+  "indent": "3",
+  "description": "Cribs",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.83.00.02",
+  "indent": "3",
+  "description": "Toddler beds, bassinets, and cradles; play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.83.00.15",
+  "indent": "3",
+  "description": "Other household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.83.00.30",
+  "indent": "3",
+  "description": "Other ",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.30",
+  "indent": "3",
+  "description": "Of cane, osier or similar materials",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.30.10",
+  "indent": "4",
+  "description": "Household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.30.20",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.60",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.60.03",
+  "indent": "4",
+  "description": "Cribs, toddler beds, bassinets, and cradles; play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.60.15",
+  "indent": "4",
+  "description": "Other household",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.89.60.20",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Parts:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.91.00",
+  "indent": "2",
+  "description": "Of wood",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "9403.91.00.05",
+  "indent": "3",
+  "description": "For toddler beds, cribs, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.91.00.10",
+  "indent": "3",
+  "description": "For play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.91.00.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.10",
+  "indent": "3",
+  "description": "Of furniture of a kind used for motor vehicles",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "9403.99.10.40",
+  "indent": "4",
+  "description": "Of metal",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.10.50",
+  "indent": "4",
+  "description": "Of textile material, cut to shape",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.10.85",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.99.20",
+  "indent": "4",
+  "description": "Of cane, osier, bamboo or similar materials",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.20.40",
+  "indent": "5",
+  "description": "Of rattan",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.20.80",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Of rubber or plastics:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.99.30",
+  "indent": "5",
+  "description": "Of reinforced or laminated plastics",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.30.05",
+  "indent": "6",
+  "description": "For toddler beds, cribs, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.30.10",
+  "indent": "6",
+  "description": "For play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.30.80",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.40",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "9403.99.40.05",
+  "indent": "6",
+  "description": "For toddler beds, cribs, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.40.10",
+  "indent": "6",
+  "description": "For play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.40.80",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.50",
+  "indent": "4",
+  "description": "Of textile material, except cotton",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.50.05",
+  "indent": "5",
+  "description": "For toddler beds, cribs, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.50.10",
+  "indent": "5",
+  "description": "For play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.50.80",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90",
+  "indent": "4",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.10",
+  "indent": "5",
+  "description": "For toddler beds, cribs, bassinets and cradles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.15",
+  "indent": "5",
+  "description": "For play yards and other enclosures for confining children",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Of metal:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "9403.99.90.20",
+  "indent": "7",
+  "description": "Welded wire rack, whether or  not galvanized, plated or coated",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.40",
+  "indent": "7",
+  "description": "Parts for steel racks of statistical reporting number 9403.20.0082",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.45",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.51",
+  "indent": "6",
+  "description": "Of cotton, cut to shape",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.61",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "kg",
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404",
+  "indent": "0",
+  "description": "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

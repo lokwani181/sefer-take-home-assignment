@@ -1,0 +1,294 @@
+[
+ {
+  "htsno": "8509",
+  "indent": "0",
+  "description": "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.40.00",
+  "indent": "1",
+  "description": "Food grinders, processors and mixers; fruit or vegetable juice extractors",
+  "units": [],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.40.00.15",
+  "indent": "2",
+  "description": "Blenders",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.40.00.25",
+  "indent": "2",
+  "description": "Other food mixers",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.40.00.30",
+  "indent": "2",
+  "description": "Juice extractors",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.40.00.40",
+  "indent": "2",
+  "description": "Food grinders and processors",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80",
+  "indent": "1",
+  "description": "Other appliances:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.10.00",
+  "indent": "2",
+  "description": "Floor polishers",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.20.00",
+  "indent": "2",
+  "description": "Kitchen waste disposers (disposals)",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.50",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.50.40",
+  "indent": "3",
+  "description": "Can openers (including combination units)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.50.45",
+  "indent": "3",
+  "description": "Electric toothbrushes",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Humidifiers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8509.80.50.50",
+  "indent": "4",
+  "description": "Evaporative",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8509.80.50.70",
+  "indent": "5",
+  "description": "Ultrasonic",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.50.80",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.80.50.95",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.90",
+  "indent": "1",
+  "description": "Parts:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Parts of floor polishers:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8509.90.25.00",
+  "indent": "3",
+  "description": "Housings",
+  "units": [
+   "No."
+  ],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.90.35.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8509.90.45.00",
+  "indent": "3",
+  "description": "Housings",
+  "units": [
+   "No."
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8509.90.55.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8510",
+  "indent": "0",
+  "description": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

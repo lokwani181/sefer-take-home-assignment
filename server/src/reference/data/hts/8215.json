@@ -1,0 +1,376 @@
+[
+ {
+  "htsno": "8215",
+  "indent": "0",
+  "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware; and base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.10.00.00",
+  "indent": "1",
+  "description": "Sets of assorted articles containing at least one article plated with precious metal",
+  "units": [
+   "pcs"
+  ],
+  "general": "The rate of duty applicable to that article in the set subject to the highest rate of duty",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "The rate of duty applicable to that article in the set subject to the highest rate of duty",
+  "footnotes": [
+   {
+    "columns": [
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "8215.20.00.00",
+  "indent": "1",
+  "description": "Other sets of assorted articles",
+  "units": [
+   "pcs"
+  ],
+  "general": "The rate of duty applicable to that article in the set subject to the highest rate of duty",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "The rate of duty applicable to that article in the set subject to the highest rate of duty",
+  "footnotes": [
+   {
+    "columns": [
+     "units"
+    ],
+    "value": "See statistical note 1 to this chapter. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.91",
+  "indent": "2",
+  "description": "Plated with precious metal:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.91.30.00",
+  "indent": "3",
+  "description": "Forks",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.91.60.00",
+  "indent": "3",
+  "description": "Spoons and ladles",
+  "units": [
+   "No."
+  ],
+  "general": "4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.91.90.00",
+  "indent": "3",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "2.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Forks:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "With stainless steel handles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "With handles containing nickel or containing over 10 percent by weight of manganese:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.99.01.00",
+  "indent": "6",
+  "description": "Valued under 25¢ each, not over 25.9 cm in overall length",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.9¢ each + 15.8%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.05.00",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.5¢ each + 8.5%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.99.10.00",
+  "indent": "6",
+  "description": "Valued under 25¢ each",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.5¢ each + 6.3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.15.00",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "pcs"
+  ],
+  "general": "0.4¢ each + 4.8%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "2¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.20.00",
+  "indent": "4",
+  "description": "With rubber or plastic handles",
+  "units": [
+   "No."
+  ],
+  "general": "0.5¢ each + 3.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.99.22.00",
+  "indent": "5",
+  "description": "Without their handles",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.99.24.00",
+  "indent": "6",
+  "description": "Table forks (including table serving forks) and barbecue forks with wooden handles",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.5%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.26.00",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "0.2¢ each + 3.1%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Spoons and ladles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "With stainless steel handles:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8215.99.30.00",
+  "indent": "5",
+  "description": "Spoons valued under 25¢ each",
+  "units": [
+   "pcs"
+  ],
+  "general": "14%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.35.00",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "pcs"
+  ],
+  "general": "6.8%",
+  "special": "Free (AU,BH, CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.40",
+  "indent": "4",
+  "description": "With base metal (except stainless steel) or nonmetal handles",
+  "units": [],
+  "general": "5%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.40.30",
+  "indent": "5",
+  "description": "Tablespoons and table ladles",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.40.60",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.45.00",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215.99.50.00",
+  "indent": "3",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ }
+]

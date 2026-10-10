@@ -1,0 +1,200 @@
+[
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "III. STAINLESS STEEL",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7218",
+  "indent": "0",
+  "description": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.10.00.00",
+  "indent": "1",
+  "description": "Ingots and other primary forms",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7218.91.00",
+  "indent": "2",
+  "description": "Of rectangular (other than square) cross-section",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Having a width less than four times the thickness:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7218.91.00.15",
+  "indent": "4",
+  "description": "Having a cross-sectional area of less than 232 cm2",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.91.00.30",
+  "indent": "4",
+  "description": "Having a cross-sectional area of 232 cm2 or more",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.91.00.60",
+  "indent": "3",
+  "description": "Having a width at least four times the thickness",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.99.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "29%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Of square cross section:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7218.99.00.15",
+  "indent": "4",
+  "description": "Having a cross-sectional area of less than 232 cm2",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.99.00.30",
+  "indent": "4",
+  "description": "Having a cross-sectional area of 232 cm2 or more",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Of circular cross section:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7218.99.00.45",
+  "indent": "4",
+  "description": "Having a cross-sectional area of less than 232 cm2",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.99.00.60",
+  "indent": "4",
+  "description": "Having a cross-sectional area of 232 cm2 or more",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7218.99.00.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7219",
+  "indent": "0",
+  "description": "Flat-rolled products of stainless steel, of a width of 600 mm or more:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

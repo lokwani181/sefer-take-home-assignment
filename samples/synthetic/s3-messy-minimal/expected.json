@@ -1,0 +1,159 @@
+{
+  "id": "s3-messy-minimal",
+  "description": "Indian exporter (Tiruppur) → New York buyer by sea, FOB Chennai. Minimal US-style text invoice (MM/DD/YYYY date, QTY-first columns, no HS codes, one line made in Sri Lanka); scanned carrier B/L consigned to an Edison NJ 3PL for account of the buyer, with a container number whose ISO 6346 check digit is wrong and a red TELEX RELEASE stamp; no packing list.",
+  "files": [
+    {
+      "file": "Invoice_KKE-1187.pdf",
+      "docType": "commercial_invoice",
+      "source": "text",
+      "pages": 1,
+      "keyTokens": [
+        "KKE/1187/25-26",
+        "03/04/2026",
+        "BW-26-0193",
+        "CHENNAI",
+        "KK-M1042",
+        "KK-M1046",
+        "LW-W2210",
+        "7,200.00",
+        "5,400.00",
+        "8,580.00",
+        "21,180.00",
+        "SRI LANKA"
+      ]
+    },
+    {
+      "file": "BL_BYXLMAA26031287_scan.pdf",
+      "docType": "bill_of_lading",
+      "source": "ocr",
+      "pages": 1,
+      "keyTokens": [
+        "BYXLMAA26031287",
+        "BYXU5209184",
+        "BX441207",
+        "1,986.400",
+        "21.400",
+        "186 CTNS",
+        "SEA ORCHID",
+        "611W",
+        "CHENNAI",
+        "NEWARK",
+        "EDISON",
+        "RARITAN",
+        "BRIGHTWATER",
+        "KAVERI",
+        "KKE/1187/25-26",
+        "14-MAR-2026"
+      ]
+    }
+  ],
+  "notes": [
+    "Valuation policy: FOB Chennai — the price ends on board at Chennai and ocean freight is COLLECT on the B/L, so the invoice contains no freight or insurance to deduct. No assists, no NCV lines. Entered value = line amount.",
+    "Line 1: 3,000 PCS × USD 2.40 = 7,200.00 → 7,200.",
+    "Line 2: 2,400 PCS × USD 2.25 = 5,400.00 → 5,400.",
+    "Line 3: 1,200 PCS × USD 7.15 = 8,580.00 → 8,580.",
+    "Total entered value: 7,200 + 5,400 + 8,580 = 21,180 = printed TOTAL US$ 21,180.00.",
+    "Invoice date 03/04/2026 is ambiguous: MM/DD → 2026-03-04, DD/MM → 2026-04-03. The B/L shows SHIPPED ON BOARD 14-MAR-2026 (shipping bill 06-MAR-2026), and an invoice cannot post-date the shipment, so 2026-03-04 is correct; it also falls inside the Indian fiscal year 25-26 printed in the invoice number (ends 31-Mar-2026). India normally writes DD/MM, so a country-convention rule alone picks the wrong date: chronology must win. Expect DATE_AMBIGUOUS (resolved).",
+    "No HS codes are printed → HTS_NOT_DECLARED. Correct 6-digit headings (hs6Truth): 6109.10 for the men's cotton knit T-shirts (lines 1–2) and 6204.62 for the women's cotton woven trousers (line 3).",
+    "Header COUNTRY OF ORIGIN is INDIA but line 3 says MADE IN SRI LANKA (Lanka Weave Garments, Colombo) → ORIGIN_DIFFERS for line 3 with COO LK; that line's MID must come from the Sri Lankan maker, not the Indian seller.",
+    "Container BYXU 5209184 fails ISO 6346: the check digit computed from BYXU520918 is 7, but 4 is printed. It is a one-digit typo of BYXU5207184 (valid), but nothing on the documents supports that correction and no single OCR-confusable digit swap yields a valid number, so the app must report CONTAINER_NUMBER_INVALID and must NOT invent a correction (CONTAINER_NUMBER_CORRECTED excluded).",
+    "B/L consignee is RARITAN LOGISTICS SERVICES LLC (3PL, Edison NJ) \"for account of\" BRIGHTWATER APPAREL GROUP, INC. → importer and ultimate consignee = Brightwater (the invoice buyer); ULTIMATE_CONSIGNEE_ASSUMED.",
+    "Invoice number KKE/1187/25-26 contains \"/\" (XSD invoiceNoType is [A-Za-z0-9-]{1,17}) → KKE-1187-25-26, INVOICE_NO_NORMALIZED.",
+    "No packing list → MISSING_DOCUMENT. Gross weight 1,986.400 KGS and 186 cartons come from the B/L (invoice also says 186 CTNS).",
+    "Port of discharge NEWARK, NJ → Schedule D 4601; containerized vessel → mode 11. Carrier B/L BYXLMAA26031287 → master SCAC BYXL + bill MAA26031287; no house bill.",
+    "The red TELEX RELEASE stamp is the only release evidence → TELEX_RELEASE advisory. Ocean freight and destination THC are COLLECT (a COLLECT_CHARGES advisory is reasonable but not asserted)."
+  ],
+  "expect": {
+    "invoiceNumber": "KKE/1187/25-26",
+    "invoiceNumberNormalized": "KKE-1187-25-26",
+    "invoiceDate": "2026-03-04",
+    "currency": "USD",
+    "incoterm": {
+      "code": "FOB",
+      "place": "Chennai"
+    },
+    "sellerName": "KAVERI KNIT EXPORTS PVT. LTD.",
+    "buyerName": "BRIGHTWATER APPAREL GROUP, INC.",
+    "importerName": "BRIGHTWATER APPAREL GROUP, INC.",
+    "ultimateConsigneeName": "BRIGHTWATER APPAREL GROUP, INC.",
+    "transport": {
+      "mode": "ocean",
+      "modeTransportation": "11",
+      "entryPort": "4601",
+      "containers": [
+        "BYXU5209184"
+      ],
+      "bills": [
+        {
+          "masterScac": "BYXL",
+          "masterBill": "MAA26031287"
+        }
+      ],
+      "grossWeightKg": 1986.4
+    },
+    "lines": [
+      {
+        "lineNo": 1,
+        "styleNo": "KK-M1042",
+        "descriptionContains": "CREW NECK T-SHIRT",
+        "quantity": 3000,
+        "unit": "PCS",
+        "unitPrice": 2.4,
+        "printedAmount": 7200,
+        "countryOfOrigin": "IN",
+        "hs6": null,
+        "hs6Truth": "610910",
+        "enteredValue": 7200
+      },
+      {
+        "lineNo": 2,
+        "styleNo": "KK-M1046",
+        "descriptionContains": "V-NECK T-SHIRT",
+        "quantity": 2400,
+        "unit": "PCS",
+        "unitPrice": 2.25,
+        "printedAmount": 5400,
+        "countryOfOrigin": "IN",
+        "hs6": null,
+        "hs6Truth": "610910",
+        "enteredValue": 5400
+      },
+      {
+        "lineNo": 3,
+        "styleNo": "LW-W2210",
+        "descriptionContains": "STRAIGHT LEG TROUSERS",
+        "quantity": 1200,
+        "unit": "PCS",
+        "unitPrice": 7.15,
+        "printedAmount": 8580,
+        "countryOfOrigin": "LK",
+        "hs6": null,
+        "hs6Truth": "620462",
+        "enteredValue": 8580
+      }
+    ],
+    "totalEnteredValue": 21180,
+    "issuesInclude": [
+      "HTS_NOT_DECLARED",
+      "ORIGIN_DIFFERS",
+      "CONTAINER_NUMBER_INVALID",
+      "ULTIMATE_CONSIGNEE_ASSUMED",
+      "DATE_AMBIGUOUS",
+      "MISSING_DOCUMENT",
+      "INVOICE_NO_NORMALIZED",
+      "TELEX_RELEASE"
+    ],
+    "issuesExclude": [
+      "CONTAINER_NUMBER_CORRECTED",
+      "NON_DUTIABLE_CHARGES",
+      "CHARGES_NOT_ITEMIZED",
+      "LINE_AMOUNT_MISMATCH",
+      "TOTALS_MISMATCH",
+      "CURRENCY_CONVERSION",
+      "NCV_VALUE",
+      "ASSIST",
+      "QTY_MISMATCH",
+      "PACKAGE_COUNT_MISMATCH"
+    ]
+  }
+}

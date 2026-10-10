@@ -1,0 +1,159 @@
+[
+ {
+  "htsno": "5802",
+  "indent": "0",
+  "description": "Terry toweling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.10",
+  "indent": "1",
+  "description": "Terry toweling and similar woven terry fabrics, of cotton:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.10.10.00",
+  "indent": "2",
+  "description": "Unbleached (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "9.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.10.90.00",
+  "indent": "2",
+  "description": "Other (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "9.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.20.00",
+  "indent": "1",
+  "description": "Terry toweling and similar woven terry fabrics, of other textile materials",
+  "units": [],
+  "general": "14%",
+  "special": "Free (AU,BH,CL, CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "79.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.20.00.10",
+  "indent": "2",
+  "description": "Containing 85 percent or more by weight of silk or silk waste",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.20.00.20",
+  "indent": "2",
+  "description": "Of man-made fibers (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.20.00.90",
+  "indent": "2",
+  "description": "Other (810)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00",
+  "indent": "1",
+  "description": "Tufted textile fabrics",
+  "units": [],
+  "general": "6.2%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO,KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "79.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00.10",
+  "indent": "2",
+  "description": "Containing 85 percent or more by weight of silk or silk waste",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00.20",
+  "indent": "2",
+  "description": "Of wool or fine animal hair (414)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00.30",
+  "indent": "2",
+  "description": "Of cotton; of man-made fibers (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00.90",
+  "indent": "2",
+  "description": "Other (810)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

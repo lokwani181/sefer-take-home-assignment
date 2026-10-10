@@ -1,0 +1,190 @@
+[
+ {
+  "htsno": "3924",
+  "indent": "0",
+  "description": "Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10",
+  "indent": "1",
+  "description": "Tableware and kitchenware:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10.10.00",
+  "indent": "2",
+  "description": "Salt, pepper, mustard and ketchup dispensers and similar dispensers",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "3.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10.20.00",
+  "indent": "2",
+  "description": "Plates, cups, saucers, soup bowls, cereal bowls, sugar bowls, creamers, gravy boats, serving dishes and platters",
+  "units": [
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "84.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10.30.00",
+  "indent": "2",
+  "description": "Trays",
+  "units": [
+   "No."
+  ],
+  "general": "5.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.10.40.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "3.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90",
+  "indent": "1",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.05.00",
+  "indent": "2",
+  "description": "Nursing nipples and finger cots",
+  "units": [
+   "gross"
+  ],
+  "general": "3.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.10",
+  "indent": "2",
+  "description": "Curtains and drapes, including panels and valances; napkins, table covers, mats, scarves, runners, doilies, centerpieces, antimacassars and furniture slipcovers; and like furnishings",
+  "units": [],
+  "general": "3.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ },
+ {
+  "htsno": "3924.90.10.10",
+  "indent": "3",
+  "description": "Curtains and drapes",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.10.50",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.20.00",
+  "indent": "2",
+  "description": "Picture frames",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.56",
+  "indent": "2",
+  "description": "Other",
+  "units": [],
+  "general": "3.4%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.56.10",
+  "indent": "3",
+  "description": "Gates for confining children or pets",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3924.90.56.50",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No. and kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "3925",
+  "indent": "0",
+  "description": "Builders' ware of plastics, not elsewhere specified or included:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

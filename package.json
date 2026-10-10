@@ -1,0 +1,31 @@
+{
+  "name": "sefer-netchb",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/shared",
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "concurrently -k -n server,web -c blue,magenta \"npm run dev -w @app/server\" \"npm run dev -w @app/web\"",
+    "build": "npm run build -w @app/web",
+    "start": "npm run start -w @app/server",
+    "test": "npm test -w @app/server && npm test -w @app/web",
+    "test:synthetic": "vitest run --config scripts/synthetic/vitest.config.ts",
+    "test:all": "npm run typecheck && npm test && npm run test:synthetic",
+    "typecheck": "tsc -p packages/shared --noEmit && tsc -p server --noEmit && tsc -p web --noEmit && tsc -p e2e --noEmit",
+    "cli": "npm run cli -w @app/server --",
+    "synthetic": "tsx scripts/make-synthetic.ts",
+    "e2e": "playwright test -c e2e/playwright.config.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5",
+    "concurrently": "^10.0.6",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.34.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

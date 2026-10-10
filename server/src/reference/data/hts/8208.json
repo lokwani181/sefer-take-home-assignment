@@ -1,0 +1,202 @@
+[
+ {
+  "htsno": "8208",
+  "indent": "0",
+  "description": "Knives and cutting blades, for machines or for mechanical appliances, and base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.10.00",
+  "indent": "1",
+  "description": "For metal working, and parts thereof",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.10.00.30",
+  "indent": "2",
+  "description": "Over 30.5 cm in length, for metal shearing machines or over 15.2 cm in diameter for metal shearing/slitting machines",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.10.00.60",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.20.00",
+  "indent": "1",
+  "description": "For wood working, and parts thereof",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.20.00.30",
+  "indent": "2",
+  "description": "Over 73.7 cm in length, for veneer-cutting machines",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.20.00.60",
+  "indent": "2",
+  "description": "Over 15.2 cm in length, for wood-chipper machines",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.20.00.90",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.30.00",
+  "indent": "1",
+  "description": "For kitchen appliances or for machines used by the food industry, and parts thereof",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.30.00.30",
+  "indent": "2",
+  "description": "For meat-slicing, meat-cutting or meat-chopping machines",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.30.00.60",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.40",
+  "indent": "1",
+  "description": "For agricultural, horticultural or forestry machines, and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.40.30.00",
+  "indent": "2",
+  "description": "Lawnmower blades",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.40.60.00",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.90",
+  "indent": "1",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.90.30.00",
+  "indent": "2",
+  "description": "For shoe machinery",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8208.90.60.00",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "value": "See 9903.90.08. ",
+    "type": "endnote"
+   }
+  ]
+ }
+]

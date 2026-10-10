@@ -1,0 +1,124 @@
+[
+ {
+  "htsno": "7324",
+  "indent": "0",
+  "description": "Sanitary ware and parts thereof, of iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.10.00",
+  "indent": "1",
+  "description": "Sinks and wash basins, of stainless steel",
+  "units": [],
+  "general": "3.4%",
+  "special": "Free (A*,AU,BH,C,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.10.00.10",
+  "indent": "2",
+  "description": "Stainless steel sinks with one or more drawn bowls (basins)",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.10.00.50",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Baths:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7324.21",
+  "indent": "2",
+  "description": "Of cast iron, whether or not enamelled:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.21.10.00",
+  "indent": "3",
+  "description": "Coated or plated with precious metal",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.21.50.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.29.00.00",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324.90.00.00",
+  "indent": "1",
+  "description": "Other, including parts",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7325",
+  "indent": "0",
+  "description": "Other cast articles of iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

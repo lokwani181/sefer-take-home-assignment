@@ -1,0 +1,534 @@
+[
+ {
+  "htsno": "7323",
+  "indent": "0",
+  "description": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.10.00.00",
+  "indent": "1",
+  "description": "Iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "22¢/kg + 30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.91",
+  "indent": "2",
+  "description": "Of cast iron, not enameled:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.91.10.00",
+  "indent": "3",
+  "description": "Coated or plated with precious metal",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.91.50",
+  "indent": "3",
+  "description": "Other",
+  "units": [],
+  "general": "5.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.91.50.20",
+  "indent": "4",
+  "description": "Bakeware (cookware not suitable for stove top use)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.91.50.40",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.92.00",
+  "indent": "2",
+  "description": "Of cast iron, enameled",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "35.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.92.00.20",
+  "indent": "3",
+  "description": "Bakeware (cookware not suitable for stove top use)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.92.00.40",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00",
+  "indent": "2",
+  "description": "Of stainless steel",
+  "units": [],
+  "general": "2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Cooking and kitchen ware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.93.00.15",
+  "indent": "4",
+  "description": "Teakettles",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Cooking ware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.93.00.35",
+  "indent": "6",
+  "description": "Bakeware (cookware not suitable for stove top use)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00.45",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00.60",
+  "indent": "5",
+  "description": "Kitchen ware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.93.00.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00",
+  "indent": "2",
+  "description": "Of iron (other than cast iron) or steel, enameled",
+  "units": [],
+  "general": "2.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Cooking and kitchen ware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Of steel:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.94.00.10",
+  "indent": "5",
+  "description": "Teakettles",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "5",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "",
+  "indent": "6",
+  "description": "Cooking ware:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.94.00.21",
+  "indent": "7",
+  "description": "Bakeware (cookware not suitable for stove top use)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.26",
+  "indent": "7",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.30",
+  "indent": "6",
+  "description": "Kitchen ware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.40",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.94.00.80",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Coated or plated with precious metal:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.99.10.00",
+  "indent": "4",
+  "description": "Coated or plated with silver",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.30.00",
+  "indent": "4",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "8.2%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "3",
+  "description": "Not coated or plated with precious metal:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.99.50",
+  "indent": "4",
+  "description": "Of tinplate",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.50.30",
+  "indent": "5",
+  "description": "Kitchen or tableware suitable for food or drink contact",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.50.60",
+  "indent": "5",
+  "description": "Other",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "4",
+  "description": "Other:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "7323.99.70.00",
+  "indent": "5",
+  "description": "Cookingware",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "5.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.90",
+  "indent": "5",
+  "description": "Other",
+  "units": [],
+  "general": "3.4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.90.30",
+  "indent": "6",
+  "description": "Kitchen or tableware suitable for food or drink contact",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.90.40",
+  "indent": "6",
+  "description": "Gates for confining children or pets",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7323.99.90.80",
+  "indent": "6",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "7324",
+  "indent": "0",
+  "description": "Sanitary ware and parts thereof, of iron or steel:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

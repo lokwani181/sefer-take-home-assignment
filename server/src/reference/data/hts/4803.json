@@ -1,0 +1,46 @@
+[
+ {
+  "htsno": "4803.00",
+  "indent": "0",
+  "description": "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibers, whether or not creped, crinkled, embossed, perforated, surface-colored, surface decorated or printed, in rolls or sheets:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4803.00.20.00",
+  "indent": "1",
+  "description": "Cellulose wadding",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "24%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4803.00.40.00",
+  "indent": "1",
+  "description": "Other",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "36%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4804",
+  "indent": "0",
+  "description": "Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

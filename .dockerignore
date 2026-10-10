@@ -1,0 +1,38 @@
+# Keep the build context small and machine-independent: dependencies are installed with
+# `npm ci` inside the image (native modules must be built for Linux, not copied from macOS).
+**/node_modules
+**/.DS_Store
+**/*.log
+.git
+.gitignore
+.env
+.env.*
+
+# Build outputs and caches (rebuilt in the image)
+web/dist
+**/dist
+server/.cache
+**/.cache
+**/.vite
+**/tsconfig.tsbuildinfo
+
+# Generated results and test artifacts
+output
+test-results
+playwright-report
+e2e/test-results
+e2e/playwright-report
+coverage
+
+# Not needed at runtime
+e2e
+server/test
+scripts/__pycache__
+**/__pycache__
+samples/synthetic
+docs
+*.md
+
+# Docker files themselves
+Dockerfile
+.dockerignore

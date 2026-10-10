@@ -1,0 +1,166 @@
+[
+ {
+  "htsno": "4202",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Trunks, suitcases, vanity cases, attache cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; traveling bags, insulated food or beverage bags, toiletry bags, knapsacks and backpacks, handbags, shopping bags, wallets, purses, map cases, cigarette cases, tobacco pouches, tool bags, sports bags, bottle cases, jewelry boxes, powder cases, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanized fiber or of paperboard, or wholly or mainly covered with such materials or with paper:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.31.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Backpacks (670)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6306.22.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Backpacking tents",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9902.12.39",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks or totes, each with an outer surface of man-made fiber textile material, specially designed for carrying dolls and containing straps, sleeves, netting or other restraints specifically designed to hold a doll in place, incorporating one or more exterior windows through which a doll can be viewed (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "4.0%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.40",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks or totes, each with an outer surface of man-made fiber textile material, specially designed for carrying dolls and containing straps, sleeves, netting or other restraints specifically designed to hold a doll in place, not incorporating any exterior windows through which a doll can be viewed (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.42",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks of man-made fibers, each containing a padded compartment designed for a laptop or tablet, with hard molded plastic shell in the shape of a shield on one outer surface (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.43",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks of man-made fibers, each containing a padded compartment designed for a laptop or tablet, with hard molded plastic shell in the shape of one or more animals or animal parts on one outer surface (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.44",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks of man-made fibers, each containing a padded compartment designed for a laptop ortablet, with hard molded plastic shell in a shape other than a shield or animals or animal parts on one outer surface (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.45",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Backpacks with outer surface of 230 decitex fabric of nylon and with laminated polyester knitted backing inner surface; such backpacks each weighing 0.85 kg but not over 1 kg, measuring 0.018 m3 but not over 0.022 m3 in volume; valued $14 or more but not over $21 each; the foregoing each presented with a detachable front pouch having its own shoulder strap (provided for in subheading 4202.92.31)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ }
+]

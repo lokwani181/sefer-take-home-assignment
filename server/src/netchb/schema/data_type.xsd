@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema
+     targetNamespace="http://www.netchb.com/xml/data"
+     xmlns:data="http://www.netchb.com/xml/data"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+     elementFormDefault="qualified"
+     attributeFormDefault="unqualified">
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="billNoType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This should be used to constrain bill of lading numbers
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="[\dA-Za-z]{0,50}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="carrierCodeType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Carrier code must be 2 or 4 characters
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\w{2}|\w{4}|\*{1}[\*\w]{1}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="classCodeType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Class Code types include cotton fee, MPF, HMF
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="053" />
+			<xsd:enumeration value="054" />
+			<xsd:enumeration value="055" />
+			<xsd:enumeration value="056" />
+			<xsd:enumeration value="057" />
+			<xsd:enumeration value="079" />
+			<xsd:enumeration value="090" />
+			<xsd:enumeration value="102" />
+			<xsd:enumeration value="103" />
+			<xsd:enumeration value="104" />
+			<xsd:enumeration value="105" />
+			<xsd:enumeration value="106" />
+			<xsd:enumeration value="107" />
+			<xsd:enumeration value="108" />
+			<xsd:enumeration value="109"/>
+			<xsd:enumeration value="110"/>
+			<xsd:enumeration value="499" />
+			<xsd:enumeration value="501" />
+			<xsd:enumeration value="311" />
+			<xsd:enumeration value="496" />
+			<xsd:enumeration value="500" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="countryCodeType">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="[A-Za-z]{2}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="dollarAmountType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Base type for dollar values
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:decimal">
+			<xsd:minInclusive value="0" />
+			<xsd:fractionDigits value="2" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="entryNoType">
+		<xsd:annotation>
+			<xsd:documentation>
+				An entryNo must be 7 digits, except in rare cases where an 
+				8th digit is required as the leading check digit, as noted 
+				in the module-specific schema.
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{7,8}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="entryType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is contains all of the valid entry type codes
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="01" />
+			<xsd:enumeration value="02" />
+			<xsd:enumeration value="03" />
+			<xsd:enumeration value="04" />
+			<xsd:enumeration value="05" />
+			<xsd:enumeration value="06" />
+			<xsd:enumeration value="07" />
+			<xsd:enumeration value="08" />
+			<xsd:enumeration value="09" />
+			<xsd:enumeration value="10" />
+			<xsd:enumeration value="11" />
+			<xsd:enumeration value="12" />
+			<xsd:enumeration value="20" />
+			<xsd:enumeration value="21" />
+			<xsd:enumeration value="22" />
+			<xsd:enumeration value="23" />
+			<xsd:enumeration value="24" />
+			<xsd:enumeration value="25" />
+			<xsd:enumeration value="26" />
+			<xsd:enumeration value="30" />
+			<xsd:enumeration value="31" />
+			<xsd:enumeration value="32" />
+			<xsd:enumeration value="33" />
+			<xsd:enumeration value="34" />
+			<xsd:enumeration value="38" />
+			<xsd:enumeration value="40" />
+			<xsd:enumeration value="41" />
+			<xsd:enumeration value="42" />
+			<xsd:enumeration value="43" />
+			<xsd:enumeration value="44" />
+			<xsd:enumeration value="45" />
+			<xsd:enumeration value="46" />
+			<xsd:enumeration value="50" />
+			<xsd:enumeration value="51" />
+			<xsd:enumeration value="52" />
+			<xsd:enumeration value="60" />
+			<xsd:enumeration value="61" />
+			<xsd:enumeration value="62" />
+			<xsd:enumeration value="63" />
+			<xsd:enumeration value="64" />
+			<xsd:enumeration value="65" />
+			<xsd:enumeration value="66" />
+			<xsd:enumeration value="86" />
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<!-- ************************************************* -->
+	<xsd:simpleType name="filerCodeType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is the data type that is used to validate filer codes
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="[A-Za-z0-9]{3}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- ************************************************* -->
+	<xsd:simpleType name="foreignPortType">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{5}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="inbondNoType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This validates that the inbond no matches certain patterns
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{9}|[\dA-Za-z]{10}|\d{11}|[Vv][\dA-Za-z]{2}\d{8}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="invoiceNoType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This should be used to validate invoice numbers for invoices
+				that are part of an entry summary
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="[A-Za-z\d\-]{1,17}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="manufacturerIdType">
+		<xsd:annotation>
+			<xsd:documentation>MIDs and supplier ids</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:maxLength value="15"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="modeTransportType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is contains all of the valid mode of transportation codes
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="10" />
+			<xsd:enumeration value="11" />
+			<xsd:enumeration value="12" />
+			<xsd:enumeration value="20" />
+			<xsd:enumeration value="21" />
+			<xsd:enumeration value="30" />
+			<xsd:enumeration value="31" />
+			<xsd:enumeration value="32" />
+			<xsd:enumeration value="33" />
+			<xsd:enumeration value="34" />
+			<xsd:enumeration value="40" />
+			<xsd:enumeration value="41" />
+			<xsd:enumeration value="50" />
+			<xsd:enumeration value="60" />
+			<xsd:enumeration value="70" />
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="paymentType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is contains all of the valid paymentType codes
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="" />
+			<xsd:enumeration value="1" />
+			<xsd:enumeration value="2" />
+			<xsd:enumeration value="3" />
+			<xsd:enumeration value="5" />
+			<xsd:enumeration value="6" />
+			<xsd:enumeration value="7" />
+			<xsd:enumeration value="8" />
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="portType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is the data type that should be used for ports.  It requires
+				a String that is 4 numeric digits
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{4}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="specialProgramType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This should be used for primary or country special programs
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:maxLength value="2"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="secondarySpecialProgramType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This should be used for secondary special programs
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:maxLength value="1"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="suretyCodeType">
+		<xsd:annotation>
+			<xsd:documentation>
+				Only ensures that value is at most 3 characters long
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:maxLength value="3" />
+		</xsd:restriction>
+	</xsd:simpleType>
+
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="taxIdType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This checks for valid taxIds
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{2}-\d{7}[\dA-Za-z]?[\dA-Za-z]?|\d{6}-\d{5}|\d{3}-\d{2}-\d{4}" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="tariffNoType">
+		<xsd:restriction base="xsd:token">
+			<xsd:pattern value="\d{5,10}"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="unitOfMeasureType">
+		<xsd:annotation>
+			<xsd:documentation>
+				The unit of measure is a list of units from Appendix C of the catair
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="AC" />
+			<xsd:enumeration value="ASTM" />
+			<xsd:enumeration value="BBL" />
+			<xsd:enumeration value="C" />
+			<xsd:enumeration value="CAR" />
+			<xsd:enumeration value="CC" />
+			<xsd:enumeration value="CG" />
+			<xsd:enumeration value="CGM" />
+			<xsd:enumeration value="CKG" />
+			<xsd:enumeration value="CLR" />
+			<xsd:enumeration value="CM" />
+			<xsd:enumeration value="CM2" />
+			<xsd:enumeration value="CM3" />
+			<xsd:enumeration value="CTN" />
+			<xsd:enumeration value="CU" />
+			<xsd:enumeration value="CUR" />
+			<xsd:enumeration value="CY" />
+			<xsd:enumeration value="CYG" />
+			<xsd:enumeration value="CYK" />
+			<xsd:enumeration value="D" />
+			<xsd:enumeration value="DC" />
+			<xsd:enumeration value="DEG" />
+			<xsd:enumeration value="DOZ" />
+			<xsd:enumeration value="DPC" />
+			<xsd:enumeration value="DPR" />
+			<xsd:enumeration value="FIB" />
+			<xsd:enumeration value="FBM" />
+			<xsd:enumeration value="G" />
+			<xsd:enumeration value="GBQ" />
+			<xsd:enumeration value="GR" />
+			<xsd:enumeration value="GRL" />
+			<xsd:enumeration value="GVW" />
+			<xsd:enumeration value="HUN" />
+			<xsd:enumeration value="HZ" />
+			<xsd:enumeration value="IRC" />
+			<xsd:enumeration value="JWL" />
+			<xsd:enumeration value="K" />
+			<xsd:enumeration value="KCAL" />
+			<xsd:enumeration value="KG" />
+			<xsd:enumeration value="KHZ" />
+			<xsd:enumeration value="KL" />
+			<xsd:enumeration value="KM" />
+			<xsd:enumeration value="KM2" />
+			<xsd:enumeration value="KM3" />
+			<xsd:enumeration value="KN" />
+			<xsd:enumeration value="KPA" />
+			<xsd:enumeration value="KSB" />
+			<xsd:enumeration value="KVA" />
+			<xsd:enumeration value="KVAR" />
+			<xsd:enumeration value="KW" />
+			<xsd:enumeration value="KWH" />
+			<xsd:enumeration value="L" />
+			<xsd:enumeration value="LIN" />
+			<xsd:enumeration value="LNM" />
+			<xsd:enumeration value="M" />
+			<xsd:enumeration value="MBQ" />
+			<xsd:enumeration value="MC" />
+			<xsd:enumeration value="MG" />
+			<xsd:enumeration value="MHZ" />
+			<xsd:enumeration value="ML" />
+			<xsd:enumeration value="MM" />
+			<xsd:enumeration value="MPA" />
+			<xsd:enumeration value="M2" />
+			<xsd:enumeration value="M3" />
+			<xsd:enumeration value="NO" />
+			<xsd:enumeration value="ODE" />
+			<xsd:enumeration value="PCS" />
+			<xsd:enumeration value="PF" />
+			<xsd:enumeration value="PFG" />
+			<xsd:enumeration value="PFL" />
+			<xsd:enumeration value="PK" />
+			<xsd:enumeration value="PRS" />
+			<xsd:enumeration value="RPM" />
+			<xsd:enumeration value="SBE" />
+			<xsd:enumeration value="SQ" />
+			<xsd:enumeration value="T" />
+			<xsd:enumeration value="V" />
+			<xsd:enumeration value="W" />
+			<xsd:enumeration value="WG" />
+			<xsd:enumeration value="WL" />
+			<xsd:enumeration value="WT" />
+			<xsd:enumeration value="X" />
+		</xsd:restriction>
+	</xsd:simpleType>
+	
+	<!-- **************************************************************** -->
+	<xsd:simpleType name="usStateType">
+		<xsd:annotation>
+			<xsd:documentation>
+				This is contains all of the valid state codes
+			</xsd:documentation>
+		</xsd:annotation>
+		<xsd:restriction base="xsd:token">
+			<xsd:enumeration value="AL" />
+			<xsd:enumeration value="AK" />
+			<xsd:enumeration value="AZ" />
+			<xsd:enumeration value="AR" />
+			<xsd:enumeration value="CA" />
+			<xsd:enumeration value="CO" />
+			<xsd:enumeration value="CT" />
+			<xsd:enumeration value="DE" />
+			<xsd:enumeration value="DC" />
+			<xsd:enumeration value="FL" />
+			<xsd:enumeration value="GA" />
+			<xsd:enumeration value="HI" />
+			<xsd:enumeration value="ID" />
+			<xsd:enumeration value="IL" />
+			<xsd:enumeration value="IN" />
+			<xsd:enumeration value="IA" />
+			<xsd:enumeration value="KS" />
+			<xsd:enumeration value="KY" />
+			<xsd:enumeration value="LA" />
+			<xsd:enumeration value="ME" />
+			<xsd:enumeration value="MD" />
+			<xsd:enumeration value="MA" />
+			<xsd:enumeration value="MI" />
+			<xsd:enumeration value="MN" />
+			<xsd:enumeration value="MS" />
+			<xsd:enumeration value="MO" />
+			<xsd:enumeration value="MT" />
+			<xsd:enumeration value="NE" />
+			<xsd:enumeration value="NV" />
+			<xsd:enumeration value="NH" />
+			<xsd:enumeration value="NJ" />
+			<xsd:enumeration value="NM" />
+			<xsd:enumeration value="NY" />
+			<xsd:enumeration value="NC" />
+			<xsd:enumeration value="ND" />
+			<xsd:enumeration value="OH" />
+			<xsd:enumeration value="OK" />
+			<xsd:enumeration value="OR" />
+			<xsd:enumeration value="PA" />
+			<xsd:enumeration value="RI" />
+			<xsd:enumeration value="SC" />
+			<xsd:enumeration value="SD" />
+			<xsd:enumeration value="TN" />
+			<xsd:enumeration value="TX" />
+			<xsd:enumeration value="UT" />
+			<xsd:enumeration value="VT" />
+			<xsd:enumeration value="VA" />
+			<xsd:enumeration value="WA" />
+			<xsd:enumeration value="WV" />
+			<xsd:enumeration value="WI" />
+			<xsd:enumeration value="WY" />
+			<xsd:enumeration value="AS" />
+			<xsd:enumeration value="FM" />
+			<xsd:enumeration value="GU" />
+			<xsd:enumeration value="MH" />
+			<xsd:enumeration value="MP" />
+			<xsd:enumeration value="PW" />
+			<xsd:enumeration value="PR" />
+			<xsd:enumeration value="VI" />
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:schema>

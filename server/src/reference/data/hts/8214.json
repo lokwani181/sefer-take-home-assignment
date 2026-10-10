@@ -1,0 +1,146 @@
+[
+ {
+  "htsno": "8214",
+  "indent": "0",
+  "description": "Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, chopping or mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files); base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.10.00.00",
+  "indent": "1",
+  "description": "Paper knives, letter openers, erasing knives, pencil sharpeners (nonmechanical) and blades and other parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "0.3¢ each + 4.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.20",
+  "indent": "1",
+  "description": "Manicure or pedicure sets and instruments (including nail files), and parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.20.30.00",
+  "indent": "2",
+  "description": "Cuticle or cornknives, cuticle pushers, nail files, nailcleaners, nail nippers and clippers, all the foregoing used for manicure or pedicure purposes, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "4%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "60%",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Manicure and pedicure sets, and combinations thereof:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8214.20.60.00",
+  "indent": "3",
+  "description": "In leather containers",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.20.90.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "4.1%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.90",
+  "indent": "1",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "2",
+  "description": "Cleavers and the like not elsewhere specified or included:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8214.90.30.00",
+  "indent": "3",
+  "description": "Cleavers with their handles",
+  "units": [
+   "No."
+  ],
+  "general": "1¢ each + 4.9%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.90.60.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "0.2¢ each + 3.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "8¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8214.90.90.00",
+  "indent": "2",
+  "description": "Other (including parts)",
+  "units": [
+   "No."
+  ],
+  "general": "1.4¢ each + 3.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20¢ each + 45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8215",
+  "indent": "0",
+  "description": "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware; and base metal parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]

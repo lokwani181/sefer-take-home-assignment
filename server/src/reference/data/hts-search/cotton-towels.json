@@ -1,0 +1,5515 @@
+[
+ {
+  "htsno": "1207.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Seed",
+  "units": [
+   "kg"
+  ],
+  "general": "0.47¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "0.73¢/kg",
+  "footnotes": []
+ },
+ {
+  "htsno": "1404.20.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Cotton linters",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "2306.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of cotton seeds",
+  "units": [
+   "kg"
+  ],
+  "general": "0.56¢/kg",
+  "special": "Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",
+  "other": "0.7¢/kg",
+  "footnotes": []
+ },
+ {
+  "htsno": "3921.90.21.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Products with textile components in which cotton predominates by weight over any other single textile fiber",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "6.5%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.12.40.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "6.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 4.9% (E)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.12.89.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.12.89.60",
+  "statisticalSuffix": "60",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.22.40.20",
+  "statisticalSuffix": "20",
+  "indent": "7",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   " <u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.22.45.00",
+  "statisticalSuffix": "00",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "6.3%",
+  "special": "Free (A,AU,BH,CL,CO, D,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 4.9% (E)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.22.89.30",
+  "statisticalSuffix": "30",
+  "indent": "7",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.32.40.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "6.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 4.9% (E)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.32.91.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "17.6%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 16.6% (E)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.08.05",
+  "statisticalSuffix": "05",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.15.00",
+  "statisticalSuffix": "00",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "6.3%",
+  "special": "Free (A,AU,BH,CL,CO,D,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 4.9% (E)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.33",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Of paper yarn or of cotton; containing 85 percent or more by weight of silk or silk waste",
+  "general": "17.6%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 16.6% (E)",
+  "other": "65%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.33.16",
+  "statisticalSuffix": "16",
+  "indent": "6",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4202.92.60",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of cotton",
+  "general": "6.3%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR, MA,NP,OM,P,PA,PE,S,SG) 4.9% (E)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4706.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Cotton linters pulp",
+  "units": [
+   "t adw"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.20.40.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.55.70.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.56.70.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Containing by weight <il>25 percent</il> or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.58.60.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Containing by weight <il>25 percent</il> or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.61.60.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4802.62.61.20",
+  "statisticalSuffix": "20",
+  "indent": "5",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4803.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibers, whether or not creped, crinkled, embossed, perforated, surface-colored, surface decorated or printed, in rolls or sheets:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4810.13.70.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4810.14.70.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4810.22.70.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4810.29.70.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Containing by weight 25 percent or more cotton fiber",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "4818",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibers, of a kind used for household or sanitary purposes, in rolls of a width not exceeding <il>36 cm</il>, or cut to size or shape; handkerchiefs, cleansing tissues, towels, tablecloths, table napkins, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibers:",
+  "footnotes": []
+ },
+ {
+  "htsno": "4818.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Handkerchiefs, cleansing or facial tissues and towels",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "4818.20.00.20",
+  "statisticalSuffix": "20",
+  "indent": "2",
+  "description": "Towels",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5007.10.60.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of yarns of different colors (218)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5007.90.60.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of yarns of different colors (218)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5112.90.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Mixed mainly or solely with cotton (410)",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5201.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton, not carded or combed:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "desc"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.52.00 through 9903.52.26 and 9904.52.01 through 9904.52.34."
+   }
+  ]
+ },
+ {
+  "htsno": "5201.00.24.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions",
+  "units": [
+   "kg"
+  ],
+  "general": "4.4¢/kg",
+  "special": "Free (A+,BH,CL,CO,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "15.4¢/kg",
+  "footnotes": []
+ },
+ {
+  "htsno": "5202",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton waste (including yarn waste and garnetted stock):",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "desc"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.52.00 through 9903.52.26 and 9904.52.35 through 9904.52.50."
+   }
+  ]
+ },
+ {
+  "htsno": "5202.99.05.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "5203.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton, carded or combed:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "desc"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.52.00 through 9903.52.26 and 9904.52.35 through 9904.52.50."
+   }
+  ]
+ },
+ {
+  "htsno": "5203.00.05.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Described in general note 15 of the tariff schedule and entered pursuant to its provisions",
+  "units": [
+   "kg"
+  ],
+  "general": "5%",
+  "special": "Free (A+,AU,BH,CL,CO,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5204",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton sewing thread, whether or not put up for retail sale:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5204.11.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Containing 85 percent or more by weight of cotton (200)",
+  "units": [
+   "kg"
+  ],
+  "general": "4.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "25.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5205",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton yarn (other than sewing thread), containing 85 percent or more by weight of cotton, not put up for retail sale:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5206",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton yarn (other than sewing thread), containing less than 85 percent by weight of cotton, not put up for retail sale:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5207",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Cotton yarn (other than sewing thread) put up for retail sale:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5207.10.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Containing 85 percent or more by weight of cotton (200)",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "25.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5208",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing 85 percent or more by weight of cotton, weighing not more than 200 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5209",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing 85 percent or more by weight of cotton, weighing more than 200 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5210",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing less than 85 percent by weight of cotton, mixed mainly or solely with man-made fibers, weighing not more than 200 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5211",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing less than 85 percent by weight of cotton, mixed mainly or solely with man-made fibers, weighing more than 200 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5212",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Other woven fabrics of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5309.21.30",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Containing cotton and man-made fibers",
+  "general": "6.9%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "78%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5309.21.30.05",
+  "statisticalSuffix": "05",
+  "indent": "6",
+  "description": "Poplin or broadcloth (314)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5309.29.30",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Containing cotton and man-made fibers",
+  "general": "Free",
+  "special": "",
+  "other": "78%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5309.29.30.05",
+  "statisticalSuffix": "05",
+  "indent": "6",
+  "description": "Poplin or broadcloth (314)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5311.00.30",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Containing cotton and man-made fibers",
+  "general": "Free",
+  "special": "",
+  "other": "78%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5311.00.30.05",
+  "statisticalSuffix": "05",
+  "indent": "5",
+  "description": "Poplin or broadcloth (314)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5407.81.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Unbleached or bleached",
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5509.53.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Mixed mainly or solely with cotton",
+  "general": "13.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5509.62.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Mixed mainly or solely with cotton (607)",
+  "units": [
+   "kg"
+  ],
+  "general": "12%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5509.92.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Mixed mainly or solely with cotton (607)",
+  "units": [
+   "kg"
+  ],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5510.30.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Other yarn, mixed mainly or solely with cotton (607)",
+  "units": [
+   "kg"
+  ],
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5513",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of synthetic staple fibers, containing less than 85 percent by weight of such fibers, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5514",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of synthetic staple fibers, containing less than 85 percent by weight of such fibers, mixed mainly or solely with cotton, of a weight exceeding 170 g/m²:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5516.41.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Unbleached or bleached",
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "81%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5601.21.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "3.6%",
+  "special": "Free (AU,B,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5607.50.25.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "3-ply or 4-ply multicolored twine having a final \"S\" twist, containing at least 10 percent by weight of cotton, measuring less than 3.5 mm in diameter (201)",
+  "units": [
+   "kg"
+  ],
+  "general": "7%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "76.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5608.90.23.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Hammocks",
+  "units": [
+   "kg"
+  ],
+  "general": "14.1%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5609.00.10.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "2.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5609.00.20.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of vegetable fibers, except cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5701.90.10.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5701.90.20.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5702.10.90.20",
+  "statisticalSuffix": "20",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5702.39.20.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5702.49.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton",
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5702.50.56.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "6.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5702.99.05.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Woven, but not made on a power-driven loom (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "6.8%",
+  "special": "Free (A*,AU,BH,CL,CO,D,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5705.00.20.20",
+  "statisticalSuffix": "20",
+  "indent": "2",
+  "description": "Of cotton (369)",
+  "units": [
+   "m<sup>2</sup>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5801.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Uncut weft pile fabrics (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "20.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5801.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of vegetable fibers, except cotton (810)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "3.7%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Terry toweling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Terry toweling and similar woven terry fabrics, of cotton:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Terry toweling and similar woven terry fabrics, of other textile materials",
+  "general": "14%",
+  "special": "Free (AU,BH,CL, CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "79.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5802.30.00.30",
+  "statisticalSuffix": "30",
+  "indent": "2",
+  "description": "Of cotton; of man-made fibers (224)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5803.00.10.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of cotton (220)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "41.75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5803.00.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of vegetable fibers, except cotton (810)",
+  "units": [
+   "m²",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5804.10.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton or man-made fibers (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5804.29.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5804.30.00.20",
+  "statisticalSuffix": "20",
+  "indent": "2",
+  "description": "Of cotton; of man-made fibers (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5805.00.30.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (369)",
+  "units": [
+   "m²",
+   "<u>kg</u>"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Woven pile fabrics (including terry toweling and similar terry fabrics) and chenille fabrics:",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.10.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "7.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "62.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.31.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "8.8%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5806.39.20.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of vegetable fibers, except cotton (899)",
+  "units": [
+   "kg"
+  ],
+  "general": "4.9%",
+  "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.10.05",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton or man-made fibers",
+  "general": "7.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "71.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.10.05.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.10.20.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.90.05",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton or man-made fibers",
+  "general": "7.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "71.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.90.05.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5807.90.20.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5808.10.40.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton or man-made fibers (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "3.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5808.10.70.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton or man-made fibers (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "7.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5808.90.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of cotton; of man-made fibers (229)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "5810.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "See additional U.S. note 1",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "See additional U.S. note 1",
+  "footnotes": []
+ },
+ {
+  "htsno": "5811.00.20.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of cotton (229)",
+  "units": [
+   "m²",
+   "<u>kg</u>"
+  ],
+  "general": "6.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5903.10.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "2.7%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5903.20.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "2.7%",
+  "special": "Free (AU,BH,CL,CO,E*,IL,JO,KR, MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5903.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "2.7%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5906.91.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "2.7%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5906.99.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "2.7%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "5907.00.80.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of vegetable fibers, except cotton (810)",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6001.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (224)",
+  "units": [
+   "m<sup>2</sup>",
+   "kg"
+  ],
+  "general": "9.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6001.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "18.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "70%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6002.40.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "8.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6002.90.40.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "8.8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "35%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6003.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6005.21.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Unbleached or bleached (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "10%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6006.21",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Unbleached or bleached:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6006.21.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Circular knit, wholly of cotton yarns exceeding <il>100 metric</il> number per single yarn (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "10%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6006.22.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Circular knit, wholly of cotton yarns exceeding <il>100 metric</il> number per single yarn (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "10%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6006.23.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Circular knit, wholly of cotton yarns exceeding <il>100 metric</il> number per single yarn (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "10%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6006.24.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Circular knit, wholly of cotton yarns exceeding <il>100 metric</il> number per single yarn (222)",
+  "units": [
+   "kg"
+  ],
+  "general": "10%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6101.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "15.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6101.90.90.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Subject to cotton restraints (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6102.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "15.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "50%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6102.90.90.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.10.60",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton",
+  "general": "9.4%",
+  "special": "Free (AU,BH, CL,CO, IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.10.90.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Jackets imported as parts of suits (333)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.22.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "The rate applicable to each garment in the ensemble if separately entered",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "The rate applicable to each garment in the ensemble if separately entered",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.29.20.58",
+  "statisticalSuffix": "58",
+  "indent": "5",
+  "description": "Subject to cotton restraints (345)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.32.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (333)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "13.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.39.80.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (333)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.42",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.49.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6103.49.80.34",
+  "statisticalSuffix": "34",
+  "indent": "5",
+  "description": "Subject to cotton restraints (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.19.60",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton",
+  "general": "9.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.19.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Jackets imported as parts of suits (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.22.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "The rate applicable to each garment in the ensemble if separately entered",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "The rate applicable to each garment in the ensemble if separately entered",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.22",
+  "statisticalSuffix": "22",
+  "indent": "5",
+  "description": "Subject to cotton restraints (342)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.34",
+  "statisticalSuffix": "34",
+  "indent": "5",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.49",
+  "statisticalSuffix": "49",
+  "indent": "5",
+  "description": "Subject to cotton restraints (339)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.65",
+  "statisticalSuffix": "65",
+  "indent": "5",
+  "description": "Subject to cotton restraints (345)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.29.20.81",
+  "statisticalSuffix": "81",
+  "indent": "5",
+  "description": "Subject to cotton restraints (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.32.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "14.9%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.39.20.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.42.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "11.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.49.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (336)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.52.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.59.80.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (342)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.62",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.69.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6104.69.80.22",
+  "statisticalSuffix": "22",
+  "indent": "5",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "19.7%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6105.90.80.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Subject to cotton restraints (338)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6106.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "19.7%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6106.90.25.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (339)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6106.90.30.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Subject to cotton restraints (339)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6107.11.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "7.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6107.21.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6107.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.7%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6108.19.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (352)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6108.21.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "7.6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6108.31.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6108.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.5%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6109.10.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "16.5%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6110.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6110.90.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (345)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6110.90.90.26",
+  "statisticalSuffix": "26",
+  "indent": "4",
+  "description": "Subject to cotton restraints (345)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6110.90.90.44",
+  "statisticalSuffix": "44",
+  "indent": "5",
+  "description": "Men's or boys' (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6110.90.90.67",
+  "statisticalSuffix": "67",
+  "indent": "6",
+  "description": "Knit to shape articles described in statistical note 6 to this chapter (338)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6111.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6112.11.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6112.20.20.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6112.39.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6112.49.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6113.00.90.15",
+  "statisticalSuffix": "15",
+  "indent": "4",
+  "description": "Men's or boys' (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6113.00.90.38",
+  "statisticalSuffix": "38",
+  "indent": "4",
+  "description": "Men's or boys' (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6113.00.90.55",
+  "statisticalSuffix": "55",
+  "indent": "4",
+  "description": "Men's or boys' (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6113.00.90.74",
+  "statisticalSuffix": "74",
+  "indent": "4",
+  "description": "Men's or boys' (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6114.20.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton",
+  "general": "10.8%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6114.90.90.45",
+  "statisticalSuffix": "45",
+  "indent": "4",
+  "description": "Subject to cotton restraints (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6115.10.15.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6115.10.30.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (332)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "kg"
+  ],
+  "general": "13.5%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "51%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6115.29.80.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6115.95",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.17.20",
+  "statisticalSuffix": "20",
+  "indent": "7",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.48.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.55",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof",
+  "general": "13.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO, KR,MA,OM, P,PA,PE,S,SG) 10.7% (E)",
+  "other": "75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.55.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "<il>doz. prs</il>.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.75",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Containing 50 percent or more by weight of cotton, man-made fibers or other textile fibers, or any combination thereof",
+  "general": "13.2%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.10.75.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.92",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6116.99.95.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "<il>doz. prs.</il>",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.10.60.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.80.87.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.80.95.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.90.90.03",
+  "statisticalSuffix": "03",
+  "indent": "4",
+  "description": "Of cotton (345)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.90.90.20",
+  "statisticalSuffix": "20",
+  "indent": "4",
+  "description": "Of cotton (339)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.90.90.40",
+  "statisticalSuffix": "40",
+  "indent": "4",
+  "description": "Of cotton (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.90.90.60",
+  "statisticalSuffix": "60",
+  "indent": "4",
+  "description": "Of cotton (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6117.90.90.80",
+  "statisticalSuffix": "80",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6201.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6201.90.29.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6201.90.49.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6201.90.69.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6202.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6202.90.29.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6202.90.49.11",
+  "statisticalSuffix": "11",
+  "indent": "5",
+  "description": "Subject to cotton restraints (335) ",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6202.90.69.11",
+  "statisticalSuffix": "11",
+  "indent": "5",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.19.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton",
+  "general": "13.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.19.90.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Jackets imported as parts of suits (333)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.22",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.32",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.39.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (333)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.42",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.49.09.20",
+  "statisticalSuffix": "20",
+  "indent": "7",
+  "description": "Subject to cotton restraints (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6203.49.90.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Subject to cotton restraints (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.12.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "14.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.19.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Jackets imported as parts of suits (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.22",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.29.40.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.29.40.22",
+  "statisticalSuffix": "22",
+  "indent": "5",
+  "description": "Subject to cotton restraints (342)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.29.40.34",
+  "statisticalSuffix": "34",
+  "indent": "5",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.29.40.70",
+  "statisticalSuffix": "70",
+  "indent": "5",
+  "description": "Subject to cotton restraints (341)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.29.40.82",
+  "statisticalSuffix": "82",
+  "indent": "5",
+  "description": "Subject to cotton restraints (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.32",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.39.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.42",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.49.50.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (336)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.52",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.59.40.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (342)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.62",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.69.05.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.69.06.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.69.65.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6204.69.80.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Subject to cotton restraints (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6205.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6205.90.30.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Subject to cotton restraints (340)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6205.90.40.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Subject to cotton restraints (340)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6206.10.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Subject to cotton restraints (341)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6206.30",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6206.90.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Subject to cotton restraints (341)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6207.11.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (352)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "6.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "37.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6207.21.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6207.91",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6208.19.20.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (352)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "11.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6208.21.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "8.9%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6208.91",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6209.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.11.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Men's (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.12.80.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Women's (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.04.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Of cotton (353)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.04.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Of cotton (354)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Of cotton (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.20",
+  "statisticalSuffix": "20",
+  "indent": "6",
+  "description": "Of cotton (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.30",
+  "statisticalSuffix": "30",
+  "indent": "6",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.40",
+  "statisticalSuffix": "40",
+  "indent": "6",
+  "description": "Of cotton (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.50",
+  "statisticalSuffix": "50",
+  "indent": "6",
+  "description": "Of cotton (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.15.60",
+  "statisticalSuffix": "60",
+  "indent": "6",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.28.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Of cotton (334)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.38.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Of cotton (347)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.48.15",
+  "statisticalSuffix": "15",
+  "indent": "7",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.58.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Of cotton (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.68.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Of cotton (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.20.78.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.32",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6211.42",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6212.10.50.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (349)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6212.10.90.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (349)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6212.20.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of cotton (349)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6212.30.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of cotton (349)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6212.90.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of cotton or cotton and rubber or plastics (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6213.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6214.90.00.10",
+  "statisticalSuffix": "10",
+  "indent": "2",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6215.90.00.15",
+  "statisticalSuffix": "15",
+  "indent": "2",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.17.20",
+  "statisticalSuffix": "20",
+  "indent": "7",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "doz. prs.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.21.10",
+  "statisticalSuffix": "10",
+  "indent": "7",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "doz. prs.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.24",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Containing 50 per cent or more by weight of cotton, man-made fibers or any combination thereof",
+  "general": "13.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG) 10.7% (E)",
+  "other": "75%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.24.10",
+  "statisticalSuffix": "10",
+  "indent": "6",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "doz. prs.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.29",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Containing 50 percent or more by weight of cotton, man-made fibers or any combi- nation thereof",
+  "general": "13%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM, P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.29.10",
+  "statisticalSuffix": "10",
+  "indent": "5",
+  "description": "Subject to cotton restraints (331)",
+  "units": [
+   "doz. prs.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6216.00.33.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Ice hockey and field hockey gloves",
+  "units": [
+   "doz. prs.",
+   "kg"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6217.10.95.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6217.90.90.03",
+  "statisticalSuffix": "03",
+  "indent": "4",
+  "description": "Of cotton (341)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6217.90.90.25",
+  "statisticalSuffix": "25",
+  "indent": "4",
+  "description": "Of cotton (335)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6217.90.90.50",
+  "statisticalSuffix": "50",
+  "indent": "4",
+  "description": "Of cotton (348)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6217.90.90.75",
+  "statisticalSuffix": "75",
+  "indent": "4",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6301.30.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Blankets (other than electric blankets) and traveling rugs, of cotton",
+  "general": "8.4%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "6302.10.00.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "Pillowcases and bolster cases (362)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.21",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.31",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.40.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of vegetable fibers (except cotton) (899)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "6.4%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.40.20.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.51",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton:",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.60.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Toilet linen and kitchen linen, of terry toweling or similar terry fabrics, of cotton",
+  "general": "9.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.60.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Dish (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "9.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": [
+   {
+    "columns": [
+     "general"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9817.57.01. "
+   }
+  ]
+ },
+ {
+  "htsno": "6302.91.00.05",
+  "statisticalSuffix": "05",
+  "indent": "5",
+  "description": "Dish (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.91.00.35",
+  "statisticalSuffix": "35",
+  "indent": "5",
+  "description": "Jacquard figured (363)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6302.99.15.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Towels (863)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6303.19.11.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "10.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6303.91.00",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Of cotton",
+  "general": "10.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6304.11.10.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (362)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "12%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6304.19.05.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Containing any embroidery, lace, braid, edging, trimming, piping or applique work (362)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "12%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6304.20.00.20",
+  "statisticalSuffix": "20",
+  "indent": "2",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6304.91.01.20",
+  "statisticalSuffix": "20",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6304.92.00.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Not knitted or crocheted, of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "6.3%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": [
+   {
+    "columns": [
+     "general"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9817.57.01. "
+   }
+  ]
+ },
+ {
+  "htsno": "6304.99.25.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Wall hangings of jute",
+  "units": [
+   "kg"
+  ],
+  "general": "11.3%",
+  "special": "Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6305.20.00.00",
+  "statisticalSuffix": "00",
+  "indent": "1",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "6.2%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6306.19.11.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6306.29.11.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "8%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6306.40.41.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "3.7%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6306.90.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "3.5%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.10.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Dustcloths, mop cloths and polishing cloths, of cotton",
+  "general": "4.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P, PA,PE,S,SG)",
+  "other": "26.2%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.10.20.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.10.20.27",
+  "statisticalSuffix": "27",
+  "indent": "4",
+  "description": "Of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.30.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.40.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.50.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.60.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Perineal towels",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Surgical towels; cotton towels of pile or tufted construction; pillow shells, of cotton; shells for quilts, eiderdowns, comforters and similar articles of cotton",
+  "general": "7%",
+  "special": "Free (AU,B,BH, CL,CO,E*,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89.10",
+  "statisticalSuffix": "10",
+  "indent": "4",
+  "description": "Surgical towels (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89.40",
+  "statisticalSuffix": "40",
+  "indent": "4",
+  "description": "Cotton towels of pile or tufted construction (363)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89.45",
+  "statisticalSuffix": "45",
+  "indent": "4",
+  "description": "Pillow shells, of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89.50",
+  "statisticalSuffix": "50",
+  "indent": "5",
+  "description": "Sleeping bag shells",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.89.85",
+  "statisticalSuffix": "85",
+  "indent": "6",
+  "description": "Containing 85 percent or more by weight of cotton",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.98.82",
+  "statisticalSuffix": "82",
+  "indent": "5",
+  "description": "Other towels of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.98.84",
+  "statisticalSuffix": "84",
+  "indent": "5",
+  "description": "Other towels of man-made fibers (666)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6307.90.98.85",
+  "statisticalSuffix": "85",
+  "indent": "5",
+  "description": "Furniture movers' pads of cotton",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6310.10.20.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6406.10.72.00",
+  "statisticalSuffix": "00",
+  "indent": "5",
+  "description": "Uppers of which less than 50 percent of the external surface area (including any leather, rubber or plastics accessories or reinforcements such as those mentioned in note 4(a) to this chapter) is textile materials",
+  "units": [
+   "prs."
+  ],
+  "general": "11.2%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "62.9%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6406.10.90.20",
+  "statisticalSuffix": "20",
+  "indent": "7",
+  "description": "Of wool or fine animal hair (469)",
+  "units": [
+   "prs.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6406.90.15.50",
+  "statisticalSuffix": "50",
+  "indent": "6",
+  "description": "Of cotton (359)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6505.00.15",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Knitted",
+  "general": "7.9%",
+  "special": "Free (AU,BH, CL,CO,E*,IL,JO, KR,MA,NP,OM,P, PA,PE,S,SG)",
+  "other": "45%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6505.00.15.15",
+  "statisticalSuffix": "15",
+  "indent": "6",
+  "description": "For babies (239)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "6505.00.20",
+  "statisticalSuffix": "",
+  "indent": "5",
+  "description": "Certified hand-loomed and folklore products; and headwear of cotton",
+  "general": "7.5%",
+  "special": "Free (AU,BH, CL,CO,E*,IL, JO,KR,MA, NP,OM,P,PA,PE,S,SG)",
+  "other": "37.5%",
+  "footnotes": []
+ },
+ {
+  "htsno": "6505.00.25.45",
+  "statisticalSuffix": "45",
+  "indent": "6",
+  "description": "Visors, and other headgear of cotton which provides no covering for the crown of the head (359)",
+  "units": [
+   "doz.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8445.19.00.40",
+  "statisticalSuffix": "40",
+  "indent": "3",
+  "description": "Cotton gins",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8448.32.00.10",
+  "statisticalSuffix": "10",
+  "indent": "3",
+  "description": "Of cotton gins",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.50",
+  "statisticalSuffix": "",
+  "indent": "4",
+  "description": "Of textile material, except cotton",
+  "general": "Free",
+  "special": "",
+  "other": "80%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9403.99.90.51",
+  "statisticalSuffix": "51",
+  "indent": "6",
+  "description": "Of cotton, cut to shape",
+  "units": [
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404.29.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton",
+  "general": "3%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404.40.10.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (362)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "4.4%",
+  "special": "Free (AU,BH,CL,CO,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "9404.40.90.05",
+  "statisticalSuffix": "05",
+  "indent": "3",
+  "description": "With outer shell of cotton (362)",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404.90.10",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Of cotton (369)",
+  "units": [
+   "",
+   " "
+  ],
+  "general": "5.3%",
+  "special": "Free (AU,BH,CL, CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404.90.10.30",
+  "statisticalSuffix": "30",
+  "indent": "5",
+  "description": "Foam fill (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9404.90.81.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton, not containing any embroidery, lace, braid, edging, trimming, piping exceeding 6.35 mm or applique work (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "4.4%",
+  "special": "Free (AU,BH,CL, CO,E*,IL,JO,KR, MA,OM,P,PA, PE,S,SG)",
+  "other": "25%",
+  "footnotes": [
+   {
+    "columns": [
+     "other"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See 9903.90.08. "
+   }
+  ]
+ },
+ {
+  "htsno": "9404.90.96.05",
+  "statisticalSuffix": "05",
+  "indent": "4",
+  "description": "With outer shell of cotton (369)",
+  "units": [
+   "No.",
+   "<u>kg</u>"
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9506.99.08.00",
+  "statisticalSuffix": "00",
+  "indent": "4",
+  "description": "Nets of cotton",
+  "units": [
+   "No.",
+   "kg"
+  ],
+  "general": "2.8%",
+  "special": "Free (A+,AU,BH,CL,CO,D,E,IL, JO,KR,MA, OM,P,PA,PE,S,SG)",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Sanitary pads (towels) and tampons, diapers (napkins), diaper liners and similar articles, of any material:",
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.21.00",
+  "statisticalSuffix": "00",
+  "indent": "2",
+  "description": "Of cotton (369)",
+  "units": [
+   "kg"
+  ],
+  "general": "3.6%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "40%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.31.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of knitted or crocheted textile fabric (239)",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "8.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM, P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.61.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "10.8%",
+  "special": "Free (AU,BH,CL,CO,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9619.00.71.00",
+  "statisticalSuffix": "00",
+  "indent": "3",
+  "description": "Of cotton",
+  "units": [
+   "doz.",
+   "<u>kg</u>"
+  ],
+  "general": "8.1%",
+  "special": "Free (AU,BH, CL,CO,IL,JO,KR, MA,OM,P,PA, PE,S,SG)",
+  "other": "90%",
+  "footnotes": []
+ },
+ {
+  "htsno": "9822.02.02",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Imports from Chile, in an aggregate annual quantity not to exceed 1,000,000 SME, of cotton or man-made fiber fabric goods provided for in subdivision (a) of U.S. note 4 to this subchapter that are wholly formed in Chile from yarn produced or obtained outside the territory of Chile or of the United States or in subdivision (b) of U.S. note 4 to this subchapter that are wholly formed in Chile from yarn spun in the territory of Chile or of the United States from fiber produced or obtained outside the territory of Chile or of the United States",
+  "general": "",
+  "special": "Free (CL)",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See chapter 98 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9822.02.03",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Imports from Chile, in an aggregate annual quantity not to exceed 1,000,000 SME, of cotton or man-made fiber apparel goods or apparel goods subject to cotton or man-made fiber restraints provided for in U.S. note 5 to this subchapter that are both cut (or knit to shape) and sewn or otherwise assembled in Chile from fabric or yarn produced or obtained outside the territory of Chile or of the United States",
+  "general": "",
+  "special": "Free (CL)",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "endnote",
+    "value": "See chapter 98 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9823.52.01",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Cotton or man-made fiber apparel as provided in note 11(a)(I)(A) to this subchapter",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9823.52.04",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Cotton or man-made fiber fabrics and made up goods as provided in note 11(a)(ii):",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9823.52.07",
+  "statisticalSuffix": "",
+  "indent": "03",
+  "description": "Goods as provided for in note 11(a)(iii)(A)",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9823.53.01",
+  "statisticalSuffix": "",
+  "indent": "3",
+  "description": "Cotton or man-made fiber apparel as provided for in note 11(b)(I)(B)",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9823.53.03",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Cotton or man-made fiber fabrics and made-up goods as provided for in note 11(b)(ii):",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9823.53.06",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Non-originating cotton or man-made fiber spun yarn goods as provided for in note 11(b)(iii)",
+  "general": "",
+  "special": "Free (S+)",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "9902.11.57",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Industrial grade nitrocellulose, having a nitrogen content of less than 12.4 percent on a dry weight basis, damped with an alcohol content of 28 to 32 percent by weight (CAS No. 9004-70-0), presented in fiber drums each containing 85 kg, 100 kg, 110 kg or 120 kg of such nitrocellulose, certified by the importer as made from at least 50 percent cotton linter or wood pulp and as having each such drum lined with an antistatic plastic bag and equipped with a coupling for mechanical unloading (provided for in subheading 3912.20.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.11.58",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Industrial grade nitrocellulose, having a nitrogen content of less than 12.4 percent on a dry weight basis, damped with an alcohol content of 33 to 37 percent by weight (CAS No. 9004-70-0), presented in fiber drums each containing 85 kg, 100 kg, 110 kg or 120 kg of such nitrocellulose, the foregoing certified by the importer as made from at least 80 percent cotton linters, wood pulp and ethanol, with such fiber drums each lined with an antistatic plastic bag and equipped with a coupling for mechanical unloading (provided for in subheading 3912.20.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.37",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Doll diaper bags, with an outer surface of cotton textile material, each measuring not over 25 cm in width, 22 cm in height exclusive of handles and 10 cm in depth; such bags designed to hold and carry doll diapers and other doll-related accessories and having an attached flap designed to serve as a diaper changing mat for dolls (provided for in subheading 4202.92.15)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.83",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, bleached, of yarn numbers 43 to 68, put up in continuous rolls measuring 74 cm or more but not over 184 cm in width and 1640 m or more but not over 6500 m in length (provided for in subheading 5208.21.40)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.84",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing more than 50 percent but less than 85 percent by weight of cotton and containing polyester, bleached, pique weave, measuring 290 cm or greater in width (provided for in subheading 5211.20.29)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.12.85",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of cotton, containing over 50 percent but less than 85 percent by weight of cotton and containing polyester, dyed, pique weave, measuring 290 cm or greater in width (provided for in subheading 5211.39.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.13.41",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Woven fabrics of modal staple rayon fibers, containing over 50 percent but less than 85 percent by weight of such fibers, dyed, mixed mainly or solely with cotton, such fabrics weighing more than 270 g/m2 but not more than 340 g/m2, of yarns of number 42 or lower number, of a thread count of 150 to 160 per cm2, napped (provided for in subheading 5516.42.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.13.50",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Girls' knitted or crocheted coveralls or jumpsuits, of cotton (provided for in subheading 6114.20.00)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.13.57",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Men's or boys' jackets of woven cotton corduroy, less than mid-thigh in length, with long sleeves, with full or partial front opening (provided for in subheading 6201.92.45)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.13.91",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Made-up color swatches, of cotton, rectangular in shape and each measuring approximately 5.08 cm by 20.32 cm, with pinked edges, such swatches dyed using certified dye colors and each having a bar code to specify its color (provided for in 6307.90.98)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.62",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Hats and other headgear, knitted, or made up in the piece from lace, felt or other textile fabric (but not in strips), of cotton and containing 23 percent or more by weight of wool, the foregoing other than for babies and other than visors, or other headgear which provides no covering for the crown of the head (provided for in subheading 6505.00.15)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.14.63",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Hats and other headgear, knitted, or made up in the piece from lace, felt or other textile fabric (but not in strips), of cotton and containing less than 23 percent by weight of wool, the foregoing other than for babies, and other than visors, or other headgear that provides no covering for the crown of the head (provided for in subheading 6505.00.15)",
+  "units": [],
+  "general": "Free",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.45",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Pillows, cushions and similar furnishings of cotton, each measuring over 4,000 cm² (provided for in subheading 9404.90.10)",
+  "units": [],
+  "general": "3.1%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9902.17.46",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Pillows, cushions and similar furnishings, the foregoing of materials other than cotton, each measuring over 4,000 cm² (provided for in subheading 9404.90.20)",
+  "units": [],
+  "general": "5.3%",
+  "special": "No change",
+  "other": "No change",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.08.13",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Bed linen, other than knit or crocheted, printed, of cotton, other than containing any embroidery, lace, braid, edging, trimming, piping or applique work, not napped (provided for in subheading 6302.21.90)",
+  "units": [],
+  "general": "100%",
+  "special": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.00",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Limited Global Import Quota Announcement",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.01",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 1",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.02",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 2",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.03",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 3",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.04",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 4",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.05",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 5",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.06",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 6",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.07",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 7",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.08",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 8",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.09",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 9",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.10",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 10",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.11",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 11",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.12",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 12",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.13",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 13",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.14",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 14",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.15",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 15",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.16",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 16",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.17",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 17",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.18",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 18",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.19",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 19",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.20",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 20",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.21",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 21",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.22",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 22",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.23",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 23",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.24",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 24",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.25",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 25",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9903.52.26",
+  "statisticalSuffix": "",
+  "indent": "1",
+  "description": "Purchased and entered pursuant to the Secretary of Agriculture's Special Cotton Import Quota Announcement Number 26",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 2."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.01",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than 35¢/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.10",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than 10¢/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.17",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than 20¢/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.24",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than 50¢/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.35",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than $1.20/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9904.52.44",
+  "statisticalSuffix": "",
+  "indent": "2",
+  "description": "Valued less than 10¢/kg",
+  "units": [],
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": "See chapter 99 statistical note 1."
+   }
+  ]
+ },
+ {
+  "htsno": "9915.50.01",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Socks, stockings and other hosiery and footwear without applied soles, of cotton, knitted or crocheted (provided for in subheading 6115.95.60 or 6115.95.90, and including such goods eligible for entry under heading 9802.00.80 or 9822.05.10), the foregoing which are originating goods of Honduras under the terms of general note 29 to the tariff schedule and are entered during the period from July 1, 2008 through December 31, 2008, inclusive",
+  "general": "No change",
+  "special": "5% on the full value of the imported article",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ },
+ {
+  "htsno": "9915.61.01",
+  "statisticalSuffix": "",
+  "indent": "0",
+  "description": "Apparel goods of Nicaragua, of cotton or man-made fibers, or subject to cotton or man-made fiber restraints, the foregoing described in U.S. note 15(b) to this subchapter and imported into the customs territory of the United States in aggregate quantities not to exceed the quantities set forth in U.S. note 15(c) to this subchapter",
+  "general": "",
+  "special": "Free",
+  "other": "",
+  "footnotes": [
+   {
+    "columns": [
+     "stat",
+     "units"
+    ],
+    "marker": "1",
+    "type": "footnote",
+    "value": " See chapter 99 statistical note 1. "
+   }
+  ]
+ }
+]

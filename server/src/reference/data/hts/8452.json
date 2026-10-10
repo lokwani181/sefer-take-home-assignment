@@ -1,0 +1,202 @@
+[
+ {
+  "htsno": "8452",
+  "indent": "0",
+  "description": "Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.10.00",
+  "indent": "1",
+  "description": "Sewing machines of the household type",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.10.00.10",
+  "indent": "2",
+  "description": "Valued not over $20 each",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.10.00.90",
+  "indent": "2",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "",
+  "indent": "1",
+  "description": "Other sewing machines:",
+  "superior": "true",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": ""
+ },
+ {
+  "htsno": "8452.21",
+  "indent": "2",
+  "description": "Automatic units:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.21.10.00",
+  "indent": "3",
+  "description": "Specially designed to join footwear soles to uppers",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.21.90.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.29",
+  "indent": "2",
+  "description": "Other:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.29.10.00",
+  "indent": "3",
+  "description": "Specially designed to join footwear soles to uppers",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "Free",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.29.90.00",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.30.00.00",
+  "indent": "1",
+  "description": "Sewing machine needles",
+  "units": [
+   "thousands"
+  ],
+  "general": "Free",
+  "special": "",
+  "other": "42%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90",
+  "indent": "1",
+  "description": "Furniture, bases and covers for sewing machines, and parts thereof; other parts of sewing machines:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90.10.00",
+  "indent": "2",
+  "description": "Furniture, bases and covers for sewing machines, and parts thereof",
+  "units": [
+   "No."
+  ],
+  "general": "2.5%",
+  "special": "Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",
+  "other": "20%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90.20",
+  "indent": "2",
+  "description": "Other parts of sewing machines",
+  "units": [],
+  "general": "Free",
+  "special": "",
+  "other": "30%",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90.20.10",
+  "indent": "3",
+  "description": "Of household machines",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8452.90.20.90",
+  "indent": "3",
+  "description": "Other",
+  "units": [
+   "No."
+  ],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ },
+ {
+  "htsno": "8453",
+  "indent": "0",
+  "description": "Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines; parts thereof:",
+  "units": [],
+  "general": "",
+  "special": "",
+  "other": "",
+  "footnotes": []
+ }
+]
